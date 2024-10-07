@@ -1,0 +1,20 @@
+[
+  {
+    "name1": "Team A",
+    "photo1": "https://example.com/teamA.png",
+    "champ": "Championship",
+    "date": "WIN",
+    "name2": "Team B",
+    "photo2": "https://example.com/teamB.png",
+    "pro": "Pronostic Example"
+  },
+  {
+    "name1": "Team C",
+    "photo1": "https://example.com/teamC.png",
+    "champ": "Tournament",
+    "date": "LOSE",
+    "name2": "Team D",
+    "photo2": "https://example.com/teamD.png",
+    "pro": "Another Pronostic"
+  }
+]
