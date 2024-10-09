@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHB0wPWBx_soyb9hscyvxuQRIjh8Us3D9ROg&s",
-    "name1": "Falkirk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f8/Livingston_FC_club_badge_new.png",
-    "name2": "Livingston",
-    "champ": "Ecosse Championship",
-    "heure": "18H45",
-    "date": "08/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Botafogo_Futebol_Clube_%28SP%29.svg/1200px-Botafogo_Futebol_Clube_%28SP%29.svg.png",
+    "name1": "Botafogo SP",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Guarani_FC_%28E%29_-_SP.svg/175px-Guarani_FC_%28E%29_-_SP.svg.png",
+    "name2": "Guarani",
+    "champ": "Brasil Serie B",
+    "heure": "23H00",
+    "date": "09/10/2024",
+    "pro": "Nul dans une mi-temps"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
+    "name1": "Bayern W",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal W",
+    "champ": "LDC Womem",
+    "heure": "16H45",
+    "date": "09/10/2024",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "AS Roma W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo-VfL-Wolfsburg.svg/1200px-Logo-VfL-Wolfsburg.svg.png",
-    "name2": "Wolfsburg W",
-    "champ": "LDC Womem",
-    "heure": "16H45",
-    "date": "08/10/2024",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
-    "name1": "Celtic W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/FC_Twente.svg/1200px-FC_Twente.svg.png",
-    "name2": "Twente W",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+    "name1": "Man City W",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone W",
     "champ": "LDC Womem",
     "heure": "19H00",
-    "date": "08/10/2024",
-    "pro": "Total (2.5)"
+    "date": "09/10/2024",
+    "pro": "Total 2 (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea W",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name2": "Real W",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
+    "name1": "Valerenga  W",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
+    "name2": "Juventus W",
     "champ": "LDC Womem",
     "heure": "19H00",
-    "date": "08/10/2024",
-    "pro": "Handicap 2 (1.5)"
+    "date": "09/10/2024",
+    "pro": "Total 2 (1.5)"
   }
 ]
