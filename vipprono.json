@@ -1,42 +1,42 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Botafogo_Futebol_Clube_%28SP%29.svg/1200px-Botafogo_Futebol_Clube_%28SP%29.svg.png",
-    "name1": "Botafogo SP",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Guarani_FC_%28E%29_-_SP.svg/175px-Guarani_FC_%28E%29_-_SP.svg.png",
-    "name2": "Guarani",
-    "champ": "Brasil Serie B",
-    "heure": "23H00",
-    "date": "09/10/2024",
-    "pro": "Nul dans une mi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Flag_of_Venezuela_%28state%29.svg/1200px-Flag_of_Venezuela_%28state%29.svg.png",
+    "name1": "Venezuela",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+    "name2": "Argentine",
+    "champ": "Qualif CDM",
+    "heure": "21H00",
+    "date": "10/10/2024",
+    "pro": "Equipe 2 gagne une Mi-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name1": "Bayern W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal W",
-    "champ": "LDC Womem",
-    "heure": "16H45",
-    "date": "09/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/1280px-Flag_of_Bolivia_%28state%29.svg.png",
+    "name1": "Bolivie",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkEykUxRE925pjOTXd6s7Dy3e0QS9lbnFhw&s",
+    "name2": "Colombie",
+    "champ": "Qualif CDM",
+    "heure": "20H00",
+    "date": "10/10/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "name1": "Burkina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png",
+    "name2": "Burundi",
+    "champ": "CAN",
+    "heure": "19H00",
+    "date": "10/10/2024",
     "pro": "Total (1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
-    "name1": "Man City W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone W",
-    "champ": "LDC Womem",
-    "heure": "19H00",
-    "date": "09/10/2024",
-    "pro": "Total 2 (1.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name1": "Valerenga  W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
-    "name2": "Juventus W",
-    "champ": "LDC Womem",
-    "heure": "19H00",
-    "date": "09/10/2024",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/800px-Flag_of_the_United_Arab_Emirates.svg.png",
+    "name1": "Émirats Arabe Unis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/1200px-Flag_of_North_Korea.svg.png",
+    "name2": "Corée du Nord",
+    "champ": "Qualif CDM",
+    "heure": "16H00",
+    "date": "10/10/2024",
+    "pro": "1X et Total (1.5)"
   }
 ]
