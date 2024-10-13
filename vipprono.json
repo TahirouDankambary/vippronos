@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQytFsxFXrffBP7gGh8lql4HtWDiMaQ6jEF9Q&s",
-    "name1": "Cadiz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3sdOXDMRC_M0q1aLYX3GZg-2qxVqh2xAsUw&s",
-    "name2": "Malaga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1200px-Logo_SD_Huesca_2023.svg.png",
+    "name1": "Huesca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/37/Albacete_balompie.svg",
+    "name2": "Albacete",
     "champ": "Espagne D2",
-    "heure": "16H30",
-    "date": "12/10/2024",
-    "pro": "Handicap 2 (1.5)"
+    "heure": "12H00",
+    "date": "13/10/2024",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/46/SC_Telstar.png",
-    "name1": "Telstar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/VBV_De_Graafschap_Doetinchem.svg/800px-VBV_De_Graafschap_Doetinchem.svg.png",
-    "name2": "De Graafschap",
-    "champ": "Eerste Divisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Atletico Women",
+    "champ": "Espagne Women D1",
     "heure": "18H00",
-    "date": "12/10/2024",
-    "pro": "2X"
+    "date": "13/10/2024",
+    "pro": "Handicap 2 (2)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Notts_County_Logo.svg/800px-Notts_County_Logo.svg.png",
-    "name1": "Notts County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Chesterfield_FC_crest.svg/1200px-Chesterfield_FC_crest.svg.png",
-    "name2": "Chesterfield",
-    "champ": "Ligue Two",
-    "heure": "11H30",
-    "date": "12/10/2024",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f3/Logo_Barrow_AFC_-_2014.svg",
-    "name1": "Barrow",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Morecambe_FC_crest.svg/1200px-Morecambe_FC_crest.svg.png",
-    "name2": "Morecambe",
-    "champ": "Ligue Two",
-    "heure": "14H00",
-    "date": "12/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/1200px-AS_Roma_Logo_2017.svg.png",
+    "name2": "Roma",
+    "champ": "Serie A Women",
+    "heure": "13H30",
+    "date": "13/10/2024",
     "pro": "1X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/langfr-225px-Flag_of_Morocco.svg.png",
-    "name1": "Maroc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/2560px-Flag_of_the_Central_African_Republic.svg.png",
-    "name2": "Republique Centrafricaine",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+    "name2": "Man City Women",
+    "champ": "Women Super Ligue",
+    "heure": "14H00",
+    "date": "13/10/2024",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/1200px-Flag_of_Burundi.svg.png",
+    "name1": "Burundi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "name2": "Burkina Faso",
     "champ": "CAN",
-    "heure": "19H00",
-    "date": "12/10/2024",
-    "pro": "Total (2.5)"
+    "heure": "16H00",
+    "date": "13/10/2024",
+    "pro": "V2"
   }
 ]
