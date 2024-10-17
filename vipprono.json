@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282017%29.svg.png",
-    "name2": "Byern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+    "name1": "Wolfbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
+    "name2": "Lyon",
     "champ": "LDC Women",
     "heure": "16H45",
-    "date": "16/10/2024",
-    "pro": "1X"
+    "date": "17/10/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/7/7d/V%C3%A5lerenga_Oslo_logo.svg",
-    "name2": "Valerenga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/FC_Twente.svg/1200px-FC_Twente.svg.png",
+    "name1": "Twente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+    "name2": "Chelsea",
     "champ": "LDC Women",
     "heure": "19H00",
-    "date": "16/10/2024",
-    "pro": "Les deux Equipe Marque"
+    "date": "17/10/2024",
+    "pro": "V2 et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a9/FK_Igman_Konjic_%28crest%29.png",
-    "name1": "Igman",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/7/74/FK_Borac.png",
-    "name2": "Borac",
-    "champ": "Bosnie Championnat",
-    "heure": "12H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Shrewsbury_Town_F.C._logo.svg/1200px-Shrewsbury_Town_F.C._logo.svg.png",
+    "name1": "Shrewsbury",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_Exeter_City_FC_2016.svg/1200px-Logo_Exeter_City_FC_2016.svg.png",
+    "name2": "Exeter",
+    "champ": "Ligue One",
+    "heure": "19H00",
     "date": "16/10/2024",
     "pro": "2X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a2/H%C5%A0K_Zrinjski_Mostar.png",
-    "name1": "Zrinjski",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/60/Radnik_Bijeljina.png",
-    "name2": "Radnik",
-    "champ": "Bosnie Championnat",
-    "heure": "216H00",
-    "date": "16/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/1200px-FK_RFS_logo.svg.png",
+    "name1": "RFS",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/be/FK_Auda_logo.png",
+    "name2": "Auda",
+    "champ": "Letonie Virsliga",
+    "heure": "15H00",
+    "date": "17/10/2024",
     "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flag_of_New_Zealand.svg/800px-Flag_of_New_Zealand.svg.png",
-    "name1": "Nouvelle Zelande",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/800px-Flag_of_Nigeria.svg.png",
-    "name2": "Nigeria U17",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
+    "name1": "Corée Du Nord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
+    "name2": "Mexique U17",
     "champ": "CDM U17 Women",
     "heure": "20H00",
-    "date": "16/10/2024",
-    "pro": "V2"
+    "date": "17/10/2024",
+    "pro": "Total 1 (0.5)"
   }
 ]
