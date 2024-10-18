@@ -1,52 +1,52 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name1": "Wolfbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
-    "name2": "Lyon",
-    "champ": "LDC Women",
-    "heure": "16H45",
-    "date": "17/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Beerschot_Anvers.svg/1200px-Beerschot_Anvers.svg.png",
+    "name1": "Beerschot",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
+    "name2": "Anderlecht",
+    "champ": "Jupiler Ligue",
+    "heure": "18H45",
+    "date": "18/10/2024",
+    "pro": "2X et Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/ADO_Den_Haag_logo.svg/1200px-ADO_Den_Haag_logo.svg.png",
+    "name1": "ADO",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Roda_JC_Kerkrade_logo.svg/1200px-Roda_JC_Kerkrade_logo.svg.png",
+    "name2": "Roda",
+    "champ": "Eerste Divisie",
+    "heure": "18H00",
+    "date": "18/10/2024",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/FC_Twente.svg/1200px-FC_Twente.svg.png",
-    "name1": "Twente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
-    "name2": "Chelsea",
-    "champ": "LDC Women",
-    "heure": "19H00",
-    "date": "17/10/2024",
-    "pro": "V2 et Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Shrewsbury_Town_F.C._logo.svg/1200px-Shrewsbury_Town_F.C._logo.svg.png",
-    "name1": "Shrewsbury",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Logo_Exeter_City_FC_2016.svg/1200px-Logo_Exeter_City_FC_2016.svg.png",
-    "name2": "Exeter",
-    "champ": "Ligue One",
-    "heure": "19H00",
-    "date": "16/10/2024",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/1200px-FC_Den_Bosch_logo.svg.png",
+    "name1": "Den Bosch",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/SBV_Vitesse_logo.svg/1200px-SBV_Vitesse_logo.svg.png",
+    "name2": "Vitesse",
+    "champ": "Eerste Divisie",
+    "heure": "18H00",
+    "date": "18/10/2024",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/10/FK_RFS_logo.svg/1200px-FK_RFS_logo.svg.png",
-    "name1": "RFS",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/b/be/FK_Auda_logo.png",
-    "name2": "Auda",
-    "champ": "Letonie Virsliga",
-    "heure": "15H00",
-    "date": "17/10/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
+    "name1": "Jong Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_FC_Utrecht.svg",
+    "name2": "Jong Utrecht",
+    "champ": "Eerste Divisie",
+    "heure": "18H00",
+    "date": "18/10/2024",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
-    "name1": "Corée Du Nord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/2560px-Flag_of_Mexico.svg.png",
-    "name2": "Mexique U17",
-    "champ": "CDM U17 Women",
-    "heure": "20H00",
-    "date": "17/10/2024",
-    "pro": "Total 1 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
+    "name1": "Drogheda",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name2": "Shamrock",
+    "champ": "Irlande Championnat",
+    "heure": "18H45",
+    "date": "18/10/2024",
+    "pro": "2X"
   }
 ]
