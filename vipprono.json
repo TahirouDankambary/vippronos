@@ -1,52 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Beerschot_Anvers.svg/1200px-Beerschot_Anvers.svg.png",
-    "name1": "Beerschot",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "Anderlecht",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73VdOQMkEmHvJO7xadiIgn5Zh3Qdk3UKg6Q&s",
+    "name1": "Union Saint Gilloise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
+    "name2": "La Gantoise",
     "champ": "Jupiler Ligue",
     "heure": "18H45",
-    "date": "18/10/2024",
-    "pro": "2X et Total (1.5)"
+    "date": "19/10/2024",
+    "pro": "Handicap 2 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/ADO_Den_Haag_logo.svg/1200px-ADO_Den_Haag_logo.svg.png",
-    "name1": "ADO",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Roda_JC_Kerkrade_logo.svg/1200px-Roda_JC_Kerkrade_logo.svg.png",
-    "name2": "Roda",
-    "champ": "Eerste Divisie",
-    "heure": "18H00",
-    "date": "18/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AZlogo.png",
+    "name1": "AZ",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_psv_eindhoven.svg/1200px-Logo_psv_eindhoven.svg.png",
+    "name2": "PSV",
+    "champ": "EreDivisie",
+    "heure": "16H45",
+    "date": "19/10/2024",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/FC_Den_Bosch_logo.svg/1200px-FC_Den_Bosch_logo.svg.png",
-    "name1": "Den Bosch",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/SBV_Vitesse_logo.svg/1200px-SBV_Vitesse_logo.svg.png",
-    "name2": "Vitesse",
-    "champ": "Eerste Divisie",
-    "heure": "18H00",
-    "date": "18/10/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Go_Ahead_Eagles.svg/1200px-Go_Ahead_Eagles.svg.png",
+    "name1": "GA Eagles",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
+    "name2": "Feyenoord",
+    "champ": "EreDivisie",
+    "heure": "19H00",
+    "date": "19/10/2024",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name1": "Jong Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_FC_Utrecht.svg",
-    "name2": "Jong Utrecht",
-    "champ": "Eerste Divisie",
-    "heure": "18H00",
-    "date": "18/10/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/640px-Logo_Mainz_05.svg.png",
+    "name1": "Mainz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
+    "name2": "Leipzig",
+    "champ": "Bundesliga",
+    "heure": "13H30",
+    "date": "19/10/2024",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
-    "name1": "Drogheda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
-    "name2": "Shamrock",
-    "champ": "Irlande Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/1200px-Logo_Lazio.svg.png",
+    "name2": "Lazio",
+    "champ": "Serie A",
     "heure": "18H45",
-    "date": "18/10/2024",
+    "date": "19/10/2024",
+    "pro": "1X"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Premier Ligue",
+    "heure": "16H30",
+    "date": "19/10/2024",
     "pro": "2X"
   }
 ]
