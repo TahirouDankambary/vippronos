@@ -1,33 +1,33 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS73VdOQMkEmHvJO7xadiIgn5Zh3Qdk3UKg6Q&s",
-    "name1": "Union Saint Gilloise",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
-    "name2": "La Gantoise",
-    "champ": "Jupiler Ligue",
-    "heure": "18H45",
-    "date": "19/10/2024",
-    "pro": "Handicap 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/KilmarnockLogo.svg/1200px-KilmarnockLogo.svg.png",
+    "name1": "Kilmarnock",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
+    "name2": "Rangers",
+    "champ": "Ecosse Championship",
+    "heure": "11H00",
+    "date": "20/10/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AZlogo.png",
-    "name1": "AZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_psv_eindhoven.svg/1200px-Logo_psv_eindhoven.svg.png",
-    "name2": "PSV",
-    "champ": "EreDivisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/FK_Jablonec_logo.png/1200px-FK_Jablonec_logo.png",
+    "name1": "Jablonec",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Slavia_2024.svg/1200px-Logo_Slavia_2024.svg.png",
+    "name2": "Slavia Prague",
+    "champ": "Tchèque Championnat",
     "heure": "16H45",
-    "date": "19/10/2024",
-    "pro": "2X"
+    "date": "20/10/2024",
+    "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Go_Ahead_Eagles.svg/1200px-Go_Ahead_Eagles.svg.png",
-    "name1": "GA Eagles",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
-    "name2": "Feyenoord",
-    "champ": "EreDivisie",
-    "heure": "19H00",
-    "date": "19/10/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ValmieraFC-Logo.png",
+    "name1": "Valmiera",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/FK_Liepaja_%28logo%29.svg/800px-FK_Liepaja_%28logo%29.svg.png",
+    "name2": "Liepaja",
+    "champ": "Lettonie Championnat",
+    "heure": "11H00",
+    "date": "20/10/2024",
+    "pro": "1X et Total (1.5)"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/640px-Logo_Mainz_05.svg.png",
@@ -40,23 +40,23 @@
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/1200px-Logo_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
-    "heure": "18H45",
-    "date": "19/10/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NK_Bravo_logo.svg/1200px-NK_Bravo_logo.svg.png",
+    "name1": "NK Bravo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/NK_Maribor.svg/1200px-NK_Maribor.svg.png",
+    "name2": "NK Maribor",
+    "champ": "Slovenie Championnat",
+    "heure": "13H00",
+    "date": "20/10/2024",
+    "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
-    "name1": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Premier Ligue",
-    "heure": "16H30",
-    "date": "19/10/2024",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziOuptG5e9S2YzpR8EMsJeVM8bSDQstHIAg&s",
+    "name1": "Groningen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_FC_Utrecht.svg",
+    "name2": "Utrecht",
+    "champ": "Eredivisie",
+    "heure": "12H30",
+    "date": "20/10/2024",
     "pro": "2X"
   }
 ]
