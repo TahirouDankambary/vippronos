@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/KilmarnockLogo.svg/1200px-KilmarnockLogo.svg.png",
-    "name1": "Kilmarnock",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
-    "name2": "Rangers",
-    "champ": "Ecosse Championship",
-    "heure": "11H00",
-    "date": "20/10/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/FK_Jablonec_logo.png/1200px-FK_Jablonec_logo.png",
-    "name1": "Jablonec",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Slavia_2024.svg/1200px-Logo_Slavia_2024.svg.png",
-    "name2": "Slavia Prague",
-    "champ": "Tchèque Championnat",
-    "heure": "16H45",
-    "date": "20/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1200px-SK_Sturm_Graz_Logo.svg.png",
+    "name1": "Strum Graz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "name2": "Sporting",
+    "champ": "LDC",
+    "heure": "10H00",
+    "date": "22/10/2024",
     "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/9e/ValmieraFC-Logo.png",
-    "name1": "Valmiera",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/df/FK_Liepaja_%28logo%29.svg/800px-FK_Liepaja_%28logo%29.svg.png",
-    "name2": "Liepaja",
-    "champ": "Lettonie Championnat",
-    "heure": "11H00",
-    "date": "20/10/2024",
-    "pro": "1X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "22/10/2024",
+    "pro": "Handicap 2 (2.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_psv_eindhoven.svg/1200px-Logo_psv_eindhoven.svg.png",
+    "name2": "PSV",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "22/10/2024",
+    "pro": "Total 1 (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/640px-Logo_Mainz_05.svg.png",
-    "name1": "Mainz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name2": "Leipzig",
-    "champ": "Bundesliga",
-    "heure": "13H30",
-    "date": "19/10/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "22/10/2024",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bd/NK_Bravo_logo.svg/1200px-NK_Bravo_logo.svg.png",
-    "name1": "NK Bravo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/NK_Maribor.svg/1200px-NK_Maribor.svg.png",
-    "name2": "NK Maribor",
-    "champ": "Slovenie Championnat",
-    "heure": "13H00",
-    "date": "20/10/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/7/78/Slovan_Bratislava.png",
+    "name2": "Bratislava",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "22/10/2024",
+    "pro": "Total 2 (0.5)"
   },
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTziOuptG5e9S2YzpR8EMsJeVM8bSDQstHIAg&s",
-    "name1": "Groningen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Logo_FC_Utrecht.svg",
-    "name2": "Utrecht",
-    "champ": "Eredivisie",
-    "heure": "12H30",
-    "date": "20/10/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Club_Brugge_KV.svg",
+    "name2": "Club Bruges",
+    "champ": "LDC",
+    "heure": "16H45",
+    "date": "22/10/2024",
+    "pro": "Total 1 (1.5)"
   }
 ]
