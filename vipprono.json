@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
-    "name1": "Stade Brestois",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Leverkusen",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e3/FC_Twente.svg/1200px-FC_Twente.svg.png",
+    "name1": "Twente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/1200px-Logo_Lazio.svg.png",
+    "name2": "Lazio",
+    "champ": "Euriopa Ligue",
+    "heure": "19H00",
+    "date": "24/10/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
+    "name1": "Fenerbahce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
+    "name2": "Man United",
+    "champ": "Europa Ligue",
+    "heure": "19H00",
+    "date": "24/10/2024",
+    "pro": "2x"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_Malm%C3%B6_FF.svg/1200px-Logo_Malm%C3%B6_FF.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name2": "Olympiacos",
+    "champ": "Europa Ligue",
+    "heure": "19H00",
+    "date": "24/10/2024",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Djurg%C3%A5rdens_IF_%28logo%29.svg/1200px-Djurg%C3%A5rdens_IF_%28logo%29.svg.png",
+    "name1": "Djurgårdens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
+    "name2": "Vitoria",
+    "champ": "Conférence Ligue",
     "heure": "16H45",
-    "date": "23/10/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atletico",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_LOSC_Lille_2018.svg",
-    "name2": "Lille",
-    "champ": "LDC",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_psv_eindhoven.svg/1200px-Logo_psv_eindhoven.svg.png",
-    "name2": "PSV",
-    "champ": "LDC",
-    "heure": "19H00",
-    "date": "22/10/2024",
-    "pro": "Total 1 (1.5)"
+    "date": "24/10/2024",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "LDC",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "Total 1 (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
-    "name1": "Young Boys",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/800px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "LDC",
-    "heure": "19H00",
-    "date": "23/10/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FC_St._Gallen_logo.svg/1024px-FC_St._Gallen_logo.svg.png",
+    "name1": "St.Gallen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_ACF_Fiorentina_-_2022.svg/1200px-Logo_ACF_Fiorentina_-_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Conférence Liguz",
+    "heure": "16H45",
+    "date": "24/10/2024",
+    "pro": "Equipe 2 gagne une Mi-temps"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name1": "Braga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/FK_Bodo_Glimt_logo.svg/1200px-FK_Bodo_Glimt_logo.svg.png",
-    "name2": "Bodo-Glimt",
-    "champ": "Europa Ligue",
-    "heure": "14H30",
-    "date": "23/10/2024",
-    "pro": "Aumoins une Equipe Marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
+    "name1": "La Gantoise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1200px-Molde_Fotball_Logo.svg.png",
+    "name2": "Molde",
+    "champ": "Conférence Ligue",
+    "heure": "16H45",
+    "date": "24/10/2024",
+    "pro": "1X"
   }
 ]
