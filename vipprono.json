@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png",
-    "name2": "Sevilla",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143926%21Logo_Real_Madrid.svg",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "LA Liga",
     "heure": "19H00",
-    "date": "25/10/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/ce/Udinese_Calcio_logo.svg",
-    "name1": "Udinese",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name2": "Cagliari",
-    "champ": "Serie A",
-    "heure": "16H30",
-    "date": "25/10/2024",
-    "pro": "Total 1 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_Malm%C3%B6_FF.svg/1200px-Logo_Malm%C3%B6_FF.svg.png",
-    "name1": "Malmo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name2": "Olympiacos",
-    "champ": "Serie A",
-    "heure": "18H45",
-    "date": "25/10/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name1": "Shelbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
-    "name2": "Drogheda",
-    "champ": "Irlande Championnat",
-    "heure": "18H45",
-    "date": "25/10/2024",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSe2kbM3vLZqpN_Xqz0JmgTF-_6B7SRXjusw&s",
-    "name1": "Al Kholood",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_Al-Nassr.png",
-    "name2": "Al Nassr",
-    "champ": "Saudi Pro Ligue",
-    "heure": "15H05",
-    "date": "25/10/2024",
+    "date": "26/10/2024",
     "pro": "V2"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name1": "CFR Cluj",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/ACS_Sepsi_OSK_Sfantu_Gheorghe_%28logo%29.svg/1455px-ACS_Sepsi_OSK_Sfantu_Gheorghe_%28logo%29.svg.png",
-    "name2": "Sepsi",
-    "champ": "Roumanie SuperLiga",
-    "heure": "18H00",
-    "date": "25/10/2024",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
+    "name2": "Southampton",
+    "champ": "Premier Ligue",
+    "heure": "14H00",
+    "date": "26/10/2024",
+    "pro": "V1 et Total 1 (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_Brighton_Hove_Albion_2011.svg/1200px-Logo_Brighton_Hove_Albion_2011.svg.png",
+    "name1": "Brighton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Wolverhampton_Wanderers.svg/1200px-Wolverhampton_Wanderers.svg.png",
+    "name2": "Wolverhampton",
+    "champ": "Premier Ligue",
+    "heure": "14H00",
+    "date": "26/10/2024",
+    "pro": "1X et Total (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Logo_Aston_VIlla_FC_2016.svg/1200px-Logo_Aston_VIlla_FC_2016.svg.png",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+    "name2": "Bournemouth",
+    "champ": "Premier Ligue",
+    "heure": "14HOO",
+    "date": "26/10/2024",
     "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/800px-US_Sassuolo_Calcio_logo.svg.png",
+    "name1": "Sassuolo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Modena_FC_Logo.png/130px-Modena_FC_Logo.png",
+    "name2": "Modena",
+    "champ": "Serie B",
+    "heure": "15H15",
+    "date": "26/10/2024",
+    "pro": "1X"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cf/N%C5%A0Mura.png",
+    "name1": "Mura",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/NK_Maribor.svg/1200px-NK_Maribor.svg.png",
+    "name2": "Maribor",
+    "champ": "Slovenie Championnat",
+    "heure": "18H15",
+    "date": "26/10/2024",
+    "pro": "2X"
   }
 ]
