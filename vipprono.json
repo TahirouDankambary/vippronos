@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIm1DSxW2QDxHQSV-_AFabc2qhnw0fPb5t_Q&s",
-    "name2": "Tottenham",
-    "champ": "Premier Ligue",
-    "heure": "14H00",
-    "date": "27/10/2024",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3eMzFy90IWleEzGFMricLrzlBhdBrqkuUg&s",
+    "name1": "Randers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/FC_Nordsj%C3%A6lland_logo.svg/1200px-FC_Nordsj%C3%A6lland_logo.svg.png",
+    "name2": "Nordsjaelland",
+    "champ": "Danemark Championnat",
+    "heure": "18H00",
+    "date": "28/10/2024",
+    "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/183px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
-    "name1": "Estrela de Amadora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name2": "Vitoria",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMs6a0AxaAQ-B8M45t7QT1CoClctYocpmH1Q&s",
+    "name1": "Aves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name2": "Porto",
     "champ": "Portugal Premier Ligue",
-    "heure": "20H30",
-    "date": "27/10/2024",
-    "pro": "2X"
+    "heure": "20H15",
+    "date": "28/10/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/92/FC_Utrecht.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
-    "name2": "Feyenoord",
-    "champ": "Eredivisie",
-    "heure": "11H15",
-    "date": "27/10/2024",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/640px-PFC_Ludogorets_Razgrad.png",
+    "name1": "Ludogorets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
+    "name2": "CSKA 1948",
+    "champ": "Bulgarie Championnat",
+    "heure": "16H00",
+    "date": "28/10/2024",
+    "pro": "3 but d'afflilé (Non)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
-    "name1": "Viktoria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/640px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "Sparta Prague",
-    "champ": "Tcheque Championnat",
-    "heure": "17H30",
-    "date": "27/10/2024",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/81/FK_METTA.png",
+    "name1": "Metta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Rigas_FS_Logo.png",
+    "name2": "Rigas Futbola",
+    "champ": "Lrttonie Championnat",
+    "heure": "16H30",
+    "date": "28/10/2024",
+    "pro": "Total 2 (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2b/Gy%C5%91ri_ETO_FC_%28logo%29.svg/1200px-Gy%C5%91ri_ETO_FC_%28logo%29.svg.png",
-    "name1": "Gyor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/1200px-Ferencvarosi_TC.svg.png",
-    "name2": "Ferencvarosi",
-    "champ": "Hongrie Championnat",
-    "heure": "16H45",
-    "date": "27/10/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FC_Farul_Constanta_%28logo%29.svg/800px-FC_Farul_Constanta_%28logo%29.svg.png",
+    "name1": "Farul Constanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/1200px-CS_Universitatea_Craiova_logo.svg.png",
+    "name2": "Universitatea Craiova",
+    "champ": "Roumanie Championnat",
+    "heure": "16H30",
+    "date": "28/10/2024",
+    "pro": "12"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Newcastle_United.svg/1200px-Logo_Newcastle_United.svg.png",
-    "name2": "Newcastle",
-    "champ": "Premier Ligue",
-    "heure": "14H00",
-    "date": "27/10/2024",
-    "pro": "Equipe 1 Gagne une Mi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d4/FC_Boto%C8%99ani_logo.png",
+    "name1": "Botosani",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/96/Universitatea_Cluj_logo.png",
+    "name2": "Universitatea Cluj",
+    "champ": "Roumanie Championnat",
+    "heure": "16H00",
+    "date": "28/10/2024",
+    "pro": "2X"
   }
 ]
