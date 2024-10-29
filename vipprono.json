@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm3eMzFy90IWleEzGFMricLrzlBhdBrqkuUg&s",
-    "name1": "Randers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/FC_Nordsj%C3%A6lland_logo.svg/1200px-FC_Nordsj%C3%A6lland_logo.svg.png",
-    "name2": "Nordsjaelland",
-    "champ": "Danemark Championnat",
-    "heure": "18H00",
-    "date": "28/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_SS_Juve_Stabia_2024.svg/1200px-Logo_SS_Juve_Stabia_2024.svg.png",
+    "name1": "Juve Stabia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/800px-US_Sassuolo_Calcio_logo.svg.png",
+    "name2": "Sassuolo",
+    "champ": "Serie B",
+    "heure": "19H30",
+    "date": "29/10/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6f/Dunfermline_Athletic.svg",
+    "name1": "Dunfermline",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f8/Livingston_FC_club_badge_new.png",
+    "name2": "Livingston",
+    "champ": "Ecosse Championship",
+    "heure": "19H45",
+    "date": "29/10/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/PX_Logo.png/1200px-PX_Logo.png",
+    "name1": "Patro Eisden",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/1200px-Sporting_de_Charleroi_%28logo%29.svg.png",
+    "name2": "Charleroi",
+    "champ": "Belgique Coupe",
+    "heure": "19H00",
+    "date": "29/10/2024",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/FC_Arge%C8%99_Pite%C8%99ti_%28logo%29.svg/1200px-FC_Arge%C8%99_Pite%C8%99ti_%28logo%29.svg.png",
+    "name1": "Agres Pitesti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name2": "CFR Cluj",
+    "champ": "Roumanie Coupe",
+    "heure": "19H00",
+    "date": "29/10/2024",
     "pro": "2X et Total (1.5)"
   },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMs6a0AxaAQ-B8M45t7QT1CoClctYocpmH1Q&s",
-    "name1": "Aves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name2": "Porto",
-    "champ": "Portugal Premier Ligue",
-    "heure": "20H15",
-    "date": "28/10/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/PFC_Ludogorets_Razgrad.png/640px-PFC_Ludogorets_Razgrad.png",
-    "name1": "Ludogorets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
-    "name2": "CSKA 1948",
-    "champ": "Bulgarie Championnat",
-    "heure": "16H00",
-    "date": "28/10/2024",
-    "pro": "3 but d'afflilé (Non)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/81/FK_METTA.png",
-    "name1": "Metta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Rigas_FS_Logo.png",
-    "name2": "Rigas Futbola",
-    "champ": "Lrttonie Championnat",
-    "heure": "16H30",
-    "date": "28/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/09/FC_Dobrudzha_Dobrich_2018_emblem.png",
+    "name1": "Dobrudzha Dobrich",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKk8OAzA1zCM62LNbwHOCxOU72Iu3KBDHOA&s",
+    "name2": "CSKA Sofia",
+    "champ": "Bulgarie Coupe",
+    "heure": "11H30",
+    "date": "29/10/2024",
     "pro": "Total 2 (1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FC_Farul_Constanta_%28logo%29.svg/800px-FC_Farul_Constanta_%28logo%29.svg.png",
-    "name1": "Farul Constanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/1200px-CS_Universitatea_Craiova_logo.svg.png",
-    "name2": "Universitatea Craiova",
-    "champ": "Roumanie Championnat",
-    "heure": "16H30",
-    "date": "28/10/2024",
-    "pro": "12"
-  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d4/FC_Boto%C8%99ani_logo.png",
-    "name1": "Botosani",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/96/Universitatea_Cluj_logo.png",
-    "name2": "Universitatea Cluj",
-    "champ": "Roumanie Championnat",
-    "heure": "16H00",
-    "date": "28/10/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/MSK_Zilina_%28logo%29.svg/1200px-MSK_Zilina_%28logo%29.svg.png",
+    "name1": "MSK Zilina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b7/MFK_Ruzomberok_%28logo%29.svg",
+    "name2": "Ruzomberok",
+    "champ": "Slovaquie Championnat",
+    "heure": "17H00",
+    "date": "29/10/2024",
+    "pro": "1X et Total (1.5)"
   }
 ]
