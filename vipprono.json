@@ -1,13 +1,13 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_SS_Juve_Stabia_2024.svg/1200px-Logo_SS_Juve_Stabia_2024.svg.png",
-    "name1": "Juve Stabia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/800px-US_Sassuolo_Calcio_logo.svg.png",
-    "name2": "Sassuolo",
-    "champ": "Serie B",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/66/Logo_Empoli_FC_-_2022.svg",
+    "name1": "Empoli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/2048px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
     "heure": "19H30",
-    "date": "29/10/2024",
-    "pro": "2X"
+    "date": "30/10/2024",
+    "pro": "V2"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/6f/Dunfermline_Athletic.svg",
@@ -20,43 +20,43 @@
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/PX_Logo.png/1200px-PX_Logo.png",
-    "name1": "Patro Eisden",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/1200px-Sporting_de_Charleroi_%28logo%29.svg.png",
-    "name2": "Charleroi",
-    "champ": "Belgique Coupe",
-    "heure": "19H00",
-    "date": "29/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8c/Logo_Brighton_Hove_Albion_2011.svg/1200px-Logo_Brighton_Hove_Albion_2011.svg.png",
+    "name1": "Brighton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name2": "Liverpool",
+    "champ": "Coupe de La Ligue",
+    "heure": "19H30",
+    "date": "30/10/2024",
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/FC_Arge%C8%99_Pite%C8%99ti_%28logo%29.svg/1200px-FC_Arge%C8%99_Pite%C8%99ti_%28logo%29.svg.png",
-    "name1": "Agres Pitesti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Roumanie Coupe",
-    "heure": "19H00",
-    "date": "29/10/2024",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
+    "name2": "Ajax",
+    "champ": "Eredivisie",
+    "heure": "17H00",
+    "date": "30/10/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/09/FC_Dobrudzha_Dobrich_2018_emblem.png",
-    "name1": "Dobrudzha Dobrich",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKk8OAzA1zCM62LNbwHOCxOU72Iu3KBDHOA&s",
-    "name2": "CSKA Sofia",
-    "champ": "Bulgarie Coupe",
-    "heure": "11H30",
-    "date": "29/10/2024",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/FC_Aberdeen.svg/1200px-FC_Aberdeen.svg.png",
+    "name1": "Aberdeen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/1200px-Rangers_FC.svg.png",
+    "name2": "Rangers",
+    "champ": "Ecosse Championnat",
+    "heure": "20H00",
+    "date": "30/10/2024",
+    "pro": "V2"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/MSK_Zilina_%28logo%29.svg/1200px-MSK_Zilina_%28logo%29.svg.png",
-    "name1": "MSK Zilina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b7/MFK_Ruzomberok_%28logo%29.svg",
-    "name2": "Ruzomberok",
-    "champ": "Slovaquie Championnat",
-    "heure": "17H00",
-    "date": "29/10/2024",
-    "pro": "1X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/pt/0/08/FC_Dinamo_Bucuresti_logo.png",
+    "name1": "Dinamo Bucuresti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
+    "name2": "FCSB",
+    "champ": "Roumanie Coupe",
+    "heure": "19H00",
+    "date": "30/10/2024",
+    "pro": "2X"
   }
 ]
