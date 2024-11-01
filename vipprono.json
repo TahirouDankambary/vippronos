@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/1200px-Logo_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Alaves",
+    "photo2": "https://w7.pngwing.com/pngs/278/385/png-transparent-rcd-mallorca-la-liga-majorca-football-player-nba-team-logo-football-player-spain-thumbnail.png",
+    "name2": "Majorque",
+    "champ": "La Liga",
+    "heure": "20H00",
+    "date": "01/11/2024",
+    "pro": "Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b3/Turan_Tovuz_logo.png",
+    "name1": "Turan Tovuz",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLn-Vqb-q_L9yinznsF7jfqUuoqY8z8SFuDQ&s",
+    "name2": "Qarabag",
+    "champ": "Azerbaijan Championnat",
+    "heure": "14H30",
+    "date": "01/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
+    "name1": "Luton Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/1200px-West_Bromwich_Albion.svg.png",
+    "name2": "West Bromwich",
+    "champ": "Angleterre Championship",
+    "heure": "20H00",
+    "date": "01/11/2024",
+    "pro": "Total (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/55/KVC-Westerlo.png",
+    "name1": "Westerlo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/FCVDEH.png/640px-FCVDEH.png",
+    "name2": "Dender EH",
+    "champ": "Jupiler Ligue",
     "heure": "19H45",
-    "date": "31/10/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/36/Logo_ACF_Fiorentina_-_2022.svg/1200px-Logo_ACF_Fiorentina_-_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Serie A",
-    "heure": "17H30",
-    "date": "31/10/2024",
-    "pro": "2X et Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name1": "Braga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name2": "Vitoria",
-    "champ": "Portugal Coupe",
-    "heure": "18H45",
-    "date": "31/10/2024",
+    "date": "01/11/2024",
     "pro": "Au Moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/AS_Roma_Logo_2017.svg/1200px-AS_Roma_Logo_2017.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
-    "name2": "Torino",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "31/10/2024",
-    "pro": "Handicap 2 (1.5))"
-  },
-    {
-    "photo1": "https://i.namu.wiki/i/i2OpborWbtrh3MLH6BWl-WyJPLHyX-98VLtFSUenvH5MzHtQwdgBcjZXHtuEiu20cq-stASAiCo_mvJdi0s7mQ.webp",
-    "name1": "Modern Sport",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/22/ENPPI_Club_Logo.png",
-    "name2": "ENPPI",
-    "champ": "Egypte Championnat",
-    "heure": "17H00",
-    "date": "31/10/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1882px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "01/11/2024",
     "pro": "1X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
-    "name2": "Moreirense",
-    "champ": "Portugal Coupe",
-    "heure": "20H45",
-    "date": "31/10/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_LOSC_Lille_2018.svg",
+    "name1": "Lille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
+    "name2": "Lyon",
+    "champ": "Ligue 1",
+    "heure": "20H00",
+    "date": "01/11/2024",
+    "pro": "3 but d'affilé (Non)"
   }
 ]
