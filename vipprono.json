@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
-    "name1": "Alaves",
-    "photo2": "https://w7.pngwing.com/pngs/278/385/png-transparent-rcd-mallorca-la-liga-majorca-football-player-nba-team-logo-football-player-spain-thumbnail.png",
-    "name2": "Majorque",
-    "champ": "La Liga",
-    "heure": "20H00",
-    "date": "01/11/2024",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+    "name2": "Man City",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "02/11/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/b/b3/Turan_Tovuz_logo.png",
-    "name1": "Turan Tovuz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLn-Vqb-q_L9yinznsF7jfqUuoqY8z8SFuDQ&s",
-    "name2": "Qarabag",
-    "champ": "Azerbaijan Championnat",
-    "heure": "14H30",
-    "date": "01/11/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Newcastle_United.svg/1200px-Logo_Newcastle_United.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Premier Ligue",
+    "heure": "12H30",
+    "date": "02/11/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
-    "name1": "Luton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8b/West_Bromwich_Albion.svg/1200px-West_Bromwich_Albion.svg.png",
-    "name2": "West Bromwich",
-    "champ": "Angleterre Championship",
-    "heure": "20H00",
-    "date": "01/11/2024",
-    "pro": "Total (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/55/KVC-Westerlo.png",
-    "name1": "Westerlo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fe/FCVDEH.png/640px-FCVDEH.png",
-    "name2": "Dender EH",
-    "champ": "Jupiler Ligue",
-    "heure": "19H45",
-    "date": "01/11/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Leverkusen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1882px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "01/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name2": "Lecce",
+    "champ": "Serie A",
+    "heure": "14H00",
+    "date": "02/11/2024",
     "pro": "1X"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
+    "name1": "Udinesse",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbleEApr-WCEn1C4kB80G_478R4P4ZK0WfvA&s",
+    "name2": "Juventus",
+    "champ": "Serie A",
+    "heure": "17H00",
+    "date": "02/11/2024",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name1": "Monza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "02/11/2024",
+    "pro": "2X"
+  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/62/Logo_LOSC_Lille_2018.svg",
-    "name1": "Lille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
-    "name2": "Lyon",
-    "champ": "Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/cd/AZlogo.png",
+    "name2": "AZ",
+    "champ": "Eredivisie",
     "heure": "20H00",
-    "date": "01/11/2024",
-    "pro": "3 but d'affilé (Non)"
+    "date": "02/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
   }
 ]
