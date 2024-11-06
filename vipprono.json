@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0d/Logo_psv_eindhoven.svg/1200px-Logo_psv_eindhoven.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gérone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
+    "name1": "Clulb Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/67/Logo_Aston_VIlla_FC_2016.svg/1200px-Logo_Aston_VIlla_FC_2016.svg.png",
+    "name2": "Aston Villa",
     "champ": "LDC",
     "heure": "17H45",
-    "date": "05/11/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "date": "06/11/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1200px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
-    "name2": "Dinamo Zagreb",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/FC_Shakhtar_Donetsk_%28logo%29.svg/1297px-FC_Shakhtar_Donetsk_%28logo%29.svg.png",
+    "name1": "Chakhtar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
+    "name2": "Yong Boys",
     "champ": "LDC",
     "heure": "17H45",
-    "date": "05/11/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png",
-    "name2": "AS Monaco",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "05/11/2024",
+    "date": "06/11/2024",
     "pro": "1X"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
-    "name1": "Celtic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name2": "Leipzig",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
+    "name1": "Sparta Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
+    "name2": "Stade Brestois",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "05/11/2024",
-    "pro": "2X"
+    "date": "06/11/2024",
+    "pro": "Au moins une Equipe marque (1/5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1200px-Logo_LOSC_Lille_2018.svg.png",
-    "name1": "Lille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
-    "name2": "Juventus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "05/11/2024",
-    "pro": "2X"
+    "date": "06/11/2024",
+    "pro": "V2 et Total 2 (1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXlBEYlHuxbyBNykxIvMBg2tsjHgZYCjiXQ&s",
+    "name1": "Feyenoord",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMB8VQWzfJWQmbY4M_j5jpL40cSwt_bZCtjw&s",
+    "name2": "Salzburg",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "06/11/2024",
+    "pro": "Au Moins une Equipe marque (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
-    "name2": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name2": "Atlanta",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "05/11/2024",
+    "date": "06/11/2024",
     "pro": "2X et Total (1.5)"
   }
 ]
