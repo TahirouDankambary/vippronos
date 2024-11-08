@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
-    "name1": "Ludogorets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name2": "Athletic Bilbao",
-    "champ": "Europa Ligue",
-    "heure": "17H45",
-    "date": "07/11/2024",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
+    "name1": "Sint-Truidense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d3/KV_Mechelen_%28logo%29.svg",
+    "name2": "Mechelen",
+    "champ": "Belqique. Jupiler Ligue",
+    "heure": "19H45",
+    "date": "08/11/2024",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Rigas_FS_Logo.png",
-    "name1": "Rigas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "Anderlecht",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "07/11/2024",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
-    "name1": "Plzen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_i_RYZ1bC_ehZE7ynV1BQFNW0JBj5aXVQ1g&s",
-    "name2": "Real Sociedad",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "07/11/2024",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5f/Logo_apoel-nicosia.png",
-    "name1": "APOEL",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/3/36/Logo_ACF_Fiorentina_-_2022.svg",
-    "name2": "Fiorentina",
-    "champ": "Conference Ligue",
-    "heure": "20H00",
-    "date": "07/11/2024",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
-    "name1": "Vitoria Guimaraes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKK3OuIMfoEqkhSo9NrGPQjEYFTwhaoHLOMg&s",
-    "name2": "Mlada Bolslav",
-    "champ": "Conference Ligue",
-    "heure": "20H00",
-    "date": "07/11/2024",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgLJPSRIwjrEzE3WPLJxy-I27xUjUn1CvTTA&s",
+    "name1": "Kasimpasa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Kayserispor_%28logo%29.svg/640px-Kayserispor_%28logo%29.svg.png",
+    "name2": "Kayserispor",
+    "champ": "Turquie. Super Lig",
+    "heure": "17H00",
+    "date": "08/11/2024",
     "pro": "V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z2Rt7f_ULew4adrVF4Z-mTBBSEi3bpav_Q&s",
+    "name1": "Watford",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1s3-4k-lvcX01655qSmExPDTqHQJs2Co1g&s",
+    "name2": "Oxford",
+    "champ": "Angleterre. Championship",
+    "heure": "20H00",
+    "date": "08/11/2024",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Zheng_Qinwen_%282023_US_Open%29_01_%28cropped%29.jpg/280px-Zheng_Qinwen_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "name1": "Qinwen Zheng",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/90/Barbora_Krej%C4%8D%C3%ADkov%C3%A1_%282023_US_Open%29_03_%28cropped%29.jpg",
+    "name2": "Barbora",
+    "champ": "Tennis. WTA",
+    "heure": "15H00",
+    "date": "08/11/2024",
+    "pro": "Total: (+19.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sabalenka_WM18_%283%29_%2830063199288%29.jpg/200px-Sabalenka_WM18_%283%29_%2830063199288%29.jpg",
+    "name1": "Aryna Sabalenka",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/de/Gauff_WMQ19_%2824%29.jpg",
+    "name2": "Cori Gauff",
+    "champ": "Tennis. WTA",
+    "heure": "16H30",
+    "date": "08/11/2024",
+    "pro": "Total: (+20.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
-    "name1": "Real Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
-    "name2": "Celje",
-    "champ": "Conference Ligue",
-    "heure": "20H00",
-    "date": "07/11/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c9/Barnsley_FC.svg/800px-Barnsley_FC.svg.png",
+    "name1": "Barnsley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c0/Rotherham_United_FC.svg",
+    "name2": "Rotherham united",
+    "champ": "Angleterre. Ligue 1",
+    "heure": "19H15",
+    "date": "08/11/2024",
+    "pro": "12"
   }
 ]
