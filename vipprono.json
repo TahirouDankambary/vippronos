@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
-    "name1": "Real Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_RC_Celta_Vigo.svg/1200px-Logo_RC_Celta_Vigo.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "La Liga",
-    "heure": "13H00",
-    "date": "10/11/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/ASC_Otelul_Galati_%28logo%29.svg/2048px-ASC_Otelul_Galati_%28logo%29.svg.png",
+    "name1": "Otelul Galati",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name2": "CFR Cluj",
+    "champ": "Roumanie Championnat",
+    "heure": "19H00",
+    "date": "11/11/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
-    "name1": "Majorque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atletico",
-    "champ": "La Liga",
-    "heure": "15H15",
-    "date": "10H00/11/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name1": "Monza",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_Lazio.svg/1200px-Logo_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
-    "heure": "17H00",
-    "date": "10/11/2024",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/86/Almere_City_FC_logo.PNG",
-    "name1": "Almere City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/00/Logo_Sportclub_Feyenoord.png",
-    "name2": "Feyenoord",
-    "champ": "Eredivisie",
-    "heure": "11H15",
-    "date": "10/11/2024",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1200px-FC_Dynamo_Kyiv_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/44/Polissia_Jytomyr_logo_%282024%29.svg/1200px-Polissia_Jytomyr_logo_%282024%29.svg.png",
-    "name2": "Polissaya",
-    "champ": "Ukraine Championnat",
-    "heure": "17H00",
-    "date": "10/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/77/FC_Metaloglobus_Bucure%C8%99ti_logo2.png",
+    "name1": "Metaloglobus Bucuresti",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Steaua_Bucure%C8%99ti.svg/1200px-Steaua_Bucure%C8%99ti.svg.png",
+    "name2": "CSA Steaua",
+    "champ": "Roumanie Ligue 2",
+    "heure": "12H00",
+    "date": "11/11/2024",
     "pro": "Total (1.5)"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/Kecskem%C3%A9ti_TE.svg/1200px-Kecskem%C3%A9ti_TE.svg.png",
-    "name1": "Kecskemeti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Ferencv%C3%A1rosiTClog%C3%B3.png",
-    "name2": "Ferencvarosie",
-    "champ": "Hongrie Championnat",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/FC_Ballkani.svg/1892px-FC_Ballkani.svg.png",
+    "name1": "Balkani",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/FC_Malisheva.svg/1200px-FC_Malisheva.svg.png",
+    "name2": "Malisheva",
+    "champ": "Kosovo Championnat",
+    "heure": "12H00",
+    "date": "11/11/2024",
+    "pro": "Total 1 (0.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5a/Hobro_IK_logo.svg",
+    "name1": "Hobro",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2s5doPU5e6FilJr4uvzFvXkUbAwiWoolaEA&s",
+    "name2": "Hilerod",
+    "champ": "Danemark D2",
+    "heure": "18H00",
+    "date": "11/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/7/74/20200906190702%21FK_Borac.png",
+    "name1": "Borac Banja",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4F0DS8ngJZgZhnNSHfVjvAddNS-1jq7Q5cg&s",
+    "name2": "NK Igman",
+    "champ": "Bosnie Championnat",
     "heure": "17H00",
-    "date": "10/11/2024",
-    "pro": "V2"
+    "date": "11/11/2024",
+    "pro": "Total 1 (1.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Deportivo_La_Coruna.svg/1200px-Deportivo_La_Coruna.svg.png",
+    "name1": "Deportivo Coruna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/SD_Eibar_logo.svg/1200px-SD_Eibar_logo.svg.png",
+    "name2": "Eibar",
+    "champ": "Espagne D2",
+    "heure": "19H30",
+    "date": "11/11/2024",
+    "pro": "Nul dans une Mi-temps"
   }
 ]
