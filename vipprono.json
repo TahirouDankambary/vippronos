@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/ASC_Otelul_Galati_%28logo%29.svg/2048px-ASC_Otelul_Galati_%28logo%29.svg.png",
-    "name1": "Otelul Galati",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Roumanie Championnat",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bMEXNe96-XeAN1xBbo2H1fCpKNjunSE8dA&s",
+    "name1": "Barrow",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/1200px-Aston_Villa_FC_new_crest.svg.png",
+    "name2": "Aston Villa U21",
+    "champ": "Angleterre Ligue Trophy",
     "heure": "19H00",
-    "date": "11/11/2024",
-    "pro": "2X"
+    "date": "12/11/2024",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/77/FC_Metaloglobus_Bucure%C8%99ti_logo2.png",
-    "name1": "Metaloglobus Bucuresti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Steaua_Bucure%C8%99ti.svg/1200px-Steaua_Bucure%C8%99ti.svg.png",
-    "name2": "CSA Steaua",
-    "champ": "Roumanie Ligue 2",
-    "heure": "12H00",
-    "date": "11/11/2024",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Notts_County_Logo.svg/1200px-Notts_County_Logo.svg.png",
+    "name1": "Notts County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
+    "name2": "Leicester U21",
+    "champ": "Angleterre Ligue Trophy",
+    "heure": "19H00",
+    "date": "12/11/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/FC_Ballkani.svg/1892px-FC_Ballkani.svg.png",
-    "name1": "Balkani",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/FC_Malisheva.svg/1200px-FC_Malisheva.svg.png",
-    "name2": "Malisheva",
-    "champ": "Kosovo Championnat",
-    "heure": "12H00",
-    "date": "11/11/2024",
-    "pro": "Total 1 (0.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/5/5a/Hobro_IK_logo.svg",
-    "name1": "Hobro",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2s5doPU5e6FilJr4uvzFvXkUbAwiWoolaEA&s",
-    "name2": "Hilerod",
-    "champ": "Danemark D2",
-    "heure": "18H00",
-    "date": "11/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Stockport_County_FC_logo_2020.svg/1200px-Stockport_County_FC_logo_2020.svg.png",
+    "name1": "Stockport",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/55/Tranmere_Rovers_FC_crest.svg/640px-Tranmere_Rovers_FC_crest.svg.png",
+    "name2": "Tranmere Rovers",
+    "champ": "Angleterre Ligue Trophy",
+    "heure": "19H00",
+    "date": "12/11/2024",
     "pro": "Au moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/7/74/20200906190702%21FK_Borac.png",
-    "name1": "Borac Banja",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4F0DS8ngJZgZhnNSHfVjvAddNS-1jq7Q5cg&s",
-    "name2": "NK Igman",
-    "champ": "Bosnie Championnat",
-    "heure": "17H00",
-    "date": "11/11/2024",
-    "pro": "Total 1 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Walsall_FC.svg/1200px-Walsall_FC.svg.png",
+    "name1": "Walsall",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_Shrewsbury_Town_FC_2015.svg/1200px-Logo_Shrewsbury_Town_FC_2015.svg.png",
+    "name2": "Shrewsbury",
+    "champ": "Angleterre Ligue Trophy",
+    "heure": "19H00",
+    "date": "12/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/1200px-Bolton_Wanderers_FC_logo.svg.png",
+    "name1": "Bolton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Fleetwood_Town_FC_2010.svg/1200px-Logo_Fleetwood_Town_FC_2010.svg.png",
+    "name2": "Fleetwood",
+    "champ": "Angleterre Ligue Trophy",
+    "heure": "19H45",
+    "date": "12/11/2024",
+    "pro": "1X et Total (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Deportivo_La_Coruna.svg/1200px-Deportivo_La_Coruna.svg.png",
-    "name1": "Deportivo Coruna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/SD_Eibar_logo.svg/1200px-SD_Eibar_logo.svg.png",
-    "name2": "Eibar",
-    "champ": "Espagne D2",
-    "heure": "19H30",
-    "date": "11/11/2024",
-    "pro": "Nul dans une Mi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Port_Vale_logo.svg/1200px-Port_Vale_logo.svg.png",
+    "name1": "Port Vale",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
+    "name2": "Wrexham",
+    "champ": "Angleterre Ligue Trophy",
+    "heure": "19H45",
+    "date": "12/11/2024",
+    "pro": "2X"
   }
 ]
