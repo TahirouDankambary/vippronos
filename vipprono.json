@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png",
-    "name1": "Pays de Galles U19",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-225px-Flag_of_Scotland.svg.png",
-    "name2": "Ecosse U19",
-    "champ": "Qualif Championnat d'Europe U19",
-    "heure": "15H00",
-    "date": "13/11/2024",
-    "pro": "Total 1 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/2560px-Flag_of_Senegal.svg.png",
+    "name1": "Senegal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/2560px-Flag_of_Burkina_Faso.svg.png",
+    "name2": "Burkina Faso",
+    "champ": "CAN",
+    "heure": "19H00",
+    "date": "14/11/2024",
+    "pro": "Total Corner (9.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/Logo_F%C3%A9d%C3%A9ration_Bulgarie_Football.svg/1200px-Logo_F%C3%A9d%C3%A9ration_Bulgarie_Football.svg.png",
-    "name1": "Bulgarie U19",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/langfr-225px-Flag_of_Belgium_%28civil%29.svg.png",
-    "name2": "Belgique U19",
-    "champ": "Qualif Championnat d'Europe U19",
-    "heure": "12H30",
-    "date": "13/11/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/1200px-Flag_of_Slovenia.svg.png",
-    "name1": "Slovenie U19",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/langfr-225px-Flag_of_the_Netherlands.svg.png",
-    "name2": "Pays-Bas U19",
-    "champ": "Qualif Championnat d'Europe U19",
-    "heure": "18H00",
-    "date": "13/11/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
-    "name1": "Namibie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/1280px-Flag_of_Cameroon.svg.png",
-    "name2": "Cameroune",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/1200px-Flag_of_Equatorial_Guinea.svg.png",
+    "name1": "Guinée EquatorialE",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
+    "name2": "Algerie",
     "champ": "CAN",
     "heure": "13H00",
-    "date": "13/11/2024",
-    "pro": "Equipe 2 Gagne une mi-temps"
+    "date": "14/11/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Flag_of_Kazakhstan.svg/1200px-Flag_of_Kazakhstan.svg.png",
+    "name1": "Kazakhstan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Austria_%28state%29.svg/langfr-225px-Flag_of_Austria_%28state%29.svg.png",
+    "name2": "Autriche",
+    "champ": "Ligue des NAtions",
+    "heure": "15H00",
+    "date": "14/11/2024",
+    "pro": "V2"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ar/archive/9/9e/20231125184928%21FA_Liberia.png",
-    "name1": "Liberia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1280px-Flag_of_Togo.svg.png",
-    "name2": "Togo",
-    "champ": "CAN",
-    "heure": "16H00",
-    "date": "13/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Belgium_%28civil%29.svg/langfr-225px-Flag_of_Belgium_%28civil%29.svg.png",
+    "name1": "Belgique",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langfr-225px-Flag_of_Italy.svg.png",
+    "name2": "Italie",
+    "champ": "Ligue des NAtions",
+    "heure": "19H45",
+    "date": "14/11/2024",
+    "pro": "Total (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/2560px-Flag_of_Greece.svg.png",
+    "name1": "Grèce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
+    "name2": "Angleterre",
+    "champ": "Ligue des NAtions",
+    "heure": "19H45",
+    "date": "14/11/2024",
     "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "Roma W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Olympique_Lyonnais_-_2022.svg/1200px-Logo_Olympique_Lyonnais_-_2022.svg.png",
-    "name2": "Lyon W",
-    "champ": "LDC Women",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
+    "name1": "Slovenie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
+    "name2": "Norvège",
+    "champ": "Ligue des NAtions",
     "heure": "20H00",
-    "date": "13/11/2024",
-    "pro": "V2"
+    "date": "14/11/2024",
+    "pro": "Total 2 (0.5)"
   }
 ]
