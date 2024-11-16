@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png",
-    "name1": "Zambie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/2560px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name2": "Cote d'Ivoire",
-    "champ": "CAN",
-    "heure": "16H00",
-    "date": "15/11/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png",
+    "name1": "Georgie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
+    "name2": "Ukraine",
+    "champ": "Ligue des NAtions",
+    "heure": "17H00",
+    "date": "16/11/2024",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_Mozambique.svg/2560px-Flag_of_Mozambique.svg.png",
-    "name1": "Mozambique",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/2560px-Flag_of_Mali.svg.png",
-    "name2": "Mali",
-    "champ": "CAN",
-    "heure": "16H00",
-    "date": "15/11/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png",
+    "name1": "Albanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png",
+    "name2": "Republique Tchèque",
+    "champ": "Ligue des NAtions",
+    "heure": "19H45",
+    "date": "16/11/2024",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/800px-Flag_of_Denmark.svg.png",
-    "name1": "Danemark",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/270px-Flag_of_Spain.svg.png",
-    "name2": "Espagne",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png",
+    "name1": "Turquie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png",
+    "name2": "Pays de Galles",
     "champ": "Ligue des NAtions",
-    "heure": "19H45",
-    "date": "15/11/2024",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-225px-Flag_of_Scotland.svg.png",
-    "name1": "Ecosse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Civil_ensign_of_Croatia.svg/langfr-225px-Civil_ensign_of_Croatia.svg.png",
-    "name2": "Croatie",
-    "champ": "Ligue des NAtions",
-    "heure": "19H45",
-    "date": "14/11/2024",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/1280px-Flag_of_Romania.svg.png",
-    "name1": "Roumanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Flag_of_Kosovo.svg/2560px-Flag_of_Kosovo.svg.png",
-    "name2": "Kosovo",
-    "champ": "Ligue des NAtions",
-    "heure": "19H45",
-    "date": "15/11/2024",
+    "heure": "17H00",
+    "date": "16/11/2024",
     "pro": "1X"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/langfr-225px-Flag_of_the_Netherlands.svg.png",
+    "name1": "Pays-Bas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/langfr-225px-Flag_of_Hungary.svg.png",
+    "name2": "Hongrie",
+    "champ": "Ligue des NAtions",
+    "heure": "19H45",
+    "date": "16/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/640px-Flag_of_Sweden.svg.png",
+    "name1": "Suède",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png",
+    "name2": "Slovaquie",
+    "champ": "Ligue des NAtions",
+    "heure": "19H45",
+    "date": "16/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/langfr-225px-Flag_of_Indonesia.svg.png",
-    "name1": "Indonesie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langfr-225px-Flag_of_Japan.svg.png",
-    "name2": "Japon",
-    "champ": "Asie Qualif CDM",
-    "heure": "12H00",
-    "date": "15/11/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/43/Stockport_County_FC_logo_2020.svg",
+    "name1": "Stockport County",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Wrexham_A.F.C._Logo.svg/1200px-Wrexham_A.F.C._Logo.svg.png",
+    "name2": "Wrexham",
+    "champ": "Angleterre Ligue 1",
+    "heure": "15H00",
+    "date": "16/11/2024",
+    "pro": "Total (1.5)"
   }
 ]
