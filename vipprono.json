@@ -1,62 +1,62 @@
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_Georgia.svg/2560px-Flag_of_Georgia.svg.png",
-    "name1": "Georgie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/2560px-Flag_of_Ukraine.svg.png",
-    "name2": "Ukraine",
-    "champ": "Ligue des NAtions",
-    "heure": "17H00",
-    "date": "16/11/2024",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Flag_of_Albania.svg/1200px-Flag_of_Albania.svg.png",
-    "name1": "Albanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png",
-    "name2": "Republique Tchèque",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flag_of_Italy.svg/langfr-225px-Flag_of_Italy.svg.png",
+    "name1": "Italie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+    "name2": "France",
     "champ": "Ligue des NAtions",
     "heure": "19H45",
-    "date": "16/11/2024",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/2560px-Flag_of_Turkey.svg.png",
-    "name1": "Turquie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/1200px-Flag_of_Wales.svg.png",
-    "name2": "Pays de Galles",
-    "champ": "Ligue des NAtions",
-    "heure": "17H00",
-    "date": "16/11/2024",
+    "date": "17/11/2024",
     "pro": "1X"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/langfr-225px-Flag_of_the_Netherlands.svg.png",
-    "name1": "Pays-Bas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Flag_of_Hungary.svg/langfr-225px-Flag_of_Hungary.svg.png",
-    "name2": "Hongrie",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_England.svg/1200px-Flag_of_England.svg.png",
+    "name1": "Angleterre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Flag_of_Ireland.svg/1200px-Flag_of_Ireland.svg.png",
+    "name2": "Irlande",
     "champ": "Ligue des NAtions",
-    "heure": "19H45",
-    "date": "16/11/2024",
+    "heure": "17H00",
+    "date": "17/11/2024",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/76/Flag_of_Austria.png",
+    "name1": "Autriche",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
+    "name2": "Slovenie",
+    "champ": "Ligue des NAtions",
+    "heure": "17H00",
+    "date": "17/11/2024",
     "pro": "Au moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_Sweden.svg/640px-Flag_of_Sweden.svg.png",
-    "name1": "Suède",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Flag_of_Slovakia.svg/1280px-Flag_of_Slovakia.svg.png",
-    "name2": "Slovaquie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/295px-Flag_of_Finland.svg.png",
+    "name1": "Finlande",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ5f5V9_r9y7ajCOyBwbc9FfnD3Wbe45STrw&s",
+    "name2": "Grèce",
     "champ": "Ligue des NAtions",
     "heure": "19H45",
-    "date": "16/11/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "17/11/2024",
+    "pro": "2X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "name1": "Oviedo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CD_Tenerife_logo.svg/1200px-CD_Tenerife_logo.svg.png",
+    "name2": "Tenerife",
+    "champ": "Espagne D2",
+    "heure": "19H15",
+    "date": "17/11/2024",
+    "pro": "1X et Total (-4.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/43/Stockport_County_FC_logo_2020.svg",
-    "name1": "Stockport County",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Wrexham_A.F.C._Logo.svg/1200px-Wrexham_A.F.C._Logo.svg.png",
-    "name2": "Wrexham",
-    "champ": "Angleterre Ligue 1",
-    "heure": "15H00",
-    "date": "16/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/UD_Almeria_logo.svg/1200px-UD_Almeria_logo.svg.png",
+    "name1": "Almeria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b9/Deportivo_La_Coruna.svg/1200px-Deportivo_La_Coruna.svg.png",
+    "name2": "Corogne",
+    "champ": "Espagne D2",
+    "heure": "17H30",
+    "date": "17/11/2024",
     "pro": "Total (1.5)"
   }
 ]
