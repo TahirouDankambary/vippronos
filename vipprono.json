@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FC_Pyunik_%28logo%29.svg/1200px-FC_Pyunik_%28logo%29.svg.png",
-    "name1": "Pyunik",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Armenia_logo.png",
-    "name2": "West Armenia",
-    "champ": "Armenie Championnat",
-    "heure": "13H00",
-    "date": "21/11/2024",
-    "pro": "Total 1 (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name2": "Juventus",
-    "champ": "LDC Women",
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_RC_Celta_Vigo.svg/1200px-Logo_RC_Celta_Vigo.svg.png",
+    "name1": "Celta Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "La Liga",
     "heure": "20H00",
-    "date": "21/11/2024",
-    "pro": "Handicap 2 (3.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Hammarby_IF_logo.svg/1200px-Hammarby_IF_logo.svg.png",
-    "name1": "Hammarby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
-    "name2": "Man City",
-    "champ": "LDC Women",
-    "heure": "17H45",
-    "date": "20/11/2024",
+    "date": "23/11/2024",
     "pro": "V2"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
+    "name2": "Betis",
+    "champ": "La Liga",
+    "heure": "13H00",
+    "date": "23/11/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/550px-Eintracht_Frankfurt_Logo.svg.png",
+    "name1": "Frankfurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+    "name2": "Werder Bremen",
+    "champ": "Bundesliga",
+    "heure": "17H30",
+    "date": "23/11/2024",
+    "pro": "1X"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name1": "Valerenga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "LDC Women",
-    "heure": "17H45",
-    "date": "21/11/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+    "name2": "Chelsea",
+    "champ": "Premier Ligue",
+    "heure": "12H30",
+    "date": "23/11/2024",
     "pro": "Total 2 (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Pakhtakor_Tashkent_FK_logo.svg/1200px-Pakhtakor_Tashkent_FK_logo.svg.png",
-    "name1": "Pakhtakor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/6/6c/FCAGMK.jpg",
-    "name2": "AGMK",
-    "champ": "Ouzbekistan Championnat",
-    "heure": "13H00",
-    "date": "21/11/2024",
-    "pro": "Total (1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPqMJG8IdgWWK4U9P4xBtpYo8dBioUrQEkpw&s",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name2": "Atlanta",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "23/11/2024",
+    "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d4/FC_Boto%C8%99ani_logo.png",
-    "name1": "Botosani",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Roumanie Ligue 1",
-    "heure": "18H00",
-    "date": "21/11/2024",
-    "pro": "Equipe 2 Gagne une Mi-temps"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name1": "Hellas Verona",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "Serie A",
+    "heure": "14H00",
+    "date": "23/11/2024",
+    "pro": "V2"
   }
 ]
