@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/7/78/Slovan_Bratislava.png",
-    "name1": "Slovan Bratislava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
-    "name2": "AC Milan",
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
     "champ": "LDC",
     "heure": "17H45",
-    "date": "26/11/2024",
-    "pro": "Total 2 (1.5)"
+    "date": "27/11/2024",
+    "pro": "Total (2.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
-    "name1": "Sparta Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atlético",
-    "champ": "LDC",
-    "heure": "17H45",
-    "date": "26/11/2024",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/BSC_Young_Boys.svg/1200px-BSC_Young_Boys.svg.png",
-    "name1": "Young Boys",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/640px-AtalantaBC.svg.png",
-    "name2": "Atlanta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1200px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
+    "name1": "Dinamo Zagreb",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "26/11/2024",
+    "date": "27/11/2024",
     "pro": "V2"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
-    "name2": "PSG",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1200px-SK_Sturm_Graz_Logo.svg.png",
+    "name1": "Sturm Graz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gérone",
     "champ": "LDC",
-    "heure": "20H00",
-    "date": "26/11/2024",
-    "pro": "Les deux Equipe vont marquers"
+    "heure": "17H45",
+    "date": "27/11/2024",
+    "pro": "Au Moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name1": "Inter",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name2": "Leipzig",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143652%21Logo_Real_Madrid.svg",
+    "name2": "Real Madrid",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "26/11/2024",
-    "pro": "1X et Total (-4.5)"
+    "date": "27/11/2024",
+    "pro": "Au Moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
+    "name1": "Celtic",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Club_Brugge_KV.svg/1200px-Club_Brugge_KV.svg.png",
+    "name2": "Club Bruges",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "27/11/2024",
+    "pro": "Au Moins une Equipe marque (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/800px-Manchester_City_FC_badge.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name2": "Feyenoord",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name1": "PSV",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/FC_Shakhtar_Donetsk_%28logo%29.svg/1200px-FC_Shakhtar_Donetsk_%28logo%29.svg.png",
+    "name2": "Chakhtar",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "26/11/2024",
-    "pro": "Total 1 Tirs Cadré (5.5)"
+    "date": "27/11/2024",
+    "pro": "Au Moins une Equipe marque (1.5)"
   }
 ]
