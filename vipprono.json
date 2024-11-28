@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name1": "Etoile Rouge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "LDC",
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
+    "name1": "Anderlecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Europa Ligue",
     "heure": "17H45",
-    "date": "27/11/2024",
-    "pro": "Total (2.5)"
+    "date": "28/11/2024",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Logo_GNK_Dinamo_Zagreb_2024.svg/1200px-Logo_GNK_Dinamo_Zagreb_2024.svg.png",
-    "name1": "Dinamo Zagreb",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "27/11/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/SS_Lazio_logo.png/1200px-SS_Lazio_logo.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
+    "name2": "Ludogorests",
+    "champ": "Europa Ligue",
+    "heure": "17H45",
+    "date": "28/11/2024",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/20/SK_Sturm_Graz_Logo.svg/1200px-SK_Sturm_Graz_Logo.svg.png",
-    "name1": "Sturm Graz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gérone",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/FC_Astana_Logo.svg/1200px-FC_Astana_Logo.svg.png",
+    "name1": "Astana",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Conférece Ligue",
     "heure": "17H45",
-    "date": "27/11/2024",
+    "date": "28/11/2024",
+    "pro": "Total 2 (0.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
+    "name1": "Celje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a8/Jagiellonia_Bialystok_Logo.png",
+    "name2": "Jagiellonia bailystok",
+    "champ": "Conférence Ligue",
+    "heure": "17H45",
+    "date": "28/11/2024",
     "pro": "Au Moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143652%21Logo_Real_Madrid.svg",
-    "name2": "Real Madrid",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "27/11/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/1200px-Celtic_FC_crest.svg.png",
-    "name1": "Celtic",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Club_Brugge_KV.svg/1200px-Club_Brugge_KV.svg.png",
-    "name2": "Club Bruges",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "27/11/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/74/FK_Borac.png",
+    "name1": "Borac Banja",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LASK-Logo_2023.svg/1200px-LASK-Logo_2023.svg.png",
+    "name2": "LASK Linz",
+    "champ": "Conférence ligue",
+    "heure": "17H45",
+    "date": "28/11/2024",
+    "pro": "Total (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/FC_Shakhtar_Donetsk_%28logo%29.svg/1200px-FC_Shakhtar_Donetsk_%28logo%29.svg.png",
-    "name2": "Chakhtar",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "27/11/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Noah_logo.png",
+    "name1": "Noah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/V%C3%ADkingur_Reykjavik_%28logo%29.svg/1200px-V%C3%ADkingur_Reykjavik_%28logo%29.svg.png",
+    "name2": "Vikingur",
+    "champ": "Conférence ligue",
+    "heure": "17H45",
+    "date": "28/11/2024",
+    "pro": "Total (1.5)"
   }
 ]
