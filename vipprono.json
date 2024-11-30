@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/8/80/FK_Sarajevo_%28logo%29.svg",
-    "name1": "Sarajevo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/a/a2/H%C5%A0K_Zrinjski_Mostar.png",
-    "name2": "HSK Mostar",
-    "champ": "Bosnie Championnat",
-    "heure": "17H00",
-    "date": "20/11/2024",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a7/Logo_FK_%C4%8Cukari%C4%8Dki.png",
-    "name1": "Cukaricki",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Spartak_Subotica.svg/1200px-Spartak_Subotica.svg.png",
-    "name2": "Sparta Subotica",
-    "champ": "Serbie Championnat",
-    "heure": "15H30",
-    "date": "29/11/2024",
-    "pro": "1X et Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d4/FC_Boto%C8%99ani_logo.png",
-    "name1": "Botosani",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTUcMJHO7fuF9QxttYvOX-Ntr1hKBKicADyw&s",
-    "name2": "Farul Constanta",
-    "champ": "Roumanie Ligue 1",
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Newcastle_United.svg",
+    "name2": "Newcastle",
+    "champ": "Premier Ligue",
     "heure": "15H00",
-    "date": "29/11/2024",
-    "pro": "Total 2 (0.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/1200px-FC_Rapid_Bucuresti_logo.svg.png",
-    "name1": "Rapid Bucuresti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f3/FCPetrolulPloiestilogo2009.png",
-    "name2": "Petrolul Ploiesti",
-    "champ": "Roumanie Ligue 1",
-    "heure": "18H45",
-    "date": "29/11/2024",
-    "pro": "Total (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/1200px-Flag_of_Portugal.svg.png",
-    "name1": "Portugal W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/1200px-Flag_of_the_Czech_Republic.svg.png",
-    "name2": "Tcheque W",
-    "champ": "Championnat d'Europe Femmes",
-    "heure": "19H45",
-    "date": "29/11/2024",
+    "date": "30/11/2024",
     "pro": "Au moins une Equipe marque (1.5)"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg",
+    "name1": "Union Berlin",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
+    "name2": "Bayer Leverkusen",
+    "champ": "Bundesliga",
+    "heure": "14H30",
+    "date": "30/11/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Venezia_FC_logo.png/1200px-Venezia_FC_logo.png",
+    "name2": "Venise",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "30/11/2024",
+    "pro": "1X"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1200px-Logo_Fortuna_Sittard_2024.svg.png",
+    "name2": "Fortuna Sittard",
+    "champ": "Eredivisie",
+    "heure": "19H00",
+    "date": "30/11/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Dukla_Prague_%28logo%29.svg/1200px-Dukla_Prague_%28logo%29.svg.png",
+    "name1": "Dukla Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
+    "name2": "Sparta Prague",
+    "champ": "Tckèque championnat",
+    "heure": "18H00",
+    "date": "30/11/2024",
+    "pro": "V2"
+  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Flag_of_Scotland.svg/langfr-225px-Flag_of_Scotland.svg.png",
-    "name1": "Ecosse W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/1200px-Flag_of_Finland.svg.png",
-    "name2": "Finlande W",
-    "champ": "Championnat d'Europe Femmes",
-    "heure": "19H35",
-    "date": "29/11/2024",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Mladost_Lu%C4%8Dani_2024.svg/1200px-Logo_Mladost_Lu%C4%8Dani_2024.svg.png",
+    "name1": "Mladost Lucani",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Serbie Championnat",
+    "heure": "16H00",
+    "date": "30/11/2024",
+    "pro": "Total 2 (1.5)"
   }
 ]
