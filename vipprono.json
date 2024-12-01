@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal Palace",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Newcastle_United.svg",
-    "name2": "Newcastle",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIbm_0tHQs_haHnk8i7XWqonIYUlaIpbt5g&s",
+    "name2": "Aston Villa",
     "champ": "Premier Ligue",
-    "heure": "15H00",
-    "date": "30/11/2024",
+    "heure": "13H30",
+    "date": "01/12/2024",
     "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/44/1._FC_Union_Berlin_Logo.svg",
-    "name1": "Union Berlin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
-    "name2": "Bayer Leverkusen",
-    "champ": "Bundesliga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/459px-Logo_Parma.svg.png?20090727200310",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/SS_Lazio_logo.png/1200px-SS_Lazio_logo.png",
+    "name2": "Lazio",
+    "champ": "Serie A",
     "heure": "14H30",
-    "date": "30/11/2024",
+    "date": "01/12/2024",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Venezia_FC_logo.png/1200px-Venezia_FC_logo.png",
-    "name2": "Venise",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name1": "Lecce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
+    "name2": "Juventus",
     "champ": "Serie A",
     "heure": "19H45",
-    "date": "30/11/2024",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name1": "Feyenoord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1200px-Logo_Fortuna_Sittard_2024.svg.png",
-    "name2": "Fortuna Sittard",
-    "champ": "Eredivisie",
-    "heure": "19H00",
-    "date": "30/11/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Dukla_Prague_%28logo%29.svg/1200px-Dukla_Prague_%28logo%29.svg.png",
-    "name1": "Dukla Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "Sparta Prague",
-    "champ": "Tckèque championnat",
-    "heure": "18H00",
-    "date": "30/11/2024",
+    "date": "01/12/2024",
     "pro": "V2"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/04/NEC_Nim%C3%A8gue.png",
+    "name1": "NEC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
+    "name2": "Ajax",
+    "champ": "Eredivisie",
+    "heure": "15H45",
+    "date": "01/12/2024",
+    "pro": "2X et Total (1.5)"
+  },
+    {
+    "photo1": "https://logodownload.org/wp-content/uploads/2020/01/cd-aves-logo-0.png",
+    "name1": "Aves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name2": "Braga",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H30",
+    "date": "01/12/2024",
+    "pro": "2X et Total (1.5)"
+  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Mladost_Lu%C4%8Dani_2024.svg/1200px-Logo_Mladost_Lu%C4%8Dani_2024.svg.png",
-    "name1": "Mladost Lucani",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
-    "champ": "Serbie Championnat",
-    "heure": "16H00",
-    "date": "30/11/2024",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/St._Johnstone_FC.svg/1200px-St._Johnstone_FC.svg.png",
+    "name1": "St Johnstone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
+    "name2": "Ranger",
+    "champ": "Ecosse Première Ligue",
+    "heure": "12H00",
+    "date": "01/12/2024",
+    "pro": "V2"
   }
 ]
