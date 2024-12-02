@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrIbm_0tHQs_haHnk8i7XWqonIYUlaIpbt5g&s",
-    "name2": "Aston Villa",
-    "champ": "Premier Ligue",
-    "heure": "13H30",
-    "date": "01/12/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/459px-Logo_Parma.svg.png?20090727200310",
-    "name1": "Parma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/be/SS_Lazio_logo.png/1200px-SS_Lazio_logo.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
-    "heure": "14H30",
-    "date": "01/12/2024",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/1200px-ASC_Otelul_Galati_logo.svg.png",
+    "name1": "Otelul",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
+    "name2": "FCSB",
+    "champ": "Roumanie Ligue 1",
+    "heure": "18H30",
+    "date": "02/12/2024",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg",
-    "name2": "Juventus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6d/Maccabi_Bnei_Reineh_F.C._logo.png",
+    "name1": "Maccabi Bnei Reineh",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/19/Maccabi_Tel-Aviv.png",
+    "name2": "Maccabi Tel AViv",
+    "champ": "Israel championnat",
+    "heure": "18H00",
+    "date": "02/12/2024",
+    "pro": "2X et total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/640px-AtalantaBC.svg.png",
+    "name2": "Atlanta",
     "champ": "Serie A",
     "heure": "19H45",
-    "date": "01/12/2024",
-    "pro": "V2"
+    "date": "02/12/2024",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/04/NEC_Nim%C3%A8gue.png",
-    "name1": "NEC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name2": "Ajax",
-    "champ": "Eredivisie",
-    "heure": "15H45",
-    "date": "01/12/2024",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png",
+    "name1": "Seville",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJEm7Tl5OZb6PUp_QfhM8MmRxZOtoj2osIA&s",
+    "name2": "Osasuna",
+    "champ": "La Liga",
+    "heure": "20H00",
+    "date": "02/12/2024",
+    "pro": "Total (1.5)"
   },
     {
-    "photo1": "https://logodownload.org/wp-content/uploads/2020/01/cd-aves-logo-0.png",
-    "name1": "Aves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name2": "Braga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
+    "name1": "Vitoria Guimaraes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
+    "name2": "Gil Vicente",
     "champ": "Portugal Première Ligue",
-    "heure": "20H30",
-    "date": "01/12/2024",
-    "pro": "2X et Total (1.5)"
+    "heure": "18H45",
+    "date": "02/12/2024",
+    "pro": "1X et Total (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/St._Johnstone_FC.svg/1200px-St._Johnstone_FC.svg.png",
-    "name1": "St Johnstone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name2": "Ranger",
-    "champ": "Ecosse Première Ligue",
-    "heure": "12H00",
-    "date": "01/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/4d/Casa_Pia_A.C._logo.png",
+    "name2": "Casa Pia",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H45",
+    "date": "02/12/2024",
+    "pro": "V1"
   }
 ]
