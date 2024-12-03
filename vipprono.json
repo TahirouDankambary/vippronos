@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/ASC_Otelul_Galati_logo.svg/1200px-ASC_Otelul_Galati_logo.svg.png",
-    "name1": "Otelul",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Roumanie Ligue 1",
-    "heure": "18H30",
-    "date": "02/12/2024",
-    "pro": "2X"
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West-Ham",
+    "champ": "Premier Ligue",
+    "heure": "20H15",
+    "date": "03/12/2024",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/6/6d/Maccabi_Bnei_Reineh_F.C._logo.png",
-    "name1": "Maccabi Bnei Reineh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/19/Maccabi_Tel-Aviv.png",
-    "name2": "Maccabi Tel AViv",
-    "champ": "Israel championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/640px-RCD_Mallorca_%28logo%29.svg.png",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "La LIGA",
     "heure": "18H00",
-    "date": "02/12/2024",
-    "pro": "2X et total (1.5)"
+    "date": "03/12/2024",
+    "pro": "Tota 2 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/640px-AtalantaBC.svg.png",
-    "name2": "Atlanta",
-    "champ": "Serie A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
+    "name1": "Sparta Prague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/MFK_Karvina.svg/1200px-MFK_Karvina.svg.png",
+    "name2": "Karvina",
+    "champ": "Tchèque Championnat",
+    "heure": "18H00",
+    "date": "03/12/2024",
+    "pro": "Tota 1 (1.5°"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/NK_Posu%C5%A1je_%28logo%29.svg/1200px-NK_Posu%C5%A1je_%28logo%29.svg.png",
+    "name1": "NK Posusje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/H%C5%A0K_Zrinjski_Mostar.svg/1200px-H%C5%A0K_Zrinjski_Mostar.svg.png",
+    "name2": "HSK Mostar",
+    "champ": "Bosnie Championnat",
+    "heure": "17H30",
+    "date": "03/12/2024",
+    "pro": "Total 2 (0.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
+    "name1": "Wrexham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Barnsley_FC.svg/1200px-Barnsley_FC.svg.png",
+    "name2": "Bransley",
+    "champ": "Ligue One",
     "heure": "19H45",
-    "date": "02/12/2024",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Sevilla_FC.svg/1200px-Logo_Sevilla_FC.svg.png",
-    "name1": "Seville",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFJEm7Tl5OZb6PUp_QfhM8MmRxZOtoj2osIA&s",
-    "name2": "Osasuna",
-    "champ": "La Liga",
-    "heure": "20H00",
-    "date": "02/12/2024",
-    "pro": "Total (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
-    "name1": "Vitoria Guimaraes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
-    "name2": "Gil Vicente",
-    "champ": "Portugal Première Ligue",
-    "heure": "18H45",
-    "date": "02/12/2024",
-    "pro": "1X et Total (1.5)"
+    "date": "03/12/2024",
+    "pro": "1X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/4d/Casa_Pia_A.C._logo.png",
-    "name2": "Casa Pia",
-    "champ": "Portugal Première Ligue",
-    "heure": "20H45",
-    "date": "02/12/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Pakhtakor_Tashkent_FK_logo.svg/1200px-Pakhtakor_Tashkent_FK_logo.svg.png",
+    "name1": "Pakhtakor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/61/Al-A%C3%AFn_FC.png",
+    "name2": "Al Ain",
+    "champ": "AFC League Elite",
+    "heure": "14H00",
+    "date": "03/12/2024",
+    "pro": "Total (1.5)"
   }
 ]
