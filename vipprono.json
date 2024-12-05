@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ybrpSqYVk4NpraPdvTLe1yAC5ux8VmQj0Q&s",
-    "name2": "Man United",
-    "champ": "Premier Ligue",
-    "heure": "20H15",
-    "date": "04/12/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErs39ulml8TvwycZTnpENXxZJan0w6p_n4w&s",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
-    "name2": "Chelsea",
-    "champ": "Premier Ligue",
-    "heure": "19H30",
-    "date": "04/12/2024",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/a/a0/CP_Cacere%C3%B1o.png",
+    "name1": "CP Cacereno",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Atlètico",
+    "champ": "Coupe du Roi",
+    "heure": "18H00",
+    "date": "05/12/2024",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Newcastle_United.svg",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/800px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Premier Ligue",
-    "heure": "19H30",
-    "date": "04/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
+    "name1": "Moreirense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "name2": "Sporting",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H15",
+    "date": "05/12/2024",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/FC_Banik_Ostrava_%28logo%29.svg/1200px-FC_Banik_Ostrava_%28logo%29.svg.png",
+    "name1": "Banik Ostrava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Slavia_2024.svg/1200px-Logo_Slavia_2024.svg.png",
+    "name2": "Slavia prague",
+    "champ": "Tchèque Championnat",
+    "heure": "16H30",
+    "date": "05/12/2024",
+    "pro": "2X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Eredivisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Viktoria_Plzen_logo.svg/1200px-Viktoria_Plzen_logo.svg.png",
+    "name1": "Viktoria Plzen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/FK_Teplice_logo.svg/1200px-FK_Teplice_logo.svg.png",
+    "name2": "Teplice",
+    "champ": "Tchèque Championnat",
     "heure": "19H00",
-    "date": "04/12/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "date": "05/12/2024",
+    "pro": "2X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/FC_Aberdeen.svg/1200px-FC_Aberdeen.svg.png",
-    "name1": "Aberdeen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/71/Celtic_FC_crest.svg/800px-Celtic_FC_crest.svg.png",
-    "name2": "Celtic",
-    "champ": "Ecosse Première Ligue",
-    "heure": "20H00",
-    "date": "04/12/2024",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Debreceni_VSC_%28logo%29.svg/1200px-Debreceni_VSC_%28logo%29.svg.png",
+    "name1": "Debreceni",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ferencvarosi_TC.svg/1200px-Ferencvarosi_TC.svg.png",
+    "name2": "Ferencvarosi",
+    "champ": "Hongrie Championnat",
+    "heure": "19H00",
+    "date": "05/12/2024",
+    "pro": "V2"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/FC_Oleksandriya_Logo.png/1200px-FC_Oleksandriya_Logo.png",
-    "name1": "Oleksandriia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
-    "name2": "Dynamo kyiv",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/FC_Shakhtar_Donetsk_%28logo%29.svg/1200px-FC_Shakhtar_Donetsk_%28logo%29.svg.png",
+    "name1": "Chakhtar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/32/FC_Vorskla_Poltava_%28logo%29.svg/1200px-FC_Vorskla_Poltava_%28logo%29.svg.png",
+    "name2": "Vorskla",
     "champ": "Ukraine Championnat",
-    "heure": "13H30",
-    "date": "04/12/2024",
-    "pro": "2X"
+    "heure": "16H00",
+    "date": "05/12/2024",
+    "pro": "V1"
   }
 ]
