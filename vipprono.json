@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name1": "Braga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0c/GD_Estoril-Praia.png",
-    "name2": "Estroril",
-    "champ": "Portugal prmière Ligue",
-    "heure": "20H15",
-    "date": "06/12/2024",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo5joxteGZbxSpkwAPPsePxzt3GZreEtJ8ZA&s",
-    "name1": "Auxerre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "PSG",
-    "champ": "Ligue 1",
-    "heure": "20H00",
-    "date": "06/12/2024",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "name2": "Liverpool",
+    "champ": "Premier Ligue",
+    "heure": "12H30",
+    "date": "07/12/2024",
     "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/640px-AtalantaBC.svg.png",
-    "name1": "Atlanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "06/12/2024",
-    "pro": "3 but d'affilè Non"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
-    "name1": "Burley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1200px-Middlesbrough_FC_crest.svg.png",
-    "name2": "Middlesbrough",
-    "champ": "Angleterre Championchip",
-    "heure": "20H00",
-    "date": "06/12/2024",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/Logo_RC_Celta_Vigo.svg/1200px-Logo_RC_Celta_Vigo.svg.png",
-    "name1": "Celta Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
-    "name2": "Majorque",
-    "champ": "La Liga",
-    "heure": "20H00",
-    "date": "06/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Nottingham",
+    "champ": "Premier Ligue",
+    "heure": "17H30",
+    "date": "07/12/2024",
     "pro": "Total (1.5)"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "VfB Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/1._FC_Union_Berlin_Logo.svg/800px-1._FC_Union_Berlin_Logo.svg.png",
-    "name2": "Union Berlin",
-    "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "06/12/2024",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name1": "Gérone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
+    "name2": "Real Madrid",
+    "champ": "La Liga",
+    "heure": "20H00",
+    "date": "07/12/2024",
     "pro": "Au Moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
+    "name1": "Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1011px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "La Liga",
+    "heure": "15H15",
+    "date": "07/12/2024",
+    "pro": "2X et Total (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
+    "name1": "Waalwijk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name2": "Feyenoord",
+    "champ": "Eredivisie",
+    "heure": "19H00",
+    "date": "07/12/2024",
+    "pro": "V2"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
+    "name1": "Famalicao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Portugal Prmière Ligue",
+    "heure": "20H30",
+    "date": "07/12/2024",
+    "pro": "2X et Total (1.5)"
   }
 ]
