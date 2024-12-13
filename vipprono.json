@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/FC_St._Gallen_logo.svg/1024px-FC_St._Gallen_logo.svg.png",
-    "name1": "Saint-Gall",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Conférence Ligue",
-    "heure": "20H00",
-    "date": "12/12/2024",
-    "pro": "2X"
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
+    "name1": "De Graafschap",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4d/SC_Cambuur_logo.png",
+    "name2": "Cambuur",
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "13/12/2024",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/84/CS_Petrocub_Logo.png",
-    "name1": "petrocub",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name2": "Betis",
-    "champ": "Conférence Ligue",
-    "heure": "17H45",
-    "date": "12/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/800px-Logo_AZ_Alkmaar.svg.png",
+    "name1": "AZ II",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
+    "name2": "Emmen",
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "13/12/2024",
+    "pro": "2X"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Noah_logo.png",
     "name1": "Noah Yerevan",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/APOEL_%28logo_with_stars%29.svg/1200px-APOEL_%28logo_with_stars%29.svg.png",
     "name2": "APOEL",
-    "champ": "Conférence Ligue",
-    "heure": "17H45",
-    "date": "12/12/2024",
-    "pro": "2X"
+    "champ": "Eredivisie",
+    "heure": "19H00",
+    "date": "13/12/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/ACF_Fiorentina.svg/1200px-ACF_Fiorentina.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/LASK-Logo_2023.svg/1200px-LASK-Logo_2023.svg.png",
-    "name2": "LASK Linz",
-    "champ": "Conférence Ligue",
-    "heure": "17H45",
-    "date": "12/12/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Logo_Real_Valladolid_CF_1998.svg/1200px-Logo_Real_Valladolid_CF_1998.svg.png",
+    "name1": "Real Valladolid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
+    "name2": "Valence",
+    "champ": "La LIGA",
+    "heure": "20H00",
+    "date": "13/12/2024",
+    "pro": "Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name1": "Viktoria Plzen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name2": "Man United",
-    "champ": "Europa Ligue",
-    "heure": "17H45",
-    "date": "12/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+    "name2": "Wolfsbourg",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "13/12/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "12/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/KV_Mechelen_%28logo%29.svg/1200px-KV_Mechelen_%28logo%29.svg.png",
+    "name1": "Mechelen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name2": "Royal Antwerp",
+    "champ": "Jupiler Ligue",
+    "heure": "19H45",
+    "date": "13/12/2024",
+    "pro": "Handicap 2 (1)"
   }
 ]
