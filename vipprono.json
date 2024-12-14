@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
-    "name1": "De Graafschap",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4d/SC_Cambuur_logo.png",
-    "name2": "Cambuur",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "13/12/2024",
-    "pro": "1X"
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "name2": "Everton",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "14/12/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/800px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ II",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
-    "name2": "Emmen",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "13/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1513px-Logo_FC_Liverpool.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Logo_Fulham.svg",
+    "name2": "Fulham",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "14/12/2024",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Noah_logo.png",
-    "name1": "Noah Yerevan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/APOEL_%28logo_with_stars%29.svg/1200px-APOEL_%28logo_with_stars%29.svg.png",
-    "name2": "APOEL",
-    "champ": "Eredivisie",
-    "heure": "19H00",
-    "date": "13/12/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+    "name1": "Mayence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/800px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name2": "Bayern",
+    "champ": "Bundeliga",
+    "heure": "14H30",
+    "date": "14/12/2024",
+    "pro": "2X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Logo_Real_Valladolid_CF_1998.svg/1200px-Logo_Real_Valladolid_CF_1998.svg.png",
-    "name1": "Real Valladolid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/1200px-Logo_Valencia_CF_2019.svg.png",
-    "name2": "Valence",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+    "name1": "Rayo Vallecano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name2": "Real",
     "champ": "La LIGA",
     "heure": "20H00",
-    "date": "13/12/2024",
-    "pro": "Total (1.5)"
+    "date": "14/12/2024",
+    "pro": "Equipe 2 gagne une Mi-temps"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name2": "Wolfsbourg",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Augsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Bayer Leverkusen",
     "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "13/12/2024",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "heure": "14H30",
+    "date": "14/12/2024",
+    "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/KV_Mechelen_%28logo%29.svg/1200px-KV_Mechelen_%28logo%29.svg.png",
-    "name1": "Mechelen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name2": "Royal Antwerp",
-    "champ": "Jupiler Ligue",
-    "heure": "19H45",
-    "date": "13/12/2024",
-    "pro": "Handicap 2 (1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "name1": "Cagliari",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name2": "Atlanta",
+    "champ": "Serie A",
+    "heure": "14H00",
+    "date": "14/12/2024",
+    "pro": "2X"
   }
 ]
