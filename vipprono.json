@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Premier Ligue",
-    "heure": "19H00",
-    "date": "15/12/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atlético",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
-    "name2": "Getafe",
-    "champ": "La LIGA",
-    "heure": "13H00",
-    "date": "15/12/2024",
+    "photo1":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
+    "name1": "Dynamo Kyiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/01/Veres_Rivne_2015.png",
+    "name2": "Veres Rivne",
+    "champ": "Ukraine Championnat",
+    "heure": "11H00",
+    "date": "16/12/2024",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/ea/Go_Ahead_Eagles.svg",
-    "name2": "Go Ahead Eagles",
-    "champ": "EreDivisie",
-    "heure": "11H15",
-    "date": "15/12/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
+    "name1": "Partizan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/19/FK_IMT_NOVI_BEOGRAD.png",
+    "name2": "IMT Beograd",
+    "champ": "Serbie Championnat",
+    "heure": "18H00",
+    "date": "16/12/2024",
+    "pro": "1X et Total (1.5)"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "Anderlecht",
-    "champ": "Jupiler Ligue",
-    "heure": "17H30",
-    "date": "15/12/2024",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Rio_Ave_FC.svg",
+    "name1": "Rio Ave",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Portugal Premièree Ligue",
+    "heure": "20H45",
+    "date": "16/12/2024",
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/dd/AFC_Unirea_Slobozia.png",
-    "name1": "Unirea Slobozia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Roumanie Ligue 1",
-    "heure": "14H00",
-    "date": "15/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
+    "name2": "Famalicao",
+    "champ": "Portugal Premièree Ligue",
+    "heure": "18H45",
+    "date": "16/12/2024",
+    "pro": "V1"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "16/12/2024",
+    "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FK_Novi_Pazar_logo.svg/1200px-FK_Novi_Pazar_logo.svg.png",
-    "name1": "Novi Pazar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/69/Etoile_Rouge_XIII.png",
-    "name2": "Etoile Rouge",
-    "champ": "Serbie Championnat",
-    "heure": "14H00",
-    "date": "15/12/2024",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
+    "name2": "West-Ham",
+    "champ": "Premier Ligue",
+    "heure": "20H00",
+    "date": "16/12/2024",
+    "pro": "Au Moins une Equipe marque (1.5)"
   }
 ]
