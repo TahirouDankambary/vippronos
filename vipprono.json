@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/1234px-FC_Dynamo_Kyiv_logo.svg.png",
-    "name1": "Dynamo Kyiv",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/01/Veres_Rivne_2015.png",
-    "name2": "Veres Rivne",
-    "champ": "Ukraine Championnat",
-    "heure": "11H00",
-    "date": "16/12/2024",
+    "photo1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea W",
+    "champ": "LDC Femmes",
+    "heure": "1745",
+    "date": "17/12/2024",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
+    "name1": "Lyon W",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+    "name2": "Wolsfburg W",
+    "champ": "LDC Femmes",
+    "heure": "20H00",
+    "date": "17/12/2024",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name1": "Partizan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/19/FK_IMT_NOVI_BEOGRAD.png",
-    "name2": "IMT Beograd",
-    "champ": "Serbie Championnat",
-    "heure": "18H00",
-    "date": "16/12/2024",
-    "pro": "1X et Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Rio_Ave_FC.svg",
-    "name1": "Rio Ave",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Vit%C3%B3ria_Guimar%C3%A3es.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es.svg.png",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal Premièree Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "name2": "Cagliari",
+    "champ": "Coupe d'Italie",
     "heure": "20H45",
-    "date": "16/12/2024",
-    "pro": "2X"
+    "date": "17/12/2024",
+    "pro": "Au Moins une Equipe Marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name1": "Braga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
-    "name2": "Famalicao",
-    "champ": "Portugal Premièree Ligue",
-    "heure": "18H45",
-    "date": "16/12/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/60/MVV_Maastricht_logo.svg/1200px-MVV_Maastricht_logo.svg.png",
+    "name1": "MVV Maastricht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name2": "Feyenoord",
+    "champ": "Pays-bas Coupe",
+    "heure": "20H00",
+    "date": "17/12/2024",
+    "pro": "V2 et Total (2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "16/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Real_Zaragoza_svg_logo.svg/1200px-Real_Zaragoza_svg_logo.svg.png",
+    "name1": "Real Zaragoza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "name2": "Real Oviedo",
+    "champ": "La Liga 2",
+    "heure": "20H15",
+    "date": "17/12/2024",
+    "pro": "Total (1.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/1200px-AFC_Bournemouth_%282013%29.svg.png",
-    "name1": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
-    "name2": "West-Ham",
-    "champ": "Premier Ligue",
-    "heure": "20H00",
-    "date": "16/12/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/37/Albacete_balompie.svg",
+    "name1": "Albacete",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Levante_UD_2023.svg/1200px-Logo_Levante_UD_2023.svg.png",
+    "name2": "Levante",
+    "champ": "La Liga 2",
+    "heure": "18H00",
+    "date": "17/12/2024",
+    "pro": "Handicap 2 (1)"
   }
 ]
