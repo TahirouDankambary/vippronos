@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone W",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
-    "name2": "Man City W",
-    "champ": "LDC Femmes",
-    "heure": "1745",
-    "date": "18/12/2024",
-    "pro": "Total 1 (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Coupe de la Ligue",
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
+    "name1": "Heart of Midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/84/CS_Petrocub_Logo.png",
+    "name2": "Petrocub",
+    "champ": "Conference Ligue",
     "heure": "20H00",
-    "date": "18/12/2024",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/AC_Cesena.svg/1200px-AC_Cesena.svg.png",
-    "name2": "Cesena",
-    "champ": "Coupe d'Italie",
-    "heure": "20H45",
-    "date": "17/12/2024",
+    "date": "19/12/2024",
     "pro": "V1"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/FC_Groningen_logo.svg/1200px-FC_Groningen_logo.svg.png",
-    "name2": "Groningen",
-    "champ": "Pays-bas Coupe",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bb/Logo_FC_Heidenheim_2024.svg/1200px-Logo_FC_Heidenheim_2024.svg.png",
+    "name1": "Heidenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Logo_FC_Saint-Gall_2024.svg/1200px-Logo_FC_Saint-Gall_2024.svg.png",
+    "name2": "Saint-Gall",
+    "champ": "Conference Ligue",
     "heure": "20H00",
-    "date": "18/12/2024",
-    "pro": "Au Moins une Equipe Marque (1.5)"
+    "date": "19/12/2024",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/PFC_Botev_Plovdiv_%28logo%29.svg/1081px-PFC_Botev_Plovdiv_%28logo%29.svg.png",
+    "name1": "Botev Plovdiv",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
+    "name2": "Ludogorets",
+    "champ": "Bulgarie Championnat",
+    "heure": "15H00",
+    "date": "19/12/2024",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Amsterdamsche_FC_%28logo%29.svg/800px-Amsterdamsche_FC_%28logo%29.svg.png",
-    "name1": "AFK Amsterdamsche",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Pays-bas Coupe",
-    "heure": "19H00",
-    "date": "18/12/2024",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/C.D._Nacional_logo.svg/1200px-C.D._Nacional_logo.svg.png",
+    "name1": "National de madeira",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
+    "champ": "Portugal Première Ligue",
+    "heure": "17H00",
+    "date": "19/12/2024",
     "pro": "V2"
   },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1200px-Logo_SD_Huesca_2023.svg.png",
+    "name1": "Huesca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CD_Tenerife_logo.svg/1200px-CD_Tenerife_logo.svg.png",
+    "name2": "Tenerife",
+    "champ": "Espagne D2",
+    "heure": "20H15",
+    "date": "19/12/2024",
+    "pro": "1X"
+  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name2": "PSG",
-    "champ": "Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/23/Larne_FC_%28logo%29.svg",
+    "name1": "Larne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/KAA_Gent_logo.svg/1200px-KAA_Gent_logo.svg.png",
+    "name2": "Gatoise",
+    "champ": "Conference Ligue",
     "heure": "20H00",
-    "date": "18/12/2024",
-    "pro": "2X"
+    "date": "19/12/2024",
+    "pro": "Total 2 (1.5)"
   }
 ]
