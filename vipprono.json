@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/1/10/Radni%C4%8Dki_Ni%C5%A1.svg/1200px-Radni%C4%8Dki_Ni%C5%A1.svg.png",
-    "name1": "Radnicki Nis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f6/FK_Partizan_logo.svg/1200px-FK_Partizan_logo.svg.png",
-    "name2": "Partizan",
-    "champ": "Serbie Championnat",
-    "heure": "15H00",
-    "date": "21/12/2024",
-    "pro": "2X et Total (1.5)"
+    "photo1":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
+    "champ": "Premier Ligue",
+    "heure": "14H00",
+    "date": "22/12/2024",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
-    "name1": "Moreirense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name2": "Porto",
-    "champ": "Portugal Prelière Ligue",
-    "heure": "20H30",
-    "date": "21/12/2024",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_Tottenham_Hotspur_Football_Club_2024.svg/1200px-Logo_Tottenham_Hotspur_Football_Club_2024.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
+    "champ": "Premier Ligue",
+    "heure": "16H30",
+    "date": "22/12/2024",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "name1": "Wolfsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/800px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Bundeliga",
+    "heure": "16H30",
+    "date": "22/12/2024",
+    "pro": "Au moins une Equipe Marque (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
+    "name2": "Seville",
+    "champ": "La Liga",
+    "heure": "15H15",
+    "date": "22/12/2024",
+    "pro": "Handicap 2 (2.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name1": "Atlanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/66/Logo_Empoli_FC_-_2022.svg",
+    "name2": "Empoli",
+    "champ": "Serie A",
+    "heure": "17H00",
+    "date": "22/12/2024",
+    "pro": "Total 1 (1.5)"
+  },
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name1": "Monza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name2": "Juventus",
     "champ": "Serie A",
     "heure": "19H45",
     "date": "21/12/2024",
-    "pro": "V2"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1200px-US_Sassuolo_Calcio_logo.svg.png",
-    "name1": "Sassuolo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/pt/0/0b/US_Citt%C3%A0_di_Palermo_Logo.png",
-    "name2": "Cittadi Palermo",
-    "champ": "Serie B",
-    "heure": "14H00",
-    "date": "21/12/2024",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Bayer Leverkusen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name2": "Fribourg",
-    "champ": "Bundesliga",
-    "heure": "17H30",
-    "date": "21/12/2024",
-    "pro": "1X et Total (1.5)"
-  },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
-    "name1": "Crystal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Premier Ligue",
-    "heure": "17H30",
-    "date": "21/12/2024",
-    "pro": "Equipe 2 gagne une Mi-temps"
+    "pro": "2X et Total 2 (0.5)"
   }
 ]
