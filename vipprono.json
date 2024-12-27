@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/2048px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name2": "Brentfort",
-    "champ": "Premier Ligue",
-    "heure": "19H30",
-    "date": "27/12/2024",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fe/FCVDEH.png",
-    "name2": "Dender EH",
-    "champ": "Jupiler Ligue",
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name2": "Atalanta",
+    "champ": "Serie A",
     "heure": "19H45",
-    "date": "27/12/2024",
-    "pro": "1X et Total (1.5)"
+    "date": "28/12/2024",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/64/Logo_Cercle_Bruges_KSV_2023.svg/1200px-Logo_Cercle_Bruges_KSV_2023.svg.png",
-    "name2": "Cercle Brugge",
-    "champ": "Jupiler Ligue",
-    "heure": "19H30",
-    "date": "27/12/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "name1": "Cagliari",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
+    "heure": "17H00",
+    "date": "28/12/2024",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1661px-Logo_Parma.svg.png",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name2": "Monza",
+    "champ": "Serie A",
+    "heure": "14H00",
+    "date": "28/12/2024",
+    "pro": "Total 1 (0.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f2/Union_sportive_de_Biskra_USB.png",
-    "name1": "Biskra",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d1/ES_S%C3%A9tifienne_logo_2021.png",
-    "name2": "ES Sétif",
-    "champ": "Algerie Ligue 1",
-    "heure": "15H00",
-    "date": "27/12/2024",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
+    "name1": "Empoli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
+    "champ": "Serie A",
+    "heure": "14H00",
+    "date": "28/12/2024",
+    "pro": "Nul dans une Mi-temps"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/eb/CRBelouizdad_logo_2019.png",
-    "name1": "CR Belouizdad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a9/Olympique_de_Akbou_logo.png/1200px-Olympique_de_Akbou_logo.png",
-    "name2": "Olympique Akbou",
-    "champ": "Algerie Ligue 1",
-    "heure": "15H00",
-    "date": "27/12/2024",
-    "pro": "3 But d'affilé (NON)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Boavista_F.C._%28logo%29.svg/1200px-Boavista_F.C._%28logo%29.svg.png",
+    "name2": "Boavista",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H30",
+    "date": "28/12/2024",
+    "pro": "Handicap 2 (3.5)"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/JSSAOURA_LOGO.png/1200px-JSSAOURA_LOGO.png",
-    "name1": "JS Saoura",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/f7/Logo_CS_Constantine.png",
-    "name2": "Constantine",
-    "champ": "Algerie Ligue 1",
-    "heure": "15H00",
-    "date": "27/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/GD_Estoril-Praia.png/640px-GD_Estoril-Praia.png",
+    "name1": "Estoril",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
+    "name2": "Moreirense",
+    "champ": "Portugal Première Ligue",
+    "heure": "18H00",
+    "date": "28/12/2024",
+    "pro": "Total (1.5)"
   }
 ]
