@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
-    "name2": "Atalanta",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "28/12/2024",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
+    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+    "name2": "Fiorentina",
     "champ": "Serie A",
     "heure": "17H00",
-    "date": "28/12/2024",
-    "pro": "V2"
+    "date": "29/12/2024",
+    "pro": "Nul dans une mi-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1661px-Logo_Parma.svg.png",
-    "name1": "Parma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name2": "Monza",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1306px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name2": "Roma",
     "champ": "Serie A",
-    "heure": "14H00",
-    "date": "28/12/2024",
-    "pro": "Total 1 (0.5)"
+    "heure": "19H45",
+    "date": "29/12/2024",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/800px-Everton_FC_logo.svg.png",
+    "name1": "Everton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Nottingham Forest",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "29/12/2024",
+    "pro": "Total 2 (0.5)"
   },
     {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
     "name1": "Empoli",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
     "name2": "Genoa",
-    "champ": "Serie A",
-    "heure": "14H00",
-    "date": "28/12/2024",
-    "pro": "Nul dans une Mi-temps"
+    "champ": "Premier Ligue",
+    "heure": "17H15",
+    "date": "29/12/2024",
+    "pro": "Total 2 (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/Boavista_F.C._%28logo%29.svg/1200px-Boavista_F.C._%28logo%29.svg.png",
-    "name2": "Boavista",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4c/SC_Farense_logo.png",
+    "name1": "Farense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
+    "name2": "Vitoria Guimaraes",
     "champ": "Portugal Première Ligue",
-    "heure": "20H30",
-    "date": "28/12/2024",
-    "pro": "Handicap 2 (3.5)"
+    "heure": "19H45",
+    "date": "29/12/2024",
+    "pro": "2X"
   },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/GD_Estoril-Praia.png/640px-GD_Estoril-Praia.png",
-    "name1": "Estoril",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
-    "name2": "Moreirense",
-    "champ": "Portugal Première Ligue",
-    "heure": "18H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Motherwell_FC_crest.svg/1200px-Motherwell_FC_crest.svg.png",
+    "name1": "Motherwell",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
+    "name2": "Rangers",
+    "champ": "Ecosse Première Ligue",
+    "heure": "15H00",
     "date": "28/12/2024",
-    "pro": "Total (1.5)"
+    "pro": "V2"
   }
 ]
