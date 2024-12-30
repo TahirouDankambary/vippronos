@@ -1,62 +1,62 @@
 [
   {
-    "photo1":"https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name2": "Fiorentina",
+    "photo1":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name2": "Lecce",
     "champ": "Serie A",
-    "heure": "17H00",
-    "date": "29/12/2024",
-    "pro": "Nul dans une mi-temps"
+    "heure": "17H30",
+    "date": "30/12/2024",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1306px-Logo_of_AC_Milan.svg.png",
-    "name1": "Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name2": "Roma",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bolongna",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWryEbuhCOg91qAevr9jSv8wJbdwt9MCNxw&s",
+    "name2": "Hellas verona",
     "champ": "Serie A",
     "heure": "19H45",
-    "date": "29/12/2024",
-    "pro": "1X"
+    "date": "30/12/2024",
+    "pro": "Equipe 1 gagne une Mi-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/800px-Everton_FC_logo.svg.png",
-    "name1": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
-    "name2": "Nottingham Forest",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
+    "name2": "Newcastle",
     "champ": "Premier Ligue",
+    "heure": "20H00",
+    "date": "30/12/2024",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLN70EFxpsBfEFxXhEMhdAFiVoHqdhQzI0SQ&s",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+    "name2": "Chelsea",
+    "champ": "Premier Ligue",
+    "heure": "19H45",
+    "date": "30/12/2024",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/eb/El_Gouna_FC_Logo_2017.png",
+    "name1": "El Gouna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/Pyramids_FC_logo.png/640px-Pyramids_FC_logo.png",
+    "name2": "Pyramids",
+    "champ": "Egypte Championnat",
     "heure": "15H00",
-    "date": "29/12/2024",
+    "date": "30/12/2024",
     "pro": "Total 2 (0.5)"
   },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
-    "name1": "Empoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name2": "Genoa",
-    "champ": "Premier Ligue",
-    "heure": "17H15",
-    "date": "29/12/2024",
-    "pro": "Total 2 (1.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4c/SC_Farense_logo.png",
-    "name1": "Farense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal Première Ligue",
-    "heure": "19H45",
-    "date": "29/12/2024",
-    "pro": "2X"
-  },
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Motherwell_FC_crest.svg/1200px-Motherwell_FC_crest.svg.png",
-    "name1": "Motherwell",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name2": "Rangers",
-    "champ": "Ecosse Première Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/2/22/ENPPI_Club_Logo.png",
+    "name1": "ENPPI",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png",
+    "name2": "Al Ahly",
+    "champ": "Egypte Championnat",
     "heure": "15H00",
-    "date": "28/12/2024",
+    "date": "30/12/2024",
     "pro": "V2"
   }
 ]
