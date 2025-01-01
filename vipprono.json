@@ -1,62 +1,62 @@
 [
-  {
-    "photo1":"https://upload.wikimedia.org/wikipedia/en/9/94/Ceramica_Cleopatra_FC_logo.png",
-    "name1": "Ceramica Cleopatra",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Al_Masry_%28logo%29.svg/2057px-Al_Masry_%28logo%29.svg.png",
-    "name2": "Al-Masry",
-    "champ": "Egypte Championnat",
-    "heure": "13H00",
-    "date": "31/12/2024",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/he/5/5c/Ironi_Tiberias_FC.png",
-    "name1": "Ironi Tiberias",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8S30xz7tIno4OhbgftblkgOC0NUraAEMVcw&s",
-    "name2": "Hapoel Kiryat Shmona",
-    "champ": "Israel Première Ligue",
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Angleterre. Premier League",
     "heure": "17H30",
-    "date": "31/12/2024",
-    "pro": "Total 2 (0.5)"
+    "date": "01/01/2025",
+    "pro": "V2"
+  },  
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name1": "Burnley",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNWDwTQqGRD0GHboiU81ILzaVoTDN1JlqFw&s",
+    "name2": "Stoke City",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2025",
+    "pro": "Total 1: (+1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfoQQtEubVe16LkuvPM6jY2GM4CWnOOYElzA&s",
-    "name1": "Maccabi Petach-Tikva",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Hapoel_hadera.svg/1200px-Hapoel_hadera.svg.png",
-    "name2": "Ironi Sport Hadera",
-    "champ": "Israel Première Ligue",
-    "heure": "17H45",
-    "date": "31/12/2024",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
+    "name1": "West Bromwich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
+    "name2": "Preston North End",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2d/FC_Ashdod_%28logo%29.svg/1956px-FC_Ashdod_%28logo%29.svg.png",
-    "name1": "Ashdod",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Bnei_Sakhnin_FC_%28logo%29.svg",
-    "name2": "Bnei Sakhnin",
-    "champ": "Israel Première Ligue",
-    "heure": "18H00",
-    "date": "31/12/2024",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/1200px-Cardiff_City_crest.svg.png",
+    "name1": "Cardiff City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/1200px-Coventry_City_FC_crest.svg.png",
+    "name2": "Coventry City",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/85/The_New_Saints_FC_logo.svg/1200px-The_New_Saints_FC_logo.svg.png",
-    "name1": "The New Saints",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Connahs_Quay_Nomads_FC_logo.svg/1200px-Connahs_Quay_Nomads_FC_logo.svg.png",
-    "name2": "Connah's Quay",
-    "champ": "Pays de Galles Championnat",
-    "heure": "14H30",
-    "date": "31/12/2024",
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name1": "Leeds United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1200px-Blackburn_Rovers.svg.png",
+    "name2": "Blackburn Rovers",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2025",
     "pro": "V1"
   },
-   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Pen-y-Bont_FC_%28logo%29.svg/1200px-Pen-y-Bont_FC_%28logo%29.svg.png",
-    "name1": "Pen-Y-Bont",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/0f/Cardiff_Metropolitan_University_F.C..png",
-    "name2": "Cardiff Metropolitan",
-    "champ": "Pays de Galles Championnat",
-    "heure": "17H45",
-    "date": "31/12/2024",
-    "pro": "Au Moins une Equipe marque (1.5)"
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
+    "name1": "Luton Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Logo_Norwich_City_FC_-_2022.svg/1200px-Logo_Norwich_City_FC_-_2022.svg.png",
+    "name2": "Norwich City",
+    "champ": "Angleterre. Championship",
+    "heure": "15H00",
+    "date": "01/01/2025",
+    "pro": "Total: (+2)"
   }
 ]
