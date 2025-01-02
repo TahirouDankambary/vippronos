@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Angleterre. Premier League",
-    "heure": "17H30",
-    "date": "01/01/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "name1": "Inter",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name2": "Atalanta",
+    "champ": "Coupe d'Italie",
+    "heure": "19H00",
+    "date": "02/01/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
-    "name1": "Burnley",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNWDwTQqGRD0GHboiU81ILzaVoTDN1JlqFw&s",
-    "name2": "Stoke City",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
+    "name1": "Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
+    "name2": "Celtic",
+    "champ": "Ecosse Championnat",
     "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "Total 1: (+1.5)"
+    "date": "02/01/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
-    "name1": "West Bromwich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name2": "Preston North End",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/FC_Aberdeen.svg/1200px-FC_Aberdeen.svg.png",
+    "name1": "Aberdeen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/57/Ross_County_F.C._logo.png",
+    "name2": "Ross County",
+    "champ": "Ecosse Championnat",
     "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "date": "02/01/2025",
+    "pro": "(1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Cardiff_City_crest.svg/1200px-Cardiff_City_crest.svg.png",
-    "name1": "Cardiff City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/1200px-Coventry_City_FC_crest.svg.png",
-    "name2": "Coventry City",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
+    "name1": "Heart Of midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Motherwell_FC_crest.svg/1200px-Motherwell_FC_crest.svg.png",
+    "name2": "Motherwell",
+    "champ": "Ecosse Championnat",
     "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "02/01/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Leeds United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1200px-Blackburn_Rovers.svg.png",
-    "name2": "Blackburn Rovers",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/32/KilmarnockLogo.svg/1200px-KilmarnockLogo.svg.png",
+    "name1": "Kilmarnock",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/St_mirren_fc.svg/1200px-St_mirren_fc.svg.png",
+    "name2": "Saint Mirren",
+    "champ": "Ecosse Championnat",
     "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "V1"
+    "date": "02/01/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
-    "name1": "Luton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Logo_Norwich_City_FC_-_2022.svg/1200px-Logo_Norwich_City_FC_-_2022.svg.png",
-    "name2": "Norwich City",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/St._Johnstone_FC.svg/1200px-St._Johnstone_FC.svg.png",
+    "name1": "St Johnstone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Hibernian_fc.svg/1200px-Hibernian_fc.svg.png",
+    "name2": "Hibernian",
+    "champ": "Ecosse Championnat",
     "heure": "15H00",
-    "date": "01/01/2025",
-    "pro": "Total: (+2)"
+    "date": "02/01/2025",
+    "pro": "2X"
   }
 ]
