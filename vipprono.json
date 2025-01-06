@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c2/Hibernian_fc.svg/1200px-Hibernian_fc.svg.png",
-    "name1": "Hibernian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name2": "Rangers",
-    "champ": "Ecosse Championnat",
-    "heure": "12H00",
-    "date": "05/01/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Wolverhampton_Wanderers.svg",
+    "name1": "Wolverhampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Nottingham",
+    "champ": "Premier Ligue",
+    "heure": "20H00",
+    "date": "06/01/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/4/43/20200407190016%21Logo_Olympique_de_Marseille.svg",
-    "name1": "Marseille",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/e/e6/20211204012343%21Logo_Havre_AC_2012.svg",
-    "name2": "Le Havre",
-    "champ": "Ligue 1",
-    "heure": "19H45",
-    "date": "05/01/2025",
-    "pro": "V1 et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1024px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1306px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
+    "champ": "Coupe d'Italie",
+    "heure": "19H00",
+    "date": "06/01/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "05/01/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/12/Deportiva_Minera.png",
+    "name1": "Deportivo Minera",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name2": "Real",
+    "champ": "Coupe du Roi",
+    "heure": "18H00",
+    "date": "06/01/2025",
+    "pro": "Total Corner (7.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
-    "name2": "PAOK",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Panetolikos_new_emblem.png/210px-Panetolikos_new_emblem.png",
+    "name1": "Panetolikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
+    "name2": "Olympiacos",
     "champ": "Grece Championnat",
-    "heure": "18H30",
-    "date": "05/01/2025",
-    "pro": "Nul dans une Mi-temps"
+    "heure": "16H00",
+    "date": "06/01/2025",
+    "pro": "Equipe 2 va Gagner au moins une Mi-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Volos_FC.png",
-    "name1": "Volos NFC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Aek_ath%C3%A8nes.png",
-    "name2": "AEK Athènes",
-    "champ": "Grece Championnat",
-    "heure": "15H00",
-    "date": "05/01/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPbCfW3JGb5iFxpNApl2MSpOGFfRnBHyE8g&s",
+    "name1": "Maccabi Haifa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Beitar_Jerusalem_FC.svg/1200px-Beitar_Jerusalem_FC.svg.png",
+    "name2": "Beitar Jerusalem",
+    "champ": "Israel Championnat",
+    "heure": 18H30",
+    "date": "06/01/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Sunderland_AFC_Original.svg/1200px-Logo_Sunderland_AFC_Original.svg.png",
-    "name1": "Sunderland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/Portsmouth_FC_logo.svg/1200px-Portsmouth_FC_logo.svg.png",
-    "name2": "Portsmouth",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Queens_Park_Rangers_crest.svg/1200px-Queens_Park_Rangers_crest.svg.png",
+    "name1": "Queens Park",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
+    "name2": "Luton Town",
     "champ": "Angleterre Championship",
     "heure": "15H00",
-    "date": "05/01/2025",
-    "pro": "Equipe 1 va Gagner au moins une Mi-temps"
+    "date": "06/01/2025",
+    "pro": "Total 1 (0.5)"
   }
 ]
