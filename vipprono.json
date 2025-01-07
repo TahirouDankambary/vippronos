@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
-    "name1": "Wolverhampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
-    "name2": "Nottingham",
-    "champ": "Premier Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
+    "name2": "Newcastle",
+    "champ": "Coupe de la Ligue",
     "heure": "20H00",
-    "date": "06/01/2025",
-    "pro": "Total (1.5)"
+    "date": "07/01/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1024px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1306px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "Coupe d'Italie",
-    "heure": "19H00",
-    "date": "06/01/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
+    "name1": "Eldense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name2": "Valencia",
+    "champ": "Coupe du Roi",
+    "heure": "20H00",
+    "date": "07/01/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/1/12/Deportiva_Minera.png",
-    "name1": "Deportivo Minera",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name2": "Real",
-    "champ": "Coupe du Roi",
-    "heure": "18H00",
-    "date": "06/01/2025",
-    "pro": "Total Corner (7.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Club_Brugge_KV.svg/1200px-Club_Brugge_KV.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/1200px-Logo_OH_Leuven_2024.svg.png",
+    "name2": "Louvain",
+    "champ": "Coupe de Belgique",
+    "heure": "19H45",
+    "date": "07/01/2025",
+    "pro": "1X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Panetolikos_new_emblem.png/210px-Panetolikos_new_emblem.png",
-    "name1": "Panetolikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Olympiakos-Piraeus.png",
-    "name2": "Olympiacos",
-    "champ": "Grece Championnat",
-    "heure": "16H00",
-    "date": "06/01/2025",
-    "pro": "Equipe 2 va Gagner au moins une Mi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
+    "name1": "Sint-Truidense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/KRC_Genk_Logo_2016.svg/1200px-KRC_Genk_Logo_2016.svg.png",
+    "name2": "Genk",
+    "champ": "Coupe de Belgique",
+    "heure": "19H45",
+    "date": "07/01/2025",
+    "pro": "Qualification Equipe 2"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwPbCfW3JGb5iFxpNApl2MSpOGFfRnBHyE8g&s",
-    "name1": "Maccabi Haifa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Beitar_Jerusalem_FC.svg/1200px-Beitar_Jerusalem_FC.svg.png",
-    "name2": "Beitar Jerusalem",
-    "champ": "Israel Championnat",
-    "heure": "18H30",
-    "date": "06/01/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "name1": "Sporting",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Coupe de Portugal",
+    "heure": "19H45",
+    "date": "07/01/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Queens_Park_Rangers_crest.svg/1200px-Queens_Park_Rangers_crest.svg.png",
-    "name1": "Queens Park",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/Luton_Town_logo.svg/1200px-Luton_Town_logo.svg.png",
-    "name2": "Luton Town",
-    "champ": "Angleterre Championship",
-    "heure": "15H00",
-    "date": "06/01/2025",
-    "pro": "Total 1 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CD_Tenerife_logo.svg/1200px-CD_Tenerife_logo.svg.png",
+    "name1": "Tenerife",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqv1O9DOtdA-WSfz2jWU08vVesMQP_hTOqQ&s",
+    "name2": "Levante",
+    "champ": "Espagne D2",
+    "heure": "20H30",
+    "date": "07/01/2025",
+    "pro": "2X"
   }
 ]
