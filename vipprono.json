@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name2": "Newcastle",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
     "champ": "Coupe de la Ligue",
     "heure": "20H00",
-    "date": "07/01/2025",
-    "pro": "1X"
+    "date": "08/01/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
-    "name1": "Eldense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name2": "Valencia",
-    "champ": "Coupe du Roi",
-    "heure": "20H00",
-    "date": "07/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name1": "Bilbao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "Super Coupe",
+    "heure": "19H00",
+    "date": "08/01/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Club_Brugge_KV.svg/1200px-Club_Brugge_KV.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_OH_Leuven_2024.svg/1200px-Logo_OH_Leuven_2024.svg.png",
-    "name2": "Louvain",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
+    "name2": "Saint-Gilloise",
     "champ": "Coupe de Belgique",
     "heure": "19H45",
-    "date": "07/01/2025",
-    "pro": "1X et Total (1.5)"
+    "date": "08/01/2025",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/KRC_Genk_Logo_2016.svg/1200px-KRC_Genk_Logo_2016.svg.png",
-    "name2": "Genk",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Nea_Salamis_Famagusta_%28Nea_Salamina%29_Football_Club_logo.svg/1200px-Nea_Salamis_Famagusta_%28Nea_Salamina%29_Football_Club_logo.svg.png",
+    "name1": "Nea Salamis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/APOEL_%28logo_with_stars%29.svg/1200px-APOEL_%28logo_with_stars%29.svg.png",
+    "name2": "APOEL",
     "champ": "Coupe de Belgique",
-    "heure": "19H45",
-    "date": "07/01/2025",
-    "pro": "Qualification Equipe 2"
+    "heure": "17H30",
+    "date": "08/01/2025",
+    "pro": "Au moins une Equipe marqoue (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
-    "name1": "Sporting",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name2": "Porto",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
+    "name1": "Panathinaikos",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e9/Atromitos.png",
+    "name2": "Atromitos",
+    "champ": "Coupe de Grece",
+    "heure": "18H30",
+    "date": "08/01/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name2": "Braga",
     "champ": "Coupe de Portugal",
     "heure": "19H45",
-    "date": "07/01/2025",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/CD_Tenerife_logo.svg/1200px-CD_Tenerife_logo.svg.png",
-    "name1": "Tenerife",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROqv1O9DOtdA-WSfz2jWU08vVesMQP_hTOqQ&s",
-    "name2": "Levante",
-    "champ": "Espagne D2",
-    "heure": "20H30",
-    "date": "07/01/2025",
-    "pro": "2X"
+    "date": "08/01/2025",
+    "pro": "Qualificatio Equipe 1"
   }
 ]
