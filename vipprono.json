@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Coupe de la Ligue",
-    "heure": "20H00",
-    "date": "08/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e6/Logo_Zamalek.png",
+    "name1": "Zamalek",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ar/a/a4/%D9%86%D8%A7%D8%AF%D9%8A_%D8%A3%D8%A8%D9%88_%D9%82%D9%8A%D8%B1_%D9%84%D9%84%D8%A3%D8%B3%D9%85%D8%AF%D8%A9.jpg",
+    "name2": "Abu Quair Semad",
+    "champ": "Coupe d'Egypte",
+    "heure": "12H30",
+    "date": "09/01/2025",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name1": "Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
     "champ": "Super Coupe",
     "heure": "19H00",
-    "date": "08/01/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name1": "Royal Antwerp",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
-    "name2": "Saint-Gilloise",
-    "champ": "Coupe de Belgique",
-    "heure": "19H45",
-    "date": "08/01/2025",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Nea_Salamis_Famagusta_%28Nea_Salamina%29_Football_Club_logo.svg/1200px-Nea_Salamis_Famagusta_%28Nea_Salamina%29_Football_Club_logo.svg.png",
-    "name1": "Nea Salamis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/APOEL_%28logo_with_stars%29.svg/1200px-APOEL_%28logo_with_stars%29.svg.png",
-    "name2": "APOEL",
-    "champ": "Coupe de Belgique",
-    "heure": "17H30",
-    "date": "08/01/2025",
-    "pro": "Au moins une Equipe marqoue (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
-    "name1": "Panathinaikos",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e9/Atromitos.png",
-    "name2": "Atromitos",
-    "champ": "Coupe de Grece",
-    "heure": "18H30",
-    "date": "08/01/2025",
+    "date": "09/01/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name2": "Braga",
-    "champ": "Coupe de Portugal",
-    "heure": "19H45",
-    "date": "08/01/2025",
-    "pro": "Qualification Equipe 1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg/1200px-Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg.png",
+    "name1": "Beerschot",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
+    "name2": "Anderlecht",
+    "champ": "Coupe de Belgique",
+    "heure": "19H30",
+    "date": "09/01/2025",
+    "pro": "Qualification Equipe 2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7c/Logo_Dundee_FC_-_2008.svg/1200px-Logo_Dundee_FC_-_2008.svg.png",
+    "name1": "Dundee",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MIVSRSkB4PE1IxmUm6kFEMdeIaKWz97yEg&s",
+    "name2": "Rangers",
+    "champ": "Ecosse Championat",
+    "heure": "20H00",
+    "date": "09/01/2025",
+    "pro": "Au moins une Equipe marqoue (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
+    "name1": "PAOK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Aek_ath%C3%A8nes.png",
+    "name2": "AEK Athènes",
+    "champ": "Coupe de Grece",
+    "heure": "18H30",
+    "date": "09/01/2025",
+    "pro": "Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
+    "name1": "Al Nassr",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpxSPOcPkn7eauN7EqwrSgYZ_i2mkAlpGwA&s",
+    "name2": "Al-Okhdood",
+    "champ": "Saoudi Ligue",
+    "heure": "17H00",
+    "date": "09/01/2025",
+    "pro": "Au moins une Equipe marqoue (1.5)"
   }
 ]
