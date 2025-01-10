@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e6/Logo_Zamalek.png",
-    "name1": "Zamalek",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ar/a/a4/%D9%86%D8%A7%D8%AF%D9%8A_%D8%A3%D8%A8%D9%88_%D9%82%D9%8A%D8%B1_%D9%84%D9%84%D8%A3%D8%B3%D9%85%D8%AF%D8%A9.jpg",
-    "name2": "Abu Quair Semad",
-    "champ": "Coupe d'Egypte",
-    "heure": "12H30",
-    "date": "09/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Aston_Villa_logo.svg/1200px-Aston_Villa_logo.svg.png",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/1200px-Logo_West_Ham_United_2016.svg.png",
+    "name2": "West-Ham",
+    "champ": "Coupe d'Angleterre",
+    "heure": "20H00",
+    "date": "10/01/2025",
+    "pro": "Au moins une Equipe marqoue (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
-    "name2": "Majorque",
-    "champ": "Super Coupe",
-    "heure": "19H00",
-    "date": "09/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "10/01/2025",
+    "pro": "3 But d'affilé par une Equipe (NON) "
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/27/Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg/1200px-Koninklijke_Beerschot_Voetbalclub_Antwerpen_logo.svg.png",
-    "name1": "Beerschot",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "Anderlecht",
-    "champ": "Coupe de Belgique",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F%C3%BAtbol.svg/1200px-Logo_of_Granada_Club_de_F%C3%BAtbol.svg.png",
+    "name1": "Granada",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
+    "name2": "Burgos",
+    "champ": "Espagne D2",
     "heure": "19H30",
-    "date": "09/01/2025",
-    "pro": "Qualification Equipe 2"
+    "date": "10/01/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7c/Logo_Dundee_FC_-_2008.svg/1200px-Logo_Dundee_FC_-_2008.svg.png",
-    "name1": "Dundee",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_MIVSRSkB4PE1IxmUm6kFEMdeIaKWz97yEg&s",
-    "name2": "Rangers",
-    "champ": "Ecosse Championat",
-    "heure": "20H00",
-    "date": "09/01/2025",
-    "pro": "Au moins une Equipe marqoue (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "10/01/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
-    "name1": "PAOK",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/21/Aek_ath%C3%A8nes.png",
-    "name2": "AEK Athènes",
-    "champ": "Coupe de Grece",
-    "heure": "18H30",
-    "date": "09/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1200px-Logo_Fortuna_Sittard_2024.svg.png",
+    "name1": "Fortuna Sittard",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Go_Ahead_Eagles_logo.svg/1200px-Go_Ahead_Eagles_logo.svg.png",
+    "name2": "Go Ahead",
+    "champ": "Eredivisie",
+    "heure": "19H00",
+    "date": "10/01/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
-    "name1": "Al Nassr",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQpxSPOcPkn7eauN7EqwrSgYZ_i2mkAlpGwA&s",
-    "name2": "Al-Okhdood",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
+    "name1": "Al-Ahli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Al_Shabab_FC_%28Riyadh%29.svg/1200px-Al_Shabab_FC_%28Riyadh%29.svg.png",
+    "name2": "Al Shabab",
     "champ": "Saoudi Ligue",
-    "heure": "17H00",
-    "date": "09/01/2025",
-    "pro": "Au moins une Equipe marqoue (1.5)"
+    "heure": "19H00",
+    "date": "10/01/2025",
+    "pro": "3 But d'affilé par une Equipe (NON)"
   }
 ]
