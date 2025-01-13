@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name1": "RB Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
-    "name2": "Werder Bremen",
-    "champ": "Bundesliga",
-    "heure": "14H30",
-    "date": "12/01/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name1": "Monza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1200px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "13/01/2025",
+    "pro": "Equipe 2 Gagne uneMi-temps"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1200px-FC_Augsburg_-_Logo.svg.png",
-    "name1": "Augsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name2": "Stuttgart",
-    "champ": "Bundesliga",
-    "heure": "16H30",
-    "date": "12/01/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aRS2J72xyu-lraa24fe36U-kb1jbWuLNEQ&s",
+    "name1": "Pisa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Carrarese_Calcio_1908_%28logo%29.svg/1200px-Carrarese_Calcio_1908_%28logo%29.svg.png",
+    "name2": "Carrarese",
+    "champ": "Serie B",
+    "heure": "19H30",
+    "date": "13/01/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "Super Coupe",
-    "heure": "19H00",
-    "date": "12/01/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
+    "name1": "Eldense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_SD_Eibar_2022.svg/1200px-Logo_SD_Eibar_2022.svg.png",
+    "name2": "Eibar",
+    "champ": "Espagne D2",
+    "heure": "19H30",
+    "date": "13/01/2025",
+    "pro": "2X"
   },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
     "name1": "Venise",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
     "name2": "Inter",
-    "champ": "Serie A",
-    "heure": "14H00",
-    "date": "12/01/2025",
-    "pro": "V2"
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "13/01/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/85/US_Salernitana_1919_logo.svg",
-    "name1": "Salermitana",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/US_Sassuolo_Calcio_logo.svg/1200px-US_Sassuolo_Calcio_logo.svg.png",
-    "name2": "Sassuolo",
-    "champ": "Serie B",
-    "heure": "11H30",
-    "date": "12/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1200px-Millwall_FC_crest.svg.png",
+    "name1": "Millwall",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN0x4lW2d_YJcc7a_AcfQrlG2bOKL-WYGkg&s",
+    "name2": "Dagenham",
+    "champ": "Coupe d'Angleterre",
+    "heure": "19H30",
+    "date": "13/01/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name1": "Feyenoord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Eredivisie",
-    "heure": "13H30",
-    "date": "12/01/2025",
-    "pro": "Au moins une EQuipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
+    "name1": "Real Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1200px-Logo_Villarreal_CF_2009.svg.png",
+    "name2": "Villarreal",
+    "champ": "LIGA",
+    "heure": "20H00",
+    "date": "13/01/2025",
+    "pro": "Total (1.5)"
   }
 ]
