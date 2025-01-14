@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name1": "Monza",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/1200px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "13/01/2025",
-    "pro": "Equipe 2 Gagne uneMi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name1": "Nottingham Forest",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
+    "champ": "Premier Ligue",
+    "heure": "20H00",
+    "date": "14/01/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aRS2J72xyu-lraa24fe36U-kb1jbWuLNEQ&s",
-    "name1": "Pisa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/Carrarese_Calcio_1908_%28logo%29.svg/1200px-Carrarese_Calcio_1908_%28logo%29.svg.png",
-    "name2": "Carrarese",
-    "champ": "Serie B",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name2": "Bournemouthe",
+    "champ": "premier Ligue",
     "heure": "19H30",
-    "date": "13/01/2025",
-    "pro": "Total (1.5)"
+    "date": "14/01/2025",
+    "pro": "1X et Total (-4.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
-    "name1": "Eldense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_SD_Eibar_2022.svg/1200px-Logo_SD_Eibar_2022.svg.png",
-    "name2": "Eibar",
-    "champ": "Espagne D2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+    "name2": "Man City",
+    "champ": "Premier Ligue",
     "heure": "19H30",
-    "date": "13/01/2025",
-    "pro": "2X"
+    "date": "14/01/2025",
+    "pro": "Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
-    "name1": "Venise",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "13/01/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/1200px-Holstein_Kiel_Logo.svg.png",
+    "name1": "Holstein",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Bundesliga",
+    "heure": "17H30",
+    "date": "14/01/2025",
+    "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/98/Millwall_FC_crest.svg/1200px-Millwall_FC_crest.svg.png",
-    "name1": "Millwall",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSN0x4lW2d_YJcc7a_AcfQrlG2bOKL-WYGkg&s",
-    "name2": "Dagenham",
-    "champ": "Coupe d'Angleterre",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+    "name2": "Mayence",
+    "champ": "Bundesliga",
     "heure": "19H30",
-    "date": "13/01/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "14/01/2025",
+    "pro": "1X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_Villarreal_CF_2009.svg/1200px-Logo_Villarreal_CF_2009.svg.png",
-    "name2": "Villarreal",
-    "champ": "LIGA",
-    "heure": "20H00",
-    "date": "13/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name2": "Juventus",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "14/01/2025",
+    "pro": "Handicap 2 (1.5)"
   }
 ]
