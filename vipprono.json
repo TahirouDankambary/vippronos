@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/1200px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name1": "Atletico Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Coupe du Roi",
-    "heure": "18H30",
-    "date": "16/01/2025",
-    "pro": "Qualification Equipe 1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvL910vfJ0xQkAJSx70djt4FysdDoGKd1qgg&s",
+    "name1": "Frankurt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "17/01/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
-    "name2": "Rayo Vallecano",
-    "champ": "Coupe du Roi",
-    "heure": "18H30",
-    "date": "16/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "17/01/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "Coupe du Roi",
-    "heure": "20H30",
-    "date": "16/01/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
-    "name2": "Royal Antwerp",
-    "champ": "Coupe de Belgique",
-    "heure": "19H45",
-    "date": "16/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
+    "name1": "Sampdoria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Cesena_FC_%28logo%29.svg/1200px-Cesena_FC_%28logo%29.svg.png",
+    "name2": "Cesena",
+    "champ": "Serie B",
+    "heure": "19H30",
+    "date": "17/01/2025",
     "pro": "1X"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/1200px-Logo_Ipswich_Town_2024.svg.png",
-    "name1": "Ipswich",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-    "name2": "Brighton",
-    "champ": "Premier Ligue",
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/F%C3%BAtbol_Club_Cartagena_%28logo%29.svg/1200px-F%C3%BAtbol_Club_Cartagena_%28logo%29.svg.png",
+    "name1": "Cartagena",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "name2": "Real Oviedo",
+    "champ": "Espagne D2",
     "heure": "19H30",
-    "date": "15/01/2025",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "date": "17/01/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name1": "Man United",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErs39ulml8TvwycZTnpENXxZJan0w6p_n4w&s",
-    "name2": "Southampton",
-    "champ": "Premier Ligue",
-    "heure": "20H00",
-    "date": "16/01/2025",
-    "pro": "Total 1 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
+    "name2": "Famalicao",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H15",
+    "date": "17/01/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1200px-Logo_KAA_Gent_2024.svg.png",
+    "name1": "La Gantoise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/1200px-Sporting_de_Charleroi_%28logo%29.svg.png",
+    "name2": "Charleroi",
+    "champ": "Jupiler Ligue",
+    "heure": "19H45",
+    "date": "17/01/2025",
+    "pro": "1X"
   }
 ]
