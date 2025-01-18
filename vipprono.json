@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvL910vfJ0xQkAJSx70djt4FysdDoGKd1qgg&s",
-    "name1": "Frankurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
-    "name2": "Dortmund",
-    "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "17/01/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name1": "Brentford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name2": "Liverpool",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "18/01/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name2": "Genoa",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "17/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
+    "name1": "Bochum",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
+    "name2": "Leipzig",
+    "champ": "Bundesliga",
+    "heure": "14H30",
+    "date": "18/01/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "name1": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "La LIGA",
+    "heure": "20H00",
+    "date": "18/01/2025",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Leganes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Atlético",
+    "champ": "La LIGA",
+    "heure": "15H15",
+    "date": "18/01/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
-    "name1": "Sampdoria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Cesena_FC_%28logo%29.svg/1200px-Cesena_FC_%28logo%29.svg.png",
-    "name2": "Cesena",
-    "champ": "Serie B",
-    "heure": "19H30",
-    "date": "17/01/2025",
-    "pro": "1X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/F%C3%BAtbol_Club_Cartagena_%28logo%29.svg/1200px-F%C3%BAtbol_Club_Cartagena_%28logo%29.svg.png",
-    "name1": "Cartagena",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "name2": "Real Oviedo",
-    "champ": "Espagne D2",
-    "heure": "19H30",
-    "date": "17/01/2025",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
-    "name2": "Famalicao",
-    "champ": "Portugal Première Ligue",
-    "heure": "20H15",
-    "date": "17/01/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1200px-Logo_KAA_Gent_2024.svg.png",
-    "name1": "La Gantoise",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/1200px-Sporting_de_Charleroi_%28logo%29.svg.png",
-    "name2": "Charleroi",
-    "champ": "Jupiler Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SSC_Napoli.svg/2048px-SSC_Napoli.svg.png",
+    "name2": "Naples",
+    "champ": "Serie A",
     "heure": "19H45",
-    "date": "17/01/2025",
-    "pro": "1X"
+    "date": "18/01/2025",
+    "pro": "Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/1200px-RC_Lens_logo.svg.png",
+    "name1": "Lens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
+    "champ": "Ligue 1",
+    "heure": "16H00",
+    "date": "18/01/2025",
+    "pro": "2X"
   }
 ]
