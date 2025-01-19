@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name2": "Liverpool",
-    "champ": "Premier Ligue",
-    "heure": "15H00",
-    "date": "18/01/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LogoN.E.C.png/266px-LogoN.E.C.png",
+    "name1": "N.E.C",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88uEXSKkpArOTSz_wr9i9AjOStKYKw0pcrQ&s",
+    "name2": "Fortuna Sittard",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "15H45",
+    "date": "19/01/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/VfL_Bochum_logo.svg/1945px-VfL_Bochum_logo.svg.png",
-    "name1": "Bochum",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Logo_RB_Leipzig_2020.svg/1200px-Logo_RB_Leipzig_2020.svg.png",
-    "name2": "Leipzig",
-    "champ": "Bundesliga",
-    "heure": "14H30",
-    "date": "18/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
+    "name1": "Sparta Rotterdam",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
+    "name2": "Waalwijk",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "19H00",
+    "date": "19/01/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
-    "name1": "Getafe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "La LIGA",
-    "heure": "20H00",
-    "date": "18/01/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
+    "name1": "Moreirense",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/SC_Farense_logo.png/130px-SC_Farense_logo.png",
+    "name2": "Farense",
+    "champ": "Portugal. Première Ligue",
+    "heure": "15H30",
+    "date": "19/01/2025",
+    "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atlético",
-    "champ": "La LIGA",
-    "heure": "15H15",
-    "date": "18/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT65yeD47U6a-EZntGA3B5IQCEDBwKCMAWLKQ&s",
+    "name1": "Estrela da Amadora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/79/SC_Braga_%28logo%29.svg/1200px-SC_Braga_%28logo%29.svg.png",
+    "name2": "Braga",
+    "champ": "Portugal. Première Ligue",
+    "heure": "18H00",
+    "date": "19/01/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SSC_Napoli.svg/2048px-SSC_Napoli.svg.png",
-    "name2": "Naples",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "18/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYx2ICg3fw-WApdLtJMwpMc1EjSE23BqG-XQ&s",
+    "name1": "Gil Vicente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
+    "name2": "Porto",
+    "champ": "Portugal. Première Ligue",
+    "heure": "20H30",
+    "date": "19/01/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/1200px-RC_Lens_logo.svg.png",
-    "name1": "Lens",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name2": "PSG",
-    "champ": "Ligue 1",
-    "heure": "16H00",
-    "date": "18/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/19/Stade_de_Reims_logo.svg/1200px-Stade_de_Reims_logo.svg.png",
+    "name1": "Stade de Reims",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Le_Havre_AC_logo.svg/1200px-Le_Havre_AC_logo.svg.png",
+    "name2": "Le Havre",
+    "champ": "France. Ligue 1",
+    "heure": "16H15",
+    "date": "19/01/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   }
 ]
