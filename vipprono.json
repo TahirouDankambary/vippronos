@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/Wolverhampton_Wanderers_FC_crest.svg/1200px-Wolverhampton_Wanderers_FC_crest.svg.png",
-    "name2": "Wolverhampton",
-    "champ": "Premier Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Red_star.svg/1076px-Red_star.svg.png",
+    "name1": "Etoile Rouge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name2": "PSV",
+    "champ": "LDC",
     "heure": "20H00",
-    "date": "20/01/2025",
-    "pro": "V1"
+    "date": "21/01/2025",
+    "pro": "Total 2 (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-    "name2": "Udinese",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "20/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name1": "Club Bruges",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name2": "Juventus",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "21/01/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CD_Mirand%C3%A9s_logo.svg/1200px-CD_Mirand%C3%A9s_logo.svg.png",
-    "name1": "Mirandes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/1200px-Logo_M%C3%A1laga_CF.svg.png",
-    "name2": "Malaga",
-    "champ": "Espagne D2",
-    "heure": "19H30",
-    "date": "20/01/2025",
-    "pro": "Handicap 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "21/01/2025",
+    "pro": "2X et Total (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/1200px-FC_Rapid_Bucuresti_logo.svg.png",
-    "name1": "Rapid Bucuresti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/FC_Politehnica_Iasi_%28logo%29.svg/1200px-FC_Politehnica_Iasi_%28logo%29.svg.png",
-    "name2": "Politehnica Lasi",
-    "champ": "Roumanie Championnat",
-    "heure": "18H00",
-    "date": "20/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name1": "Atletico",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "21/01/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
-    "name2": "De Graafschap",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "20/01/2025",
-    "pro": "Au Moins une Equipe Marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SK_Slovan_Bratislava_logo.svg/1200px-SK_Slovan_Bratislava_logo.svg.png",
+    "name1": "Slovan Bratislava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "21/01/2025",
+    "pro": "Total 2 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Roda_JC_Kerkrade_logo.svg/1200px-Roda_JC_Kerkrade_logo.svg.png",
-    "name1": "Roda JC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4d/SC_Cambuur_logo.png",
-    "name2": "Cambuur",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "19/01/2025",
-    "pro": "Au Moins une Equipe Marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1200px-Logo_LOSC_Lille_2018.svg.png",
+    "name2": "Lille",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "21/01/2025",
+    "pro": "Total (2.5)"
   }
 ]
