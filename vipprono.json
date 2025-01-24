@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
-    "name1": "Sint-Truidense",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYAYPW18jXWkRmxDS8LykNWvWWrmgdaSVog&s",
-    "name2": "Royal Antwerp",
-    "champ": "Jupiler Ligue",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
+    "name1": "Empoli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name2": "Bologna",
+    "champ": "Italie. Série A",
     "heure": "19H45",
-    "date": "24/01/2025",
-    "pro": "2X"
+    "date": "25/01/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heracles_Almelo_logo.svg/1200px-Heracles_Almelo_logo.svg.png",
-    "name1": "Heracles",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Eredivisie",
-    "heure": "19H00",
-    "date": "24/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
+    "name1": "Majorque",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name2": "Real Betis",
+    "champ": "Espagne. LaLiga",
+    "heure": "13H00",
+    "date": "25/01/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
-    "name1": "Wolfsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
-    "name2": "Holstein Kiel",
-    "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "24/01/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name1": "Atlético Madrid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
+    "name2": "Villarreal",
+    "champ": "Espagne. LaLiga",
+    "heure": "15H15",
+    "date": "25/01/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
-    "name1": "Torino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name2": "Cagliari",
-    "champ": "Serie A",
-    "heure": "17H45",
-    "date": "24/01/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://c0.klipartz.com/pngpicture/372/768/gratis-png-spezia-calcio-la-spezia-serie-b-a-s-bari-parma-calcio-1913-ac-thumbnail.png",
-    "name1": "Spezia",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVTn1QEWcIfRYZgP05ON5yfaxFsPzpQtjYig&s",
-    "name2": "Sassuolo",
-    "champ": "Serie B",
-    "heure": "19H30",
-    "date": "24/01/2025",
-    "pro": "Tota 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name1": "Juventus Femmes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter Femmes",
-    "champ": "Serie A Femmes",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgY1xt4YDlktoFld2bLkIMLrNNt0oj0dPuCg&s",
+    "name1": "Séville",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTYVduLR9Yl_0M8LOkTcW54_lemzVGKCR9A&s",
+    "name2": "Espagnol",
+    "champ": "Espagne. LaLiga",
     "heure": "17H30",
-    "date": "24/01/2025",
-    "pro": "Total (2.5)"
+    "date": "25/01/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/0e/Logo_Real_Valladolid_CF_-_2022.svg",
+    "name1": "Real Valladolid",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name2": "Real Madrid",
+    "champ": "Espagne. LaLiga",
+    "heure": "20H00",
+    "date": "25/01/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/1200px-Logo_AS_Monaco_FC_2021.svg.png",
+    "name1": "AS Monaco",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/1200px-Stade_Rennais_FC.svg.png",
+    "name2": "Stade Rennais",
+    "champ": "France. Ligue 1",
+    "heure": "16H00",
+    "date": "25/01/2025",
+    "pro": "12"
   }
 ]
