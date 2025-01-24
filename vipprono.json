@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
-    "name2": "Real Sociedad",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "23/01/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/f1/K._Sint-Truidense_V.V._logo.png",
+    "name1": "Sint-Truidense",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVYAYPW18jXWkRmxDS8LykNWvWWrmgdaSVog&s",
+    "name2": "Royal Antwerp",
+    "champ": "Jupiler Ligue",
+    "heure": "19H45",
+    "date": "24/01/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ybrpSqYVk4NpraPdvTLe1yAC5ux8VmQj0Q&s",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name2": "Ranger",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "23/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Heracles_Almelo_logo.svg/1200px-Heracles_Almelo_logo.svg.png",
+    "name1": "Heracles",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht",
+    "champ": "Eredivisie",
+    "heure": "19H00",
+    "date": "24/01/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "name1": "Wolfsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Holstein_Kiel_Logo.svg/2048px-Holstein_Kiel_Logo.svg.png",
+    "name2": "Holstein Kiel",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "24/01/2025",
     "pro": "Au moins une Equipe marque (1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name1": "Plzen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "Anderlecht",
-    "champ": "Europa Ligue",
-    "heure": "17H45",
-    "date": "23/01/2025",
-    "pro": "Handicap 2 (1.5)"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
-    "name1": "Qarabag",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Europa Ligue",
-    "heure": "17H15",
-    "date": "23/01/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1200px-Torino_FC_Logo.svg.png",
+    "name1": "Torino",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "name2": "Cagliari",
+    "champ": "Serie A",
+    "heure": "17H45",
+    "date": "24/01/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRE0R3vMp4M9BNAeiGJtI3rtdm9bOftdMEag&s",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
-    "name2": "Ferencvarosi",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "23/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Spezia_Calcio_-_2023.svg",
+    "name1": "Spezia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVTn1QEWcIfRYZgP05ON5yfaxFsPzpQtjYig&s",
+    "name2": "Sassuolo",
+    "champ": "Serie B",
+    "heure": "19H30",
+    "date": "24/01/2025",
+    "pro": "Tota 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Rigas_FS_Logo.png",
-    "name1": "Rigas Futbola",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name2": "Ajax",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "23/01/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus Femmes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Femmes",
+    "champ": "Serie A Femmes",
+    "heure": "17H30",
+    "date": "24/01/2025",
+    "pro": "Total (2.5)"
   }
 ]
