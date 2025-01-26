@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
-    "name1": "Empoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name2": "Bologna",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "25/01/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name1": "Lecce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Série A",
+    "heure": "17H00",
+    "date": "26/01/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
-    "name1": "Majorque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name2": "Real Betis",
-    "champ": "Espagne. LaLiga",
-    "heure": "13H00",
-    "date": "25/01/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "name1": "Lazio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "26/01/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atlético Madrid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqFUm15dUojLz9j4WwsxkCetQTxUvBuVJstg&s",
-    "name2": "Villarreal",
-    "champ": "Espagne. LaLiga",
-    "heure": "15H15",
-    "date": "25/01/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name2": "Valence",
+    "champ": "La Liga",
+    "heure": "20H00",
+    "date": "26/01/2025",
+    "pro": "V1"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgY1xt4YDlktoFld2bLkIMLrNNt0oj0dPuCg&s",
-    "name1": "Séville",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtTYVduLR9Yl_0M8LOkTcW54_lemzVGKCR9A&s",
-    "name2": "Espagnol",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H30",
-    "date": "25/01/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
+    "name1": "Nice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1200px-Logo_Olympique_de_Marseille.svg.png",
+    "name2": "Marseille",
+    "champ": "Ligue 1",
+    "heure": "19H45",
+    "date": "26/01/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lctoayJUKcQbm8NakCaDwcYszsetV7IgOA&s",
-    "name1": "Real Valladolid",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name2": "Real Madrid",
-    "champ": "Espagne. LaLiga",
-    "heure": "20H00",
-    "date": "25/01/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name1": "AZ",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
+    "name2": "Sparta Rotterdam",
+    "champ": "EreDivisie",
+    "heure": "19H45",
+    "date": "26/01/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_AS_Monaco_FC_2021.svg/1200px-Logo_AS_Monaco_FC_2021.svg.png",
-    "name1": "AS Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Stade_Rennais_FC.svg/1200px-Stade_Rennais_FC.svg.png",
-    "name2": "Stade Rennais",
-    "champ": "France. Ligue 1",
-    "heure": "16H00",
-    "date": "25/01/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmpEYV70eNOuLoN1LzHujOZy1Se5tjXQVWw&s",
+    "name1": "Estoril",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Portugal Premier Ligue",
+    "heure": "15H30",
+    "date": "26/01/2025",
+    "pro": "2X"
   }
 ]
