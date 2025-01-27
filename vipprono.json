@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
-    "name1": "Lecce",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "Série A",
-    "heure": "17H00",
-    "date": "26/01/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds United",
+    "champ": "Angleterre Championship",
+    "heure": "20H00",
+    "date": "27/01/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "26/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Deportivo_Alaves_logo_%282020%29.svg",
+    "name1": "Alaves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
+    "name2": "Celta Vigo",
+    "champ": "La LIGA",
+    "heure": "20H00",
+    "date": "27/01/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name2": "Valence",
-    "champ": "La Liga",
-    "heure": "20H00",
-    "date": "26/01/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/C%C3%A1diz_CF_logo.svg/1200px-C%C3%A1diz_CF_logo.svg.png",
+    "name1": "Cadiz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CD_Mirand%C3%A9s_logo.svg/1200px-CD_Mirand%C3%A9s_logo.svg.png",
+    "name2": "Mirandes",
+    "champ": "Espagne D2",
+    "heure": "19H30",
+    "date": "27/01/2025",
+    "pro": "Nul dans une Mi-temps"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
-    "name1": "Nice",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1200px-Logo_Olympique_de_Marseille.svg.png",
-    "name2": "Marseille",
-    "champ": "Ligue 1",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name2": "Monza",
+    "champ": "Serie A",
     "heure": "19H45",
-    "date": "26/01/2025",
-    "pro": "2X"
+    "date": "27/01/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name1": "AZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
-    "name2": "Sparta Rotterdam",
-    "champ": "EreDivisie",
-    "heure": "19H45",
-    "date": "26/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
+    "name1": "Venise",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name2": "Hellas Verona",
+    "champ": "Serie A",
+    "heure": "17H30",
+    "date": "27/01/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYmpEYV70eNOuLoN1LzHujOZy1Se5tjXQVWw&s",
-    "name1": "Estoril",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal Premier Ligue",
-    "heure": "15H30",
-    "date": "26/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al-Qadsiah_Logo.svg/1200px-Al-Qadsiah_Logo.svg.png",
+    "name1": "Al-Qadisiyad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
+    "name2": "AL-Hilal",
+    "champ": "Saoudi Ligue",
+    "heure": "17H00",
+    "date": "27/01/2025",
+    "pro": "2X et Total (1.5)"
   }
 ]
