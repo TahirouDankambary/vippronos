@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds United",
-    "champ": "Angleterre Championship",
-    "heure": "20H00",
-    "date": "27/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/1200px-Logo_Wrexham_AFC.svg.png",
+    "name1": "Wrexham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1200px-Logo_Stevenage_FC_2019.svg.png",
+    "name2": "Stevenage",
+    "champ": "Angleterre Ligue 1",
+    "heure": "19H45",
+    "date": "28/01/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f8/Deportivo_Alaves_logo_%282020%29.svg",
-    "name1": "Alaves",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "La LIGA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Huddersfield_Town_AFC_2019.svg/1200px-Logo_Huddersfield_Town_AFC_2019.svg.png",
+    "name1": "Huddersfield",
+    "photo2": "https://w7.pngwing.com/pngs/215/438/png-transparent-st-andrew-s-birmingham-city-f-c-premier-league-english-football-league-birmingham-city-l-f-c-premier-league-st-andrew-s-birmingham-city-f-c-premier-league-thumbnail.png",
+    "name2": "Birmingham",
+    "champ": "Angleterre Ligue 1",
     "heure": "20H00",
-    "date": "27/01/2025",
+    "date": "28/01/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Wycombe_Wanderers_FC_logo.svg/1200px-Wycombe_Wanderers_FC_logo.svg.png",
+    "name1": "Wycombe",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yZx-k9ZOiv3eMrB9k3gWW6UY_P_ZmDsb4Q&s",
+    "name2": "Bransley",
+    "champ": "Angleterre Ligue 1",
+    "heure": "19H30",
+    "date": "28/01/2025",
     "pro": "Total (1.5)"
   },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/C%C3%A1diz_CF_logo.svg/1200px-C%C3%A1diz_CF_logo.svg.png",
-    "name1": "Cadiz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/CD_Mirand%C3%A9s_logo.svg/1200px-CD_Mirand%C3%A9s_logo.svg.png",
-    "name2": "Mirandes",
-    "champ": "Espagne D2",
-    "heure": "19H30",
-    "date": "27/01/2025",
-    "pro": "Nul dans une Mi-temps"
-  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name2": "Monza",
-    "champ": "Serie A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Fleetwood_Town_F.C._logo.svg/1200px-Fleetwood_Town_F.C._logo.svg.png",
+    "name1": "Fleetwood",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Walsall_FC.svg/1200px-Walsall_FC.svg.png",
+    "name2": "Walsall",
+    "champ": "Angleterre Ligue 2",
     "heure": "19H45",
-    "date": "27/01/2025",
-    "pro": "Total 2 (0.5)"
+    "date": "28/01/2025",
+    "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
-    "name1": "Venise",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
-    "name2": "Hellas Verona",
-    "champ": "Serie A",
-    "heure": "17H30",
-    "date": "27/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/61/Logo_Crewe_Alexandra_FC_1995.svg",
+    "name1": "Crewe",
+    "photo2": "https://banner2.cleanpng.com/20180525/gts/kisspng-kingsmeadow-afc-wimbledon-english-football-league-escudos-de-futbol-5b0879994b8bc0.7995098115272820733095.jpg",
+    "name2": "Tournoi de Wimbledon",
+    "champ": "Angleterre Ligue 2",
+    "heure": "19H45",
+    "date": "28/01/2025",
     "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Al-Qadsiah_Logo.svg/1200px-Al-Qadsiah_Logo.svg.png",
-    "name1": "Al-Qadisiyad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
-    "name2": "AL-Hilal",
-    "champ": "Saoudi Ligue",
-    "heure": "17H00",
-    "date": "27/01/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9c/Colchester_United_FC_crest.svg/1200px-Colchester_United_FC_crest.svg.png",
+    "name1": "Colchester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/1200px-Logo_Port_Vale_FC.svg.png",
+    "name2": "Port Vale",
+    "champ": "Angleterre Ligue 2",
+    "heure": "19H45",
+    "date": "28/01/2025",
+    "pro": "Total 2 (0.5)"
   }
 ]
