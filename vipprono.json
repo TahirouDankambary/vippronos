@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/1200px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Logo_TSG_1899_Hoffenheim_2024.svg/1200px-Logo_TSG_1899_Hoffenheim_2024.svg.png",
-    "name2": "Hoffenheim",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1200px-Logo_Parma.svg.png",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name2": "Lecce",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "31/01/2025",
+    "pro": "Total 1 (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name1": "FCSB",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6ybrpSqYVk4NpraPdvTLe1yAC5ux8VmQj0Q&s",
-    "name2": "Man United",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/33/FC_Dordrecht.png",
+    "name1": "Dordrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
+    "name2": "De Graafschap",
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "31/01/2025",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
-    "name1": "Midtjylland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Fenerbah%C3%A7e.svg/1200px-Fenerbah%C3%A7e.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "30/01/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
+    "name1": "Werder Bremen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
+    "name2": "Mayence",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "31/01/2025",
     "pro": "Au moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/OGC_Nice_logo.svg/1200px-OGC_Nice_logo.svg.png",
-    "name1": "Nice",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name2": "Bodo-Gilmt",
-    "champ": "Europa Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
+    "name1": "Blackburn",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
+    "name2": "Preston North End",
+    "champ": "Angleterre Championship",
     "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Equipe 1 Gagne une Mi-temps"
+    "date": "31/01/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name1": "Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/02/Royale_Union_Saint-Gilloise_logo.png",
-    "name2": "Saint-gilloise",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Les deux marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ec/Logo_SV_Elversberg_2021.svg/1200px-Logo_SV_Elversberg_2021.svg.png",
+    "name1": "Elvessberg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/1200px-Karlsruher_SC_Logo_2.svg.png",
+    "name2": "Karlsruher",
+    "champ": "Bundesliga 2",
+    "heure": "17H30",
+    "date": "31/01/2025",
+    "pro": "Total 2 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
-    "name1": "Ferencvarosi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name2": "AZ",
-    "champ": "Europa Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Leganes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name2": "Rayo Vallecano",
+    "champ": "La LIGA",
     "heure": "20H00",
-    "date": "30/01/2025",
-    "pro": "Total 2 (0.5)"
+    "date": "31/01/2025",
+    "pro": "Les deux Marque"
   }
 ]
