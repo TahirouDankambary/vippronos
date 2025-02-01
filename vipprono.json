@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1200px-Logo_Parma.svg.png",
-    "name1": "Parma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
-    "name2": "Lecce",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "31/01/2025",
-    "pro": "Total 1 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name1": "Nottingham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name2": "Brighton",
+    "champ": "Premier Ligue",
+    "heure": "12H30",
+    "date": "01/02/2025",
+    "pro": "Total 1 (0.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/33/FC_Dordrecht.png",
-    "name1": "Dordrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_De_Graafschap_2024.svg/1200px-Logo_De_Graafschap_2024.svg.png",
-    "name2": "De Graafschap",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "31/01/2025",
-    "pro": "Total 1 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
+    "name2": "Liverpool",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "01/02/2025",
+    "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Werder_Bremen_2024.svg/1200px-Logo_Werder_Bremen_2024.svg.png",
-    "name1": "Werder Bremen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_Mainz_05.svg/1200px-Logo_Mainz_05.svg.png",
-    "name2": "Mayence",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
+    "name1": "Heidenheim",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
     "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "31/01/2025",
+    "heure": "14H30",
+    "date": "01/02/2025",
     "pro": "Au moins une Equipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
-    "name1": "Blackburn",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name2": "Preston North End",
-    "champ": "Angleterre Championship",
-    "heure": "20H00",
-    "date": "31/01/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "01/02/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ec/Logo_SV_Elversberg_2021.svg/1200px-Logo_SV_Elversberg_2021.svg.png",
-    "name1": "Elvessberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Karlsruher_SC_Logo_2.svg/1200px-Karlsruher_SC_Logo_2.svg.png",
-    "name2": "Karlsruher",
-    "champ": "Bundesliga 2",
-    "heure": "17H30",
-    "date": "31/01/2025",
-    "pro": "Total 2 (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
-    "name2": "Rayo Vallecano",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
+    "name1": "Espanyol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143652%21Logo_Real_Madrid.svg",
+    "name2": "Real",
     "champ": "La LIGA",
     "heure": "20H00",
-    "date": "31/01/2025",
-    "pro": "Les deux Marque"
+    "date": "01/02/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LogoN.E.C.png/266px-LogoN.E.C.png",
+    "name1": "NEC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name2": "PSV",
+    "champ": "Eredivisie",
+    "heure": "20H00",
+    "date": "01/02/2025",
+    "pro": "V2"
   }
 ]
