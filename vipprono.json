@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
-    "name2": "West-Ham",
-    "champ": "Premier Ligue",
-    "heure": "20H00",
-    "date": "03/02/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Heracles_Almelo_%28logo%29.svg/1200px-Heracles_Almelo_%28logo%29.svg.png",
+    "name1": "Heracles Almelo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht",
+    "champ": "Coupe des Pays-Bas",
+    "heure": "19H00",
+    "date": "04/02/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gerone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
-    "name2": "Las Palmas",
-    "champ": "LA Liga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
+    "name1": "Atalanta",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name2": "Bologna",
+    "champ": "Coupe d'Italie",
     "heure": "20H00",
-    "date": "03/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "04/02/2025",
+    "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Suttgart",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1200px-FC_Augsburg_-_Logo.svg.png",
+    "name2": "Augsbourg",
+    "champ": "Coupe d'Allemagne",
     "heure": "19H45",
-    "date": "03/02/2025",
-    "pro": "2X"
+    "date": "04/02/2025",
+    "pro": "Total (2.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Al_Sadd_SC_logo.svg/1200px-Al_Sadd_SC_logo.svg.png",
-    "name1": "Al Sadd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name2": "Al-Ahli",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
+    "name1": "AL-Hilal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/44/Persepolis_FC_Logo_2017.png",
+    "name2": "Persepolis",
+    "champ": "AFC Champions League",
+    "heure": "18H00",
+    "date": "04/02/2025",
+    "pro": "Total 1 (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
+    "name1": "Queens Park",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
+    "name2": "Blackburn",
+    "champ": "Angleterre Championship",
+    "heure": "19H45",
+    "date": "04/02/2025",
+    "pro": "Les deux Marque"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/80/Al-Gharafa_SC_logo.png",
+    "name1": "Al-Gharafa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Pakhtakor_Tashkent_FK_logo.svg/1200px-Pakhtakor_Tashkent_FK_logo.svg.png",
+    "name2": "Pakhtakor",
     "champ": "AFC Champions League",
     "heure": "16H00",
-    "date": "03/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b6/Moreirense_Futebol_Clube_%28logo%29.svg/1200px-Moreirense_Futebol_Clube_%28logo%29.svg.png",
-    "name1": "Moreirense",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name2": "Braga",
-    "champ": "Portugal Premier Ligue",
-    "heure": "18H45",
-    "date": "03/02/2025",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Gazi%C5%9Fehir_Gaziantep_%28logo%29.svg/1200px-Gazi%C5%9Fehir_Gaziantep_%28logo%29.svg.png",
-    "name1": "Gazisehir Gaziantep",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg/800px-Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg.png",
-    "name2": "Galatasaray",
-    "champ": "Super Lig",
-    "heure": "17H00",
-    "date": "03/02/2025",
-    "pro": "Total 2  (1.5)"
+    "date": "04/02/2025",
+    "pro": "Total (2.5)"
   }
 ]
