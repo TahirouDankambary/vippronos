@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Heracles_Almelo_%28logo%29.svg/1200px-Heracles_Almelo_%28logo%29.svg.png",
-    "name1": "Heracles Almelo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Coupe des Pays-Bas",
-    "heure": "19H00",
-    "date": "04/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1200px-Logo_Newcastle_United_FC.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Coupe de la Ligue",
+    "heure": "20H00",
+    "date": "05/02/2025",
     "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name2": "Bologna",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/800px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name2": "Roma",
     "champ": "Coupe d'Italie",
     "heure": "20H00",
-    "date": "04/02/2025",
-    "pro": "Les deux Marque"
+    "date": "05/02/2025",
+    "pro": "1X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "Suttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/FC_Augsburg_-_Logo.svg/1200px-FC_Augsburg_-_Logo.svg.png",
-    "name2": "Augsbourg",
-    "champ": "Coupe d'Allemagne",
-    "heure": "19H45",
-    "date": "04/02/2025",
-    "pro": "Total (2.5)"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
-    "name1": "AL-Hilal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/44/Persepolis_FC_Logo_2017.png",
-    "name2": "Persepolis",
-    "champ": "AFC Champions League",
-    "heure": "18H00",
-    "date": "04/02/2025",
-    "pro": "Total 1 (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "name1": "Queens Park",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Logo_Blackburn_Rovers.svg/1200px-Logo_Blackburn_Rovers.svg.png",
-    "name2": "Blackburn",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/1200px-Coventry_City_FC_crest.svg.png",
+    "name1": "Coventry",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds",
     "champ": "Angleterre Championship",
     "heure": "19H45",
-    "date": "04/02/2025",
-    "pro": "Les deux Marque"
+    "date": "05/02/2025",
+    "pro": "V2"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Leganes",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name2": "Real",
+    "champ": "Coupe du ROi",
+    "heure": "20H00",
+    "date": "05/02/2025",
+    "pro": "Au Moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/8/80/Al-Gharafa_SC_logo.png",
-    "name1": "Al-Gharafa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Pakhtakor_Tashkent_FK_logo.svg/1200px-Pakhtakor_Tashkent_FK_logo.svg.png",
-    "name2": "Pakhtakor",
-    "champ": "AFC Champions League",
-    "heure": "16H00",
-    "date": "04/02/2025",
-    "pro": "Total (2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/1200px-Logo_KRC_Genk_2021.svg.png",
+    "name1": "Genk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name2": "Club Bruges",
+    "champ": "Coupe de Belgique",
+    "heure": "19H45",
+    "date": "05/02/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQExN7otiPmq2ZmVAdzhCT5QiZDSHxLd8FfWA&s",
+    "name1": "Zalaegerszegi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
+    "name2": "Ferencvarosi",
+    "champ": "Hongrie Championnat",
+    "heure": "18H30",
+    "date": "05/02/2025",
+    "pro": "Total 2 (1.5)"
   }
 ]
