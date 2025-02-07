@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "06/02/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5W-_xOhNShWJTsCe0jgD1kOIEF6TuswwYg&s",
+    "name1": "Brondby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
+    "name2": "Rosenborg",
+    "champ": "Atalantic Cup",
+    "heure": "16H00",
+    "date": "07/02/2025",
+    "pro": "Au Moins une Equipe marque"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
-    "name1": "Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "Coupe du Roi",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name1": "Rayo Vallecano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/Logo_Real_Valladolid_CF_-_2022.svg",
+    "name2": "Real Valladolid",
+    "champ": "La LIGA",
     "heure": "20H00",
-    "date": "06/02/2025",
-    "pro": "2X"
+    "date": "07/02/2025",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name1": "Valencia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "Coupe du Roi",
-    "heure": "20H30",
-    "date": "06/02/2025",
-    "pro": "Total 2 (2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d3/KV_Mechelen_%28logo%29.svg",
+    "name1": "Mechelen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1200px-Logo_KAA_Gent_2024.svg.png",
+    "name2": "La Gantoise",
+    "champ": "Jupiler Ligue",
+    "heure": "19H45",
+    "date": "07/02/2025",
+    "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f3/FCPetrolulPloiestilogo2009.png",
-    "name1": "Petrolul Ploiesti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Roumanie Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name2": "Juventus",
+    "champ": "Serie A",
     "heure": "18H30",
     "date": "05/02/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg",
-    "name1": "Antwerp",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/1200px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name2": "Anderlecht",
-    "champ": "Coupe de Belgique",
-    "heure": "19H45",
-    "date": "06/02/2025",
-    "pro": "Au moins une EQuipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/SC_Preussen_Muenster_%28logo%29.svg/1200px-SC_Preussen_Muenster_%28logo%29.svg.png",
+    "name1": "Preussen Munster",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
+    "name2": "Hambourg",
+    "champ": "Bundesliga 2",
+    "heure": "17H30",
+    "date": "07/02/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/07/Al-Taawoun_logo.png",
-    "name1": "Al-Taawon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/41/Al-Ittihad_2649.png",
-    "name2": "Ittihad",
-    "champ": "Saoudi Ligue",
-    "heure": "17H30",
-    "date": "06/02/2025",
-    "pro": "2x et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Roda_JC_Kerkrade_logo.svg/1200px-Roda_JC_Kerkrade_logo.svg.png",
+    "name1": "Roda JC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
+    "name2": "Alkmaar II",
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "07/02/2025",
+    "pro": "Total 2 (0.5)"
   }
 ]
