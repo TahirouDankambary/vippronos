@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN5W-_xOhNShWJTsCe0jgD1kOIEF6TuswwYg&s",
-    "name1": "Brondby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
-    "name2": "Rosenborg",
-    "champ": "Atalantic Cup",
-    "heure": "16H00",
-    "date": "07/02/2025",
-    "pro": "Au Moins une Equipe marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mantova_1911_crest.svg/1200px-Mantova_1911_crest.svg.png",
+    "name1": "Mantova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/U.s.sassuolo.svg/1200px-U.s.sassuolo.svg.png",
+    "name2": "Sassuolo",
+    "champ": "Serie B",
+    "heure": "14H00",
+    "date": "08/02/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
-    "name1": "Rayo Vallecano",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/0e/Logo_Real_Valladolid_CF_-_2022.svg",
-    "name2": "Real Valladolid",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
+    "name1": "Real",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Atletico",
     "champ": "La LIGA",
     "heure": "20H00",
-    "date": "07/02/2025",
-    "pro": "Total 1 (1.5)"
+    "date": "08/02/2025",
+    "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/d/d3/KV_Mechelen_%28logo%29.svg",
-    "name1": "Mechelen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/01/Logo_KAA_Gent_2024.svg/1200px-Logo_KAA_Gent_2024.svg.png",
-    "name2": "La Gantoise",
-    "champ": "Jupiler Ligue",
-    "heure": "19H45",
-    "date": "07/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
+    "name1": "Famalicao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H30",
+    "date": "08/02/2025",
     "pro": "2X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name2": "Juventus",
-    "champ": "Serie A",
-    "heure": "18H30",
-    "date": "05/02/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/79/FC_Koper.png",
+    "name1": "Koper",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/NK_Olimpija_Ljubljana_logo.svg/1200px-NK_Olimpija_Ljubljana_logo.svg.png",
+    "name2": "Olimpija",
+    "champ": "Slovenie Ligue 1",
+    "heure": "16H30",
+    "date": "0802/2025",
+    "pro": "2X et Total (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/SC_Preussen_Muenster_%28logo%29.svg/1200px-SC_Preussen_Muenster_%28logo%29.svg.png",
-    "name1": "Preussen Munster",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Hamburger_SV_logo.svg",
-    "name2": "Hambourg",
-    "champ": "Bundesliga 2",
-    "heure": "17H30",
-    "date": "07/02/2025",
-    "pro": "2X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTSGzcSSLxYmr-SGus-5kiTUrg6kkcB0Ing&s",
+    "name1": "Wolfsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
+    "champ": "Bundesliga",
+    "heure": "14H30",
+    "date": "08/02/2025",
+    "pro": "Au moins uenEQuipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Roda_JC_Kerkrade_logo.svg/1200px-Roda_JC_Kerkrade_logo.svg.png",
-    "name1": "Roda JC",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_AZ_Alkmaar.svg/1200px-Logo_AZ_Alkmaar.svg.png",
-    "name2": "Alkmaar II",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "07/02/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name1": "Feyenoord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/50/Sparta_Rotterdam_%28logo%29.svg",
+    "name2": "Sparta Rotterdam",
+    "champ": "Erdivisie",
+    "heure": "20H00",
+    "date": "08/02/2025",
+    "pro": "Au moins uenEQuipe marque (1.5)"
   }
 ]
