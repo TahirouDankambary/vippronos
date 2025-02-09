@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/Mantova_1911_crest.svg/1200px-Mantova_1911_crest.svg.png",
-    "name1": "Mantova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/U.s.sassuolo.svg/1200px-U.s.sassuolo.svg.png",
-    "name2": "Sassuolo",
-    "champ": "Serie B",
-    "heure": "14H00",
-    "date": "08/02/2025",
-    "pro": "2X"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20190512221327%21Logo_Real_Madrid.svg",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atletico",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
+    "name1": "Seville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "La LIGA",
     "heure": "20H00",
-    "date": "08/02/2025",
-    "pro": "Les deux Marque"
-  },
+    "date": "09/02/2025",
+    "pro": "V2"
+  },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/F.C._Famalic%C3%A3o_logo.svg/1200px-F.C._Famalic%C3%A3o_logo.svg.png",
-    "name1": "Famalicao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal Première Ligue",
-    "heure": "20H30",
-    "date": "08/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/US_Lecce_2023.svg/1200px-US_Lecce_2023.svg.png",
+    "name1": "Lecce",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name2": "Bologna",
+    "champ": "Serie A",
+    "heure": "17H00",
+    "date": "09/02/2025",
     "pro": "2X"
   },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name1": "Utrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/8/86/Almere_City_FC_logo.PNG",
+    "name2": "Almere",
+    "champ": "Eredivisie",
+    "heure": "11H15",
+    "date": "09/02/2025",
+    "pro": "Au moins uenEQuipe marque (1.5)"
+  },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/79/FC_Koper.png",
-    "name1": "Koper",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/NK_Olimpija_Ljubljana_logo.svg/1200px-NK_Olimpija_Ljubljana_logo.svg.png",
-    "name2": "Olimpija",
-    "champ": "Slovenie Ligue 1",
-    "heure": "16H30",
-    "date": "0802/2025",
-    "pro": "2X et Total (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/Logo_Fortuna_Sittard_2024.svg/1200px-Logo_Fortuna_Sittard_2024.svg.png",
+    "name1": "Fortuna Sittard",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
+    "name2": "Ajax",
+    "champ": "Eredivisie",
+    "heure": "19H30",
+    "date": "09/02/2025",
+    "pro": "Total (2.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHTSGzcSSLxYmr-SGus-5kiTUrg6kkcB0Ing&s",
-    "name1": "Wolfsbourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Leverkusen",
-    "champ": "Bundesliga",
-    "heure": "14H30",
-    "date": "08/02/2025",
-    "pro": "Au moins uenEQuipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/8/8f/Gil_Vicente_F.C.png",
+    "name2": "Gil Vicente",
+    "champ": "Portugal Première Ligue",
+    "heure": "18H00",
+    "date": "09/02/2025",
+    "pro": "1X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name1": "Feyenoord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/50/Sparta_Rotterdam_%28logo%29.svg",
-    "name2": "Sparta Rotterdam",
-    "champ": "Erdivisie",
-    "heure": "20H00",
-    "date": "08/02/2025",
-    "pro": "Au moins uenEQuipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/1200px-Logo_RSC_Anderlecht_2023.svg.png",
+    "name1": "Anderlecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name2": "Antwerp",
+    "champ": "Jupiler Ligue",
+    "heure": "12H30",
+    "date": "09/02/2025",
+    "pro": "1X"
   }
 ]
