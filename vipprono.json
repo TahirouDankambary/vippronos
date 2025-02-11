@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
-    "name1": "Majorque",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "La LIGA",
-    "heure": "20H00",
-    "date": "10/02/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Qaraba%C4%9F_FK_2024.svg/1200px-Logo_Qaraba%C4%9F_FK_2024.svg.png",
+    "name1": "Qarabag",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Sabail_FK_Logo.png/800px-Sabail_FK_Logo.png",
+    "name2": "Sabail",
+    "champ": "Azerbaidjan Championnat",
+    "heure": "15H00",
+    "date": "11/02/2025",
+    "pro": "Total 1 (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
-    "name1": "Real Oviedo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/1200px-CD_Eldense_2023.svg.png",
-    "name2": "Eldense",
-    "champ": "La LIGA",
-    "heure": "19H30",
-    "date": "10/02/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png",
+    "name1": "Al Ahly",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/b/b0/Ghazl_El_Mahalla_SC_new_logo.png",
+    "name2": "El Mahalla",
+    "champ": "Egypte Première Ligue",
+    "heure": "17H00",
+    "date": "11/02/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter Milan",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "10/02/2025",
-    "pro": "1X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
+    "name1": "Stade Brestois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name2": "PSG",
+    "champ": "LDC",
+    "heure": "17H45",
+    "date": "11/02/2025",
+    "pro": "Total (3.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/UTA_Arad_logo.svg/1200px-UTA_Arad_logo.svg.png",
-    "name1": "UTA Arad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Roumanie Ligue 1",
-    "heure": "18H00",
-    "date": "10/02/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
+    "name2": "PSV",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "11/02/2025",
+    "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/St_mirren_fc.svg/1200px-St_mirren_fc.svg.png",
-    "name1": "Saint Mirren",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
-    "name2": "Heart Of Midlothian",
-    "champ": "Ecosse FA Cup",
-    "heure": "19H45",
-    "date": "10/02/2025",
-    "pro": "Les deux Marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+    "name1": "Man City",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name2": "Real",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "11/02/2025",
+    "pro": "Total (3.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4e/Maccabi_Haifa_FC_%28logo%29.svg/1200px-Maccabi_Haifa_FC_%28logo%29.svg.png",
-    "name1": "Maccabi Hafifa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hapoel_Haifa_New_Logo.png",
-    "name2": "Hapoel Haifa",
-    "champ": "Israel Premier Ligue",
-    "heure": "19H30",
-    "date": "10/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Sporting_Clube_de_Portugal_%28Logo%29.svg/1200px-Sporting_Clube_de_Portugal_%28Logo%29.svg.png",
+    "name1": "Sporting",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "11/02/2025",
+    "pro": "V2"
   }
 ]
