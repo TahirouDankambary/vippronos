@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/1200px-Hull_City_AFC_logo.svg.png",
-    "name2": "Hull City",
-    "champ": "Angleterre Championship",
-    "heure": "19H45",
-    "date": "12/02/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
+    "name1": "PAOK",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
+    "name2": "FCSB",
+    "champ": "Europa Ligue",
+    "heure": "20H00",
+    "date": "13/02/2025",
+    "pro": "Total 2 (0.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
-    "name1": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/54/Logo_FC_Liverpool.svg/1200px-Logo_FC_Liverpool.svg.png",
-    "name2": "Liverpool",
-    "champ": "Premier Ligue ",
-    "heure": "19H30",
-    "date": "12/02/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_FC_Twente_2018.svg/1200px-Logo_FC_Twente_2018.svg.png",
+    "name1": "Twente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name2": "Bodo Glimt",
+    "champ": "Europa Ligue",
+    "heure": "20H00",
+    "date": "13/02/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
-    "name2": "Atalanta",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/1200px-Royale_Union_Saint-Gilloise_logo.svg.png",
+    "name1": "Saint-Gilloise",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
+    "name2": "Ajax",
+    "champ": "Europa Ligue",
     "heure": "17H45",
-    "date": "12/02/2025",
-    "pro": "Total (2.5)"
+    "date": "13/02/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
-    "name1": "Monaco",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name2": "Benfica",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
+    "name1": "Ferencvarosi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
+    "name2": "Viktoria Plzen",
+    "champ": "Europa Ligue",
+    "heure": "17H45",
+    "date": "13/02/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
+    "name1": "Midjylland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
+    "name2": "Real Sociedad",
+    "champ": "Europa Ligue",
+    "heure": "17H45",
+    "date": "13/02/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
+    "name2": "Heidenheim",
+    "champ": "Conference Ligue",
     "heure": "20H00",
-    "date": "12/02/2025",
+    "date": "13/02/2025",
     "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Celtic_FC.svg/1200px-Logo_Celtic_FC.svg.png",
-    "name1": "Celtic",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
-    "name2": "Bayern",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "12/02/2025",
-    "pro": "Total 2 (2.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/22/Logo_Feyenoord_Rotterdam_2024.svg/1200px-Logo_Feyenoord_Rotterdam_2024.svg.png",
-    "name1": "Feyenoord",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/361px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "12/02/2025",
-    "pro": "Total 2 (1.5)"
   }
 ]
