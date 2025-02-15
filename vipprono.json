@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
-    "name2": "Chelsea",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
+    "name1": "Leicester City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
     "champ": "premier Ligue",
-    "heure": "20H00",
-    "date": "14/02/2025",
-    "pro": "Total 2 (1.5)"
+    "heure": "12H30",
+    "date": "15/02/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_Queens_Park_Rangers_2016.svg/1200px-Logo_Queens_Park_Rangers_2016.svg.png",
-    "name1": "Queens Park",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4a/Derby_County_crest.svg/1200px-Derby_County_crest.svg.png",
-    "name2": "Derby County",
-    "champ": "Angleterre Championship",
-    "heure": "20H00",
-    "date": "14/02/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTnMXtuuezcJbGLvLc5fA6L9n1gvs3QnuWg&s",
-    "name1": "Augsbourg",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37whns8mpch9TgqjNzI2IFzm9oHq3pTq9bA&s",
-    "name2": "Leipzig",
-    "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "14/02/2025",
-    "pro": "2X"
-  },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/800px-1._FC_Magdeburg.svg.png",
-    "name1": "Magdebourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/1._FC_Koeln_Logo_2014%E2%80%93.svg/1200px-1._FC_Koeln_Logo_2014%E2%80%93.svg.png",
-    "name2": "Cologne",
-    "champ": "Bundesliga 2",
-    "heure": "17H30",
-    "date": "14/02/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gerone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
-    "name2": "Getafe",
-    "champ": "La LIGA",
-    "heure": "20H00",
-    "date": "14/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Logo_Fulham.svg",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Nottingham",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "15/02/2025",
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Go_Ahead_Eagles.svg/1200px-Go_Ahead_Eagles.svg.png",
-    "name1": "Go Ahead Eagles",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
-    "name2": "Sparta Rotterdam",
-    "champ": "Eredivisie",
-    "heure": "19H00",
-    "date": "14/02/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErs39ulml8TvwycZTnpENXxZJan0w6p_n4w&s",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name2": "Bournemouth",
+    "champ": "Premier LIgue",
+    "heure": "15H00",
+    "date": "15/02/2025",
+    "pro": "Total 2 (1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "VfB Stuttgart",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+    "name2": "Wolfsbourg",
+    "champ": "Bundesliga",
+    "heure": "14H30",
+    "date": "15/02/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/MFK_Karvina.svg/1200px-MFK_Karvina.svg.png",
+    "name1": "Karvina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
+    "name2": "Sparta Prague",
+    "champ": "Tchèque Championnat",
+    "heure": "18H00",
+    "date": "15/02/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/1200px-Toulouse_FC_logo_2021.svg.png",
+    "name1": "Toulouse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name2": "PSG",
+    "champ": "Ligue 1",
+    "heure": "20H00",
+    "date": "15/02/2025",
     "pro": "Au moins une EQuipe marque (1.5)"
   }
 ]
