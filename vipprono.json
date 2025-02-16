@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
-    "name1": "Leicester City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
+    "name2": "Man Unitrd",
     "champ": "premier Ligue",
-    "heure": "12H30",
-    "date": "15/02/2025",
-    "pro": "V2"
+    "heure": "16H30",
+    "date": "16/02/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Logo_Fulham.svg",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
-    "name2": "Nottingham",
-    "champ": "Premier Ligue",
-    "heure": "15H00",
-    "date": "15/02/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/768px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Logo_Como_1907_2019.png/743px-Logo_Como_1907_2019.png",
+    "name2": "Como",
+    "champ": "Serie A",
+    "heure": "11H30",
+    "date": "16/02/2025",
+    "pro": "Total 1 (0.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSErs39ulml8TvwycZTnpENXxZJan0w6p_n4w&s",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
-    "name2": "Bournemouth",
-    "champ": "Premier LIgue",
-    "heure": "15H00",
-    "date": "15/02/2025",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg/1200px-Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
+    "heure": "19H45",
+    "date": "16/02/2025",
+    "pro": "Nul dans une Mi-temps"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "VfB Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name2": "Wolfsbourg",
-    "champ": "Bundesliga",
-    "heure": "14H30",
-    "date": "15/02/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/1200px-Royal_Charleroi_Sporting_Club_logo.svg.png",
+    "name1": "Charleroi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/1200px-Logo_RSC_Anderlecht_2023.svg.png",
+    "name2": "Anderlecht",
+    "champ": "Jupiler Ligue",
+    "heure": "17H30",
+    "date": "16/02/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e4/MFK_Karvina.svg/1200px-MFK_Karvina.svg.png",
-    "name1": "Karvina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "Sparta Prague",
-    "champ": "Tchèque Championnat",
-    "heure": "18H00",
-    "date": "15/02/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
+    "name1": "Heart of Midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
+    "name2": "Rangers",
+    "champ": "Ecosse Championnat",
+    "heure": "12H00",
+    "date": "16/02/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/1200px-Toulouse_FC_logo_2021.svg.png",
-    "name1": "Toulouse",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "PSG",
-    "champ": "Ligue 1",
-    "heure": "20H00",
-    "date": "15/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
+    "name1": "Ferencvarosi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paksi_FC_%28Logo%29.svg/1200px-Paksi_FC_%28Logo%29.svg.png",
+    "name2": "Paksi",
+    "champ": "Hongrie Championnat",
+    "heure": "17H00",
+    "date": "16/02/2025",
     "pro": "Au moins une EQuipe marque (1.5)"
   }
 ]
