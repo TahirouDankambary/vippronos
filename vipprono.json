@@ -1,13 +1,13 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
-    "name2": "Man Unitrd",
-    "champ": "premier Ligue",
-    "heure": "16H30",
-    "date": "16/02/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name2": "Rayo Vallecano",
+    "champ": "La LIGA",
+    "heure": "20H00",
+    "date": "17/02/2025",
+    "pro": "Les deux marque"
   },  
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/768px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
@@ -20,43 +20,43 @@
     "pro": "Total 1 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg/1200px-Juventus_FC_-_pictogram_black_%28Italy%2C_2017%29.svg.png",
-    "name1": "Juventus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "Serie A",
-    "heure": "19H45",
-    "date": "16/02/2025",
-    "pro": "Nul dans une Mi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Pakhtakor_Tashkent_FK_logo.svg/1200px-Pakhtakor_Tashkent_FK_logo.svg.png",
+    "name1": "Pakhtakor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Al_Sadd_SC_logo.svg/1200px-Al_Sadd_SC_logo.svg.png",
+    "name2": "AlSadd",
+    "champ": "AFC Champions Ligue",
+    "heure": "14H00",
+    "date": "17/02/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/Royal_Charleroi_Sporting_Club_logo.svg/1200px-Royal_Charleroi_Sporting_Club_logo.svg.png",
-    "name1": "Charleroi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_RSC_Anderlecht_2023.svg/1200px-Logo_RSC_Anderlecht_2023.svg.png",
-    "name2": "Anderlecht",
-    "champ": "Jupiler Ligue",
-    "heure": "17H30",
-    "date": "16/02/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/04/Al-Shorta_Sports_Club_%28Iraq%29_Crest.png",
+    "name1": "Al-Shorta Baghdad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/49/Al_Ain_FC_logo.png",
+    "name2": "Al Ain",
+    "champ": "AFC Champions Ligue",
+    "heure": "16H00",
+    "date": "17/02/2025",
+    "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
-    "name1": "Heart of Midlothian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name2": "Rangers",
-    "champ": "Ecosse Championnat",
-    "heure": "12H00",
-    "date": "16/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/44/Persepolis_FC_Logo_2017.png",
+    "name1": "Persepolis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
+    "name2": "Al Nassr",
+    "champ": "AFC Champions Ligue",
+    "heure": "16H00",
+    "date": "17/02/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Ferencv%C3%A1ros_TC.svg/1200px-Logo_Ferencv%C3%A1ros_TC.svg.png",
-    "name1": "Ferencvarosi",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Paksi_FC_%28Logo%29.svg/1200px-Paksi_FC_%28Logo%29.svg.png",
-    "name2": "Paksi",
-    "champ": "Hongrie Championnat",
-    "heure": "17H00",
-    "date": "16/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name1": "Utrecht II",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_VVV-Venlo.svg/1200px-Logo_VVV-Venlo.svg.png",
+    "name2": "VVV-Venlo",
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "17/02/2025",
     "pro": "Au moins une EQuipe marque (1.5)"
   }
 ]
