@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
-    "name1": "Aston Villa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Premier Ligue",
-    "heure": "19H30",
-    "date": "19/02/2025",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_FC_Twente_2018.svg/1200px-Logo_FC_Twente_2018.svg.png",
+    "name2": "Twente",
+    "champ": "Europa Ligue",
+    "heure": "17H45",
+    "date": "20/02/2025",
+    "pro": "Qualification Equipe 2"
   },  
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name1": "Dortmund",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/1200px-Logo_Sporting_CP_2001.svg.png",
-    "name2": "Sporting",
-    "champ": "LDC",
+    "name1": "FCSB",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
+    "name2": "PAOK",
+    "champ": "Europa Ligue",
     "heure": "17H45",
-    "date": "19/02/2025",
-    "pro": "Total 2 (0.5)"
+    "date": "20/02/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name2": "Juventus",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
+    "name1": "Ajax",
+    "photo2": "https://upload.wikimedia.org/wikipedia/de/e/e8/Royale_Union_Saint-Gilloise.jpg",
+    "name2": "Saint Gilloise",
+    "champ": "Europa Ligue",
     "heure": "20H00",
-    "date": "19/02/2025",
-    "pro": "Qualification Equipe 2"
+    "date": "20/02/2025",
+    "pro": "V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
-    "name2": "Stade Brestois",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+    "name1": "Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
+    "name2": "Midtjylland",
+    "champ": "Europa Ligue",
     "heure": "20H00",
-    "date": "19/02/2025",
-    "pro": "Total 2 (0.5)"
+    "date": "20/02/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/1200px-Logo_Manchester_City_2016.svg.png",
-    "name2": "Man City",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "19/02/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
+    "name1": "Heidenhiem",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name2": "Copenhague",
+    "champ": "Conference Ligue",
+    "heure": "17H45",
+    "date": "20/02/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9d/Luton_Town_logo.svg",
-    "name1": "Luton Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Plymouth_Argyle_F.C._logo.svg/800px-Plymouth_Argyle_F.C._logo.svg.png",
-    "name2": "Plymouth Argyle",
-    "champ": "Angleterre Championship",
-    "heure": "19H45",
-    "date": "19/02/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name1": "Shamrock Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1200px-Molde_Fotball_Logo.svg.png",
+    "name2": "Molde",
+    "champ": "Conference Ligue",
+    "heure": "20H00",
+    "date": "20/02/2025",
+    "pro": "Qualification equipe 2"
   }
 ]
