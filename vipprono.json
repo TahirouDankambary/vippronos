@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_FC_Twente_2018.svg/1200px-Logo_FC_Twente_2018.svg.png",
-    "name2": "Twente",
-    "champ": "Europa Ligue",
-    "heure": "17H45",
-    "date": "20/02/2025",
-    "pro": "Qualification Equipe 2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
+    "name2": "Brentford",
+    "champ": "Premier Ligue",
+    "heure": "20H00",
+    "date": "21/02/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name1": "FCSB",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/92/PAOK_FC_logo.svg/1200px-PAOK_FC_logo.svg.png",
-    "name2": "PAOK",
-    "champ": "Europa Ligue",
-    "heure": "17H45",
-    "date": "20/02/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/1200px-Sheffield_Wednesday_badge.svg.png",
+    "name2": "Sheffield Wednesday",
+    "champ": "Angleterre Champioship",
+    "heure": "20H00",
+    "date": "21/02/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name1": "Ajax",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/e/e8/Royale_Union_Saint-Gilloise.jpg",
-    "name2": "Saint Gilloise",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "20/02/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+    "name2": "Werder Bremen",
+    "champ": "Bundesliga",
+    "heure": "19H30",
+    "date": "21/02/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
-    "name1": "Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "20/02/2025",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShc-uod_fI2Jx8ygidfllTqvRHY0Kg9en19w&s",
+    "name1": "Hertha",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/1200px-1._FC_N%C3%BCrnberg_logo.svg.png",
+    "name2": "Nurnberg",
+    "champ": "Bundesliga 2",
+    "heure": "17H30",
+    "date": "21/02/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
-    "name1": "Heidenhiem",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name2": "Copenhague",
-    "champ": "Conference Ligue",
-    "heure": "17H45",
-    "date": "20/02/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
+    "name1": "Celta Vigo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
+    "champ": "La LIGA",
+    "heure": "20H00",
+    "date": "21/02/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
-    "name1": "Shamrock Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1200px-Molde_Fotball_Logo.svg.png",
-    "name2": "Molde",
-    "champ": "Conference Ligue",
-    "heure": "20H00",
-    "date": "20/02/2025",
-    "pro": "Qualification equipe 2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name1": "Braga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d2/CD_Nacional_Logo.png",
+    "name2": "Nacional da Madeira",
+    "champ": "portugal Première Ligue",
+    "heure": "20H15",
+    "date": "21/02/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   }
 ]
