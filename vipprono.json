@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name2": "Brentford",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXnWCjuFekCyxGKeu84ED50vgRcSVVeRnb-A&s",
+    "name1": "Bournemouth",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Wolverhampton_Wanderers.svg",
+    "name2": "Wolverhampton",
     "champ": "Premier Ligue",
-    "heure": "20H00",
-    "date": "21/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "heure": "15H00",
+    "date": "22/02/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/1200px-Sheffield_Wednesday_badge.svg.png",
-    "name2": "Sheffield Wednesday",
-    "champ": "Angleterre Champioship",
-    "heure": "20H00",
-    "date": "21/02/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/1200px-FC_Southampton.svg.png",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name2": "Brighton",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "22/02/2025",
+    "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
-    "name2": "Werder Bremen",
-    "champ": "Bundesliga",
-    "heure": "19H30",
-    "date": "21/02/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/1200px-Logo_Ipswich_Town_2024.svg.png",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
+    "name2": "Tottenham",
+    "champ": "Premier Ligue",
+    "heure": "15H00",
+    "date": "22/02/2025",
+    "pro": "2X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShc-uod_fI2Jx8ygidfllTqvRHY0Kg9en19w&s",
-    "name1": "Hertha",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/1._FC_N%C3%BCrnberg_logo.svg/1200px-1._FC_N%C3%BCrnberg_logo.svg.png",
-    "name2": "Nurnberg",
-    "champ": "Bundesliga 2",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "Premier Ligue",
     "heure": "17H30",
-    "date": "21/02/2025",
+    "date": "22/02/2025",
     "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
-    "name1": "Celta Vigo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name1": "Valencia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Atlético",
     "champ": "La LIGA",
-    "heure": "20H00",
-    "date": "21/02/2025",
-    "pro": "Total 2 (0.5)"
+    "heure": "17H30",
+    "date": "22/02/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name1": "Braga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/d/d2/CD_Nacional_Logo.png",
-    "name2": "Nacional da Madeira",
-    "champ": "portugal Première Ligue",
-    "heure": "20H15",
-    "date": "21/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/1200px-AJAuxerreLogo.svg.png",
+    "name1": "Auxerre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Olympique_de_Marseille.svg/1200px-Logo_Olympique_de_Marseille.svg.png",
+    "name2": "Marseille",
+    "champ": "Ligue 1",
+    "heure": "20H05",
+    "date": "22/02/2025",
+    "pro": "V2"
   }
 ]
