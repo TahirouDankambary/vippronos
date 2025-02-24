@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1200px-Logo_Newcastle_United_FC.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
-    "name2": "Nottingham Forest",
-    "champ": "Premier Ligue",
-    "heure": "14H00",
-    "date": "23/02/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
+    "name1": "Sheffield",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds",
+    "champ": "Angleterre Championship",
+    "heure": "20H00",
+    "date": "24/02/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/1200px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "Premier Ligue",
-    "heure": "16H30",
-    "date": "23/02/2025",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
+    "name1": "Seville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "LA LIGA",
+    "heure": "20H00",
+    "date": "24/02/2025",
+    "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT37whns8mpch9TgqjNzI2IFzm9oHq3pTq9bA&s",
-    "name1": "Leipzig",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
-    "name2": "Heidenheim",
-    "champ": "Bundesliga",
-    "heure": "14H30",
-    "date": "23/02/2025",
-    "pro": "V1"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFWryEbuhCOg91qAevr9jSv8wJbdwt9MCNxw&s",
-    "name1": "Hellas Verona",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/768px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Serie A",
-    "heure": "14H00",
-    "date": "23/02/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
-    "name1": "Cagliari",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c5/Logo_Juventus_FC_2020.svg/1200px-Logo_Juventus_FC_2020.svg.png",
-    "name2": "Juventus",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
+    "name1": "Roma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
+    "name2": "Monza",
     "champ": "Serie A",
     "heure": "19H45",
-    "date": "23/02/2025",
+    "date": "24/02/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
+  
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
+    "name2": "Vitoria Guimaraes",
+    "champ": "Portugal Première Ligue",
+    "heure": "20H15",
+    "date": "24/02/2025",
+    "pro": "Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FK_Novi_Pazar_logo.svg/1493px-FK_Novi_Pazar_logo.svg.png",
+    "name1": "Novi Pazar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c3/TSC_Backa_Topola_Logo.png",
+    "name2": "TSC Topola",
+    "champ": "Serbie Championnat",
+    "heure": "16H30",
+    "date": "24/02/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name1": "FCSB",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjll0brGnOdiPGbypq6Dj2Vc2XRoSv0RC0XA&s",
-    "name2": "Dinamo Bucuresti",
-    "champ": "Roumanie Championnat",
-    "heure": "18H00",
-    "date": "23/02/2025",
-    "pro": "Total 1 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Helmond_Sport_logo.svg/1200px-Helmond_Sport_logo.svg.png",
+    "name1": "Helmond",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
+    "name2": "Emmen",
+    "champ": "Eerste Divisie",
+    "heure": "19H00",
+    "date": "24/02/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   }
 ]
