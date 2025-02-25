@@ -1,5 +1,5 @@
 [
-   {
+  {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
     "name1": "Sheffield",
     "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
@@ -8,7 +8,7 @@
     "heure": "20H00",
     "date": "24/02/2025",
     "pro": "Total (1.5)"
-  },  
+  },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
     "name1": "Seville",
@@ -28,8 +28,8 @@
     "heure": "19H45",
     "date": "24/02/2025",
     "pro": "Au moins une Equipe marque (1.5)"
-  
-    {
+  },
+  {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
     "name1": "Porto",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
