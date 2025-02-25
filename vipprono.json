@@ -1,62 +1,64 @@
 [
+   {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "name1": "Brighton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name2": "Bournemouth",
+    "champ": "Premier Ligue",
+    "heure": "19H30",
+    "date": "25/02/2025",
+    "pro": "Total 2 (0.5)"
+  },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
-    "name1": "Sheffield",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds",
-    "champ": "Angleterre Championship",
-    "heure": "20H00",
-    "date": "24/02/2025",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
-    "name1": "Seville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
-    "name2": "Majorque",
-    "champ": "LA LIGA",
-    "heure": "20H00",
-    "date": "24/02/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Wolverhampton_Wanderers.svg",
+    "name1": "Wolverhampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/1200px-Fulham_FC_%28shield%29.svg.png",
+    "name2": "Fulham",
+    "champ": "Premier Ligue",
+    "heure": "19H30",
+    "date": "25/02/2025",
     "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/1200px-AS_Roma_logo_%282017%29.svg.png",
-    "name1": "Roma",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/A.C._Monza_logo_%282019%29.svg/1200px-A.C._Monza_logo_%282019%29.svg.png",
-    "name2": "Monza",
-    "champ": "Serie A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2KarWIRk5X2RKk3EJEf1RCb71b7abi6acpQ&s",
+    "name2": "Aston Villa",
+    "champ": "Premier Ligue",
+    "heure": "19H30",
+    "date": "25/02/2025",
+    "pro": "Les deux Marque"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "name2": "Lazio",
+    "champ": "Coupe d'Italie",
+    "heure": "20H00",
+    "date": "25/02/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Arminia_Bielefeld_crest.svg/1200px-Arminia_Bielefeld_crest.svg.png",
+    "name1": "Arminia Bielefeld",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SV-Werder-Bremen-Logo.svg/1200px-SV-Werder-Bremen-Logo.svg.png",
+    "name2": "Werder Bremen",
+    "champ": "Coupe d'Allemagne",
     "heure": "19H45",
-    "date": "24/02/2025",
+    "date": "25/02/2025",
     "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/FC_Porto.svg/1200px-FC_Porto.svg.png",
-    "name1": "Porto",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name2": "Vitoria Guimaraes",
-    "champ": "Portugal Première Ligue",
-    "heure": "20H15",
-    "date": "24/02/2025",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FK_Novi_Pazar_logo.svg/1493px-FK_Novi_Pazar_logo.svg.png",
-    "name1": "Novi Pazar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c3/TSC_Backa_Topola_Logo.png",
-    "name2": "TSC Topola",
-    "champ": "Serbie Championnat",
-    "heure": "16H30",
-    "date": "24/02/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Helmond_Sport_logo.svg/1200px-Helmond_Sport_logo.svg.png",
-    "name1": "Helmond",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/83/FC_Emmen_logo.svg/1200px-FC_Emmen_logo.svg.png",
-    "name2": "Emmen",
-    "champ": "Eerste Divisie",
-    "heure": "19H00",
-    "date": "24/02/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name2": "Atlético",
+    "champ": "Coupe d'Espagne",
+    "heure": "20H30",
+    "date": "25/02/2025",
+    "pro": "Total 2 (0.5)"
   }
 ]
+
+
