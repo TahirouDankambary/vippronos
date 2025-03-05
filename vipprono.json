@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Bolton_Wanderers_FC_logo.svg/1200px-Bolton_Wanderers_FC_logo.svg.png",
-    "name1": "Bolton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/1200px-Birmingham_City_FC_logo.svg.png",
-    "name2": "Birmingham City",
-    "champ": "Angleterre Ligue 1",
-    "heure": "19H45",
-    "date": "04/03/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/38/Kapaz_PFK_logo.png",
+    "name1": "Kapaz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Neftchi_PFK_%28logo%29.svg/1200px-Neftchi_PFK_%28logo%29.svg.png",
+    "name2": "Neftchi",
+    "champ": "Azerbaidjan Championnat",
+    "heure": "13H00",
+    "date": "05/03/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Cardiff_City_FC_2015.svg/1200px-Logo_Cardiff_City_FC_2015.svg.png",
-    "name1": "Cardiff",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Burnley_FC_-_2023.svg/1200px-Logo_Burnley_FC_-_2023.svg.png",
-    "name2": "Burnley",
-    "champ": "Championship",
-    "heure": "19H45",
-    "date": "04/03/2025",
-    "pro": "TOtal (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Escudo_rcf.png/1200px-Escudo_rcf.png",
+    "name1": "Racing de Ferrol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
+    "name2": "Burgos",
+    "champ": "Espagne D2",
+    "heure": "19H00",
+    "date": "05/03/2025",
+    "pro": "TOtal 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Club_Brugge_KV_logo.svg/1200px-Club_Brugge_KV_logo.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name2": "Aston Villa",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXlBEYlHuxbyBNykxIvMBg2tsjHgZYCjiXQ&s",
+    "name1": "Feyenoord",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
+    "name2": "Inter",
     "champ": "LDC",
     "heure": "17H45",
-    "date": "04/03/2025",
-    "pro": "Total (2.5)"
+    "date": "05/03/2025",
+    "pro": "V2"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/800px-Logo_Real_Madrid.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atlètico",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name1": "Benfica",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "04/03/2025",
-    "pro": "Equipe 2 gagne une Mi-temps"
+    "date": "05/03/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
-    "name1": "Dortmund",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1200px-Logo_LOSC_Lille_2018.svg.png",
-    "name2": "Lille",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "04/03/2025",
+    "date": "05/03/2025",
     "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "04/03/2025",
-    "pro": "Les deux marque"
+    "date": "05/03/2025",
+    "pro": "Total 1 (1.5)"
   }
 ]
 
