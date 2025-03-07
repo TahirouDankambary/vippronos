@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/38/Kapaz_PFK_logo.png",
-    "name1": "Kapaz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Neftchi_PFK_%28logo%29.svg/1200px-Neftchi_PFK_%28logo%29.svg.png",
-    "name2": "Neftchi",
-    "champ": "Azerbaidjan Championnat",
-    "heure": "13H00",
-    "date": "05/03/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d7/Badge_of_Waterford_FC.png",
+    "name1": "Waterford",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Bohemians_FC.svg/1200px-Bohemians_FC.svg.png",
+    "name2": "Bohemian",
+    "champ": "Irland Championnat",
+    "heure": "19H45",
+    "date": "07/03/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Escudo_rcf.png/1200px-Escudo_rcf.png",
-    "name1": "Racing de Ferrol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
-    "name2": "Burgos",
-    "champ": "Espagne D2",
-    "heure": "19H00",
-    "date": "05/03/2025",
-    "pro": "TOtal 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name1": "Shelbourne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
+    "name2": "Drogheda",
+    "champ": "Irland Championnat",
+    "heure": "19H45",
+    "date": "07/03/2025",
+    "pro": "1X et TOtal (0.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXlBEYlHuxbyBNykxIvMBg2tsjHgZYCjiXQ&s",
-    "name1": "Feyenoord",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFNcUnb49zp7qriWxPGn8xTAYQAFvIKLddRA&s",
-    "name2": "Inter",
-    "champ": "LDC",
-    "heure": "17H45",
-    "date": "05/03/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name1": "Shamrock Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/pt/5/57/St._Patrick%27s_Athletic_F.C._crest.png",
+    "name2": "St Patricks",
+    "champ": "Irland Championnat",
+    "heure": "19H45",
+    "date": "07/03/2025",
+    "pro": "Total 2 (0.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "05/03/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/a/a9/Cork-City-Football-Club-Crest.png",
+    "name1": "Cork City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Sligo_Rovers_FC.svg/1200px-Sligo_Rovers_FC.svg.png",
+    "name2": "Sligo Rovers",
+    "champ": "Irland Championnat",
+    "heure": "19H45",
+    "date": "07/03/2025",
+    "pro": "Au Moins une EQuipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Leverkusen",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "05/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Heart_of_Midlothian_FC_logo.svg/1200px-Heart_of_Midlothian_FC_logo.svg.png",
+    "name1": "Heart of Midlothian",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7c/Logo_Dundee_FC_-_2008.svg/1200px-Logo_Dundee_FC_-_2008.svg.png",
+    "name2": "Dundee",
+    "champ": "Ecosse Cup",
+    "heure": "19H45",
+    "date": "07/03/2025",
     "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "05/03/2025",
-    "pro": "Total 1 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Toulouse_FC_logo_2021.svg/1200px-Toulouse_FC_logo_2021.svg.png",
+    "name1": "Toulouse",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
+    "name2": "Monaco",
+    "champ": "Ligue 1",
+    "heure": "19H45",
+    "date": "07/03/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   }
 ]
 
