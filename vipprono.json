@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
-    "name1": "AL-Nassr",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/5/56/Esteghlal_FC_Official_Logo.png",
-    "name2": "Esteghalal",
-    "champ": "AFC Ligue Elite",
-    "heure": "18H00",
-    "date": "10/03/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJJU37a_FAiUeEpLKlRGiEsQG_vnVq4i2Ug&s",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
+    "name2": "Benfica",
+    "champ": "LDC",
+    "heure": "17H45",
+    "date": "11/03/2025",
     "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Al_Sadd_SC_logo.svg/1200px-Al_Sadd_SC_logo.svg.png",
-    "name1": "Al Sadd",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Al_Wasl_Duba%C3%AF_%28logo%29.svg/1200px-Al_Wasl_Duba%C3%AF_%28logo%29.svg.png",
-    "name2": "Al Wasl",
-    "champ": "AFC Ligue Elite",
-    "heure": "18H00",
-    "date": "10/03/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/Logo_Liverpool_FC_Liver_Bird.svg/1200px-Logo_Liverpool_FC_Liver_Bird.svg.png",
+    "name1": "Liverpool",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
+    "name2": "¨PSG",
+    "champ": "LDC",
+    "heure": "20H00",
+    "date": "11/03/2025",
+    "pro": "Au moins une Equioe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
-    "name1": "Espanyol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gerone",
-    "champ": "La LIGA",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
+    "name2": "Bayern",
+    "champ": "LDC",
     "heure": "20H00",
-    "date": "10/03/2025",
+    "date": "11/03/2025",
     "pro": "Les deux marque"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Udinese_Calcio_logo.svg/1200px-Udinese_Calcio_logo.svg.png",
-    "name2": "Udinese Calcio",
-    "champ": "Seri A",
-    "heure": "19H45",
-    "date": "10/03/2025",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/West_Ham_United_FC_logo.svg/1200px-West_Ham_United_FC_logo.svg.png",
-    "name1": "West-Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1200px-Logo_Newcastle_United_FC.svg.png",
-    "name2": "Newcastle",
-    "champ": "Premier Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name1": "Inter",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
+    "name2": "Feyenoord",
+    "champ": "LDC",
     "heure": "20H00",
-    "date": "10/03/2025",
-    "pro": "Total 2 (0.5)"
+    "date": "11/03/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1200px-Logo_Randers_FC_2023.svg.png",
-    "name1": "Randers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
-    "name2": "Brondby",
-    "champ": "Danemark Championnat",
-    "heure": "18H00",
-    "date": "10/03/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
+    "name1": "Sheffield",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/2048px-Logo_Bristol_City_FC_2019.svg.png",
+    "name2": "Bristol City",
+    "champ": "Championship",
+    "heure": "20H00",
+    "date": "11/03/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzyk7ZtD-bDqVAYzKHI2yFycpnF35zzl8Hg&s",
+    "name1": "Burnley",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
+    "name2": "West Bromwich",
+    "champ": "Championship",
+    "heure": "19H45",
+    "date": "11/03/2025",
+    "pro": "Total (1.5)"
   }
 ]
 
