@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNJJU37a_FAiUeEpLKlRGiEsQG_vnVq4i2Ug&s",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name2": "Benfica",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/1200px-Logo_LOSC_Lille_2018.svg.png",
+    "name1": "Lille",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/2048px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
     "champ": "LDC",
     "heure": "17H45",
-    "date": "11/03/2025",
-    "pro": "V1"
+    "date": "12/03/2025",
+    "pro": "Les deux marque"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/Logo_Liverpool_FC_Liver_Bird.svg/1200px-Logo_Liverpool_FC_Liver_Bird.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name2": "¨PSG",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name1": "Atlético",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/800px-Logo_Real_Madrid.svg.png",
+    "name2": "¨Real",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "11/03/2025",
+    "date": "12/03/2025",
     "pro": "Au moins une Equioe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name1": "Leverkusen",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOo2E4d45j7XYK8FwtlIIXpnO5M34wEvZakQ&s",
-    "name2": "Bayern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
+    "name2": "Club Bruges",
     "champ": "LDC",
     "heure": "20H00",
-    "date": "11/03/2025",
-    "pro": "Les deux marque"
+    "date": "12/03/2025",
+    "pro": "Total 2 (0.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name1": "Inter",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/1200px-Feyenoord_logo_since_2024.svg.png",
-    "name2": "Feyenoord",
-    "champ": "LDC",
-    "heure": "20H00",
-    "date": "11/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/81/ND_Primorje.png",
+    "name1": "ND Primorje",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/NK_Maribor.svg/1200px-NK_Maribor.svg.png",
+    "name2": "NK Maribor",
+    "champ": "Slovenie Ligue 1",
+    "heure": "14H00",
+    "date": "12/03/2025",
+    "pro": "2X et Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/NK_Olimpija_Ljubljana_logo.svg/1200px-NK_Olimpija_Ljubljana_logo.svg.png",
+    "name1": "Olimpija",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/6/67/NS_Mura_Logo.png",
+    "name2": "Mura",
+    "champ": "Slovenie Ligue 1",
+    "heure": "16H30",
+    "date": "12/03/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
-    "name1": "Sheffield",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/2048px-Logo_Bristol_City_FC_2019.svg.png",
-    "name2": "Bristol City",
-    "champ": "Championship",
-    "heure": "20H00",
-    "date": "11/03/2025",
-    "pro": "1X"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzyk7ZtD-bDqVAYzKHI2yFycpnF35zzl8Hg&s",
-    "name1": "Burnley",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
-    "name2": "West Bromwich",
-    "champ": "Championship",
-    "heure": "19H45",
-    "date": "11/03/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cc/FC_Kosice_logo.png",
+    "name1": "Kosice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/7/78/Slovan_Bratislava.png",
+    "name2": "Slovan Bratislava",
+    "champ": "Slovaquie Coupe",
+    "heure": "17H00",
+    "date": "12/03/2025",
+    "pro": "2X"
   }
 ]
 
