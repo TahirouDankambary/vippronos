@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name2": "Ajax",
-    "champ": "Europa Ligue",
-    "heure": "17H45",
-    "date": "13/03/2025",
-    "pro": "Les deux marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/AC_Monza_logo_%282021%29.svg/1200px-AC_Monza_logo_%282021%29.svg.png",
+    "name1": "Monza",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/60/Logo_Parma.svg/1661px-Logo_Parma.svg.png",
+    "name2": "Parma",
+    "champ": "Italie. Série A",
+    "heure": "14H00",
+    "date": "15/03/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name1": "Rangers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_de_Fenerbah%C3%A7e_%281929%29.svg/1200px-Logo_de_Fenerbah%C3%A7e_%281929%29.svg.png",
-    "name2": "Fenerbahce",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "13/03/2025",
-    "pro": "Au moins une Equioe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
+    "name1": "Udinese Calcio",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD_vQ6rGBPxg9WMjAvvXvpWp15b-V9qrkBGA&s",
+    "name2": "Hellas Verona",
+    "champ": "Italie. Série A",
+    "heure": "14H00",
+    "date": "15/03/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
-    "name2": "Real Sociedad",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "13/03/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
+    "name1": "Milan",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Logo_Como_1907_-_2019.svg/1200px-Logo_Como_1907_-_2019.svg.png",
+    "name2": "Como",
+    "champ": "Italie. Série A",
+    "heure": "17H00",
+    "date": "15/03/2025",
+    "pro": "1X Et TP(1.5) - OUI"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
-    "name1": "Lyon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1613px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Europa Ligue",
-    "heure": "20H00",
-    "date": "13/03/2025",
-    "pro": "Les deux marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/800px-Torino_FC_Logo.svg.png",
+    "name1": "Torino",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
+    "name2": "Empoli",
+    "champ": "Italie. Série A",
+    "heure": "19H45",
+    "date": "15/03/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/18/Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg/1200px-Vit%C3%B3ria_Guimar%C3%A3es_%28logo%29.svg.png",
-    "name1": "Vitoria Guimaraes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
-    "name2": "Betis",
-    "champ": "Conference Ligue",
-    "heure": "20H00",
-    "date": "13/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/800px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name1": "Nantes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/62/Logo_LOSC_Lille_2018.svg/2153px-Logo_LOSC_Lille_2018.svg.png",
+    "name2": "Lille",
+    "champ": "France. Ligue 1",
+    "heure": "16H00",
+    "date": "15/03/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg/1200px-ACF_Fiorentina_-_logo_%28Italy%2C_2022%29.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Panathinaikos_F.C._logo.svg/1200px-Panathinaikos_F.C._logo.svg.png",
-    "name2": "Panathinaikos",
-    "champ": "Conference Ligue",
-    "heure": "20H00",
-    "date": "13/03/2025",
-    "pro": "Au moins une Equioe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d3/Logo_Angers_SCO_-_2021.svg/860px-Logo_Angers_SCO_-_2021.svg.png",
+    "name1": "Angers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/1200px-LogoASMonacoFC2021.svg.png",
+    "name2": "AS Monaco",
+    "champ": "France. Ligue 1",
+    "heure": "18H00",
+    "date": "15/03/2025",
+    "pro": "2X"
   }
 ]
 
