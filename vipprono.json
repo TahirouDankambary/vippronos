@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Logo_Fulham.svg",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/1200px-Tottenham_Hotspur.svg.png",
-    "name2": "Totteham",
-    "champ": "Premier Ligue",
-    "heure": "13H30",
-    "date": "16/03/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ce/ACS_Sepsi_OSK_Sfantu_Gheorghe_%28logo%29.svg/545px-ACS_Sepsi_OSK_Sfantu_Gheorghe_%28logo%29.svg.png",
+    "name1": "ACS Sepsi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ro/d/dd/FC_Buz%C4%83u_logo.png",
+    "name2": "Buzau",
+    "champ": "Roumanie Ligue 1",
+    "heure": "18H00",
+    "date": "17/03/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Premier Ligue",
-    "heure": "13H30",
-    "date": "16/03/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/db/FK_Novi_Pazar_logo.svg/1200px-FK_Novi_Pazar_logo.svg.png",
+    "name1": "Novi Pozar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/21/FK_%C5%BDelezni%C4%8Dar_Pan%C4%8Devo_logo.png",
+    "name2": "Zeleznicar",
+    "champ": "Serbie Championnat",
+    "heure": "18H00",
+    "date": "17/03/2025",
     "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/1200px-Logo_Leicester_City_2021.svg.png",
-    "name1": "Leicester",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
-    "name2": "Man United",
-    "champ": "Premier Ligue",
-    "heure": "19H00",
-    "date": "16/03/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/1200px-Logo_of_CD_Castell%C3%B3n.svg.png",
+    "name1": "Castellon",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/RC_Deportivo_La_Coru%C3%B1a_logo.svg/1200px-RC_Deportivo_La_Coru%C3%B1a_logo.svg.png",
+    "name2": "Deportivo de la Coruna",
+    "champ": "Espagne D2",
+    "heure": "19H30",
+    "date": "17/03/2025",
+    "pro": "Total (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "Italie. Série A",
-    "heure": "19H45",
-    "date": "16/03/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/FC_Arsenal_Tula_logo.svg/1200px-FC_Arsenal_Tula_logo.svg.png",
+    "name1": "Arsenal Tula",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKqJmEqQndoXj25IfUNtJ73dqwKST_bB2Fiw&s",
+    "name2": "Tchaika",
+    "champ": "Russie Championnat",
+    "heure": "17H00",
+    "date": "17/03/2025",
+    "pro": "1X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atletico",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
-    "name2": "Barcelone",
-    "champ": "La LIGA",
-    "heure": "20H00",
-    "date": "16/03/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_FK_Borac_Banja_Luka_2025.svg/1200px-Logo_FK_Borac_Banja_Luka_2025.svg.png",
+    "name1": "Borac",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_NKSB_final.png",
+    "name2": "Siroki",
+    "champ": "Bosnie Championnat",
+    "heure": "17H00",
+    "date": "17/03/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/1200px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/1200px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Leverkusen",
-    "champ": "BundesLiga",
-    "heure": "18H30",
-    "date": "16/03/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
+    "name2": "Frankfurt",
+    "champ": "BundesLiga Women",
+    "heure": "17H00",
+    "date": "17/03/2025",
+    "pro": "Total 2 (1.5)"
   }
 ]
 
