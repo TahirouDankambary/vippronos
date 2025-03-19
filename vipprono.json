@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_VfL_Wolfsburg_2024.svg/640px-Logo_VfL_Wolfsburg_2024.svg.png",
+    "name1": "Wolfsbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
     "champ": "LDC Femme",
     "heure": "17H45",
-    "date": "18/03/2025",
-    "pro": "1X"
+    "date": "19/03/2025",
+    "pro": "V2 et Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1200px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
-    "name2": "Lyon",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/1200px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+    "name2": "Chelsea",
     "champ": "LDC Femme",
     "heure": "20H00",
-    "date": "18/03/2025",
-    "pro": "Au Moins Une Equipe Marque (1.5)"
+    "date": "19/03/2025",
+    "pro": "Total 2 (1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0uHMWNwROdMiyj1kx4uqqKeARtb6cUivKg&s",
-    "name1": "Valur",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/IR_Reykjavik_%28logo%29.svg/1200px-IR_Reykjavik_%28logo%29.svg.png",
-    "name2": "IR Reykjavik",
-    "champ": "Islande Coupe",
-    "heure": "19H15",
-    "date": "18/03/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1024px-Flag_of_the_Central_African_Republic.svg.png",
+    "name1": "Republique Centrafricaine",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Madagascar.svg/800px-Flag_of_Madagascar.svg.png",
+    "name2": "Madagascar",
+    "champ": "Qualif CDM",
+    "heure": "16H00",
+    "date": "19/03/2025",
+    "pro": "Total (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/31/Glentoran_FC_logo.png",
-    "name1": "Glentoran",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/23/Larne_FC_%28logo%29.svg",
-    "name2": "Larne",
-    "champ": "Irlande du Nord Championnat",
-    "heure": "19H45",
-    "date": "18/03/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Flag_of_Liberia.svg/2560px-Flag_of_Liberia.svg.png",
+    "name1": "Liberia",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZrhSmCcV7-XhQJcJ7Fr7-IzM0DD4dzGbu_w&s",
+    "name2": "Tunisie",
+    "champ": "Qualif CDM",
+    "heure": "16H00",
+    "date": "19/03/2025",
+    "pro": "Total (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/Coleraine_FC_Logo.svg/1200px-Coleraine_FC_Logo.svg.png",
-    "name1": "Coleraine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Cliftonville_FC_%28logo%29.svg/1200px-Cliftonville_FC_%28logo%29.svg.png",
-    "name2": "Cliftonville",
-    "champ": "Irlande du Nord Championnat",
-    "heure": "19H45",
-    "date": "18/03/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/langfr-225px-Flag_of_Germany.svg.png",
+    "name1": "Allemagne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Flag_of_Slovenia.svg/2560px-Flag_of_Slovenia.svg.png",
+    "name2": "Slovenie",
+    "champ": "Chqmpionnat d'Europe U19",
+    "heure": "14H00",
+    "date": "19/03/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/archive/a/a0/20121011142939%21Logo_SC_Karlsdorf.jpg",
-    "name1": "Kalsdorf",
-    "photo2": "https://tmssl.akamaized.net//images/wappen/big/17913.png?lm=1653226950",
-    "name2": "UFC Fehring",
-    "champ": "Landesliga",
-    "heure": "18H00",
-    "date": "18/03/2025",
-    "pro": "Total (2.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/langfr-225px-Flag_of_Denmark.svg.png",
+    "name1": "Danemark",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Iceland.svg/1280px-Flag_of_Iceland.svg.png",
+    "name2": "Islande",
+    "champ": "Chqmpionnat d'Europe U19",
+    "heure": "14H00",
+    "date": "19/03/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   }
 ]
 
