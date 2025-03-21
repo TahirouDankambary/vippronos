@@ -1,8 +1,8 @@
 [
    {
-    "photo1": "https://images.app.goo.gl/22F5eRzshdRkZrXs9",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Malta.svg/640px-Flag_of_Malta.svg.png",
     "name1": "Malt",
-    "photo2": "https://images.app.goo.gl/phVTTLdtrU8e2krn7",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/800px-Flag_of_Finland.svg.png",
     "name2": "Finland",
     "champ": "Ligue des Nations",
     "heure": "19H45",
@@ -10,9 +10,9 @@
     "pro": "V2"
   },  
   {
-    "photo1": "https://images.app.goo.gl/t6uCeiWBJv4Bs1gd7",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Romania.svg/2560px-Flag_of_Romania.svg.png",
     "name1": "Roumanie",
-    "photo2": "https://images.app.goo.gl/jr1JC3pYfKv837wi7",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/2560px-Flag_of_Bosnia_and_Herzegovina.svg.png",
     "name2": "Bosnie-Herzegovine",
     "champ": "Ligue des Nations",
     "heure": "19H45",
@@ -20,9 +20,9 @@
     "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://images.app.goo.gl/mxJAdEoAfKPp86Vr7",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_Botswana.svg/1200px-Flag_of_Botswana.svg.png",
     "name1": "Botswana",
-    "photo2": "https://images.app.goo.gl/vjRMzgL2r2hpuXKw8",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_Algeria.svg/1200px-Flag_of_Algeria.svg.png",
     "name2": "Algerie",
     "champ": "Qualif CDM",
     "heure": "13H00",
@@ -30,9 +30,9 @@
     "pro": "V1"
     },
     {
-    "photo1": "https://images.app.goo.gl/oJUXqkSD34xG8DXd6",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Flag_of_Rwanda.svg/1200px-Flag_of_Rwanda.svg.png",
     "name1": "Rwanda",
-    "photo2": "https://images.app.goo.gl/GyiHn6YHgWpfQswo7",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/2000px-Flag_of_Nigeria.svg.png",
     "name2": "Nigeria",
     "champ": "Qualif CDM",
     "heure": "16H00",
@@ -40,9 +40,9 @@
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://images.app.goo.gl/wDVwzETwSXvcQ3xw7",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Flag_of_South_Africa.svg/langfr-225px-Flag_of_South_Africa.svg.png",
     "name1": "Afrique du Sud",
-    "photo2": "https://images.app.goo.gl/KUDqRPwCtEFsof539",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_Lesotho.svg/1200px-Flag_of_Lesotho.svg.png",
     "name2": "Lesotho",
     "champ": "Qualif CDM",
     "heure": "16H00",
@@ -50,9 +50,9 @@
     "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://images.app.goo.gl/W6k3QQvYghrbeH8s7",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Flag_of_Burundi.svg/langfr-225px-Flag_of_Burundi.svg.png",
     "name1": "Burundi",
-    "photo2": "https://images.app.goo.gl/uNCg9z49tZ5oZGdQ9",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
     "name2": "Cote d'Ivoire",
     "champ": "Qualif CDM",
     "heure": "19H00",
