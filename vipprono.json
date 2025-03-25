@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Namibia.svg/1200px-Flag_of_Namibia.svg.png",
-    "name1": "Namibie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Equatorial_Guinea.svg/2560px-Flag_of_Equatorial_Guinea.svg.png",
-    "name2": "Guinée Equatorial",
-    "champ": "Qualif CDM",
-    "heure": "13H00",
-    "date": "24/03/2025",
-    "pro": "Total 2 (0.5)"
-  },  
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Flag_of_Lithuania.svg/1200px-Flag_of_Lithuania.svg.png",
-    "name1": "Lituanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/2560px-Flag_of_Finland.svg.png",
-    "name2": "Finlande",
-    "champ": "Qualif CDM",
-    "heure": "17H00",
-    "date": "24/03/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flag_of_Bosnia_and_Herzegovina.svg/1200px-Flag_of_Bosnia_and_Herzegovina.svg.png",
-    "name1": "Bosnie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Cyprus.svg/800px-Flag_of_Cyprus.svg.png",
-    "name2": "Chypre",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+    "name1": "Macedoine du Nord",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Flag_of_Wales.svg",
+    "name2": "Pays de Galles",
     "champ": "Qualif CDM",
     "heure": "19H45",
-    "date": "24/03/2025",
+    "date": "25/03/2025",
+    "pro": "Les deux Marque"
+  },  
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
+    "name1": "Gibraltar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/2560px-Flag_of_the_Czech_Republic.svg.png",
+    "name2": "Republique Tchèque",
+    "champ": "Qualif CDM",
+    "heure": "19H45",
+    "date": "25/03/2025",
+    "pro": "Total 2 (2.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+    "name1": "Israel",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Norway.svg/1280px-Flag_of_Norway.svg.png",
+    "name2": "Norvège",
+    "champ": "Qualif CDM",
+    "heure": "19H45",
+    "date": "25/03/2025",
     "pro": "Au moins une Equipe marque (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/1200px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png",
-    "name1": "Cote d'Ivoire",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Flag_of_The_Gambia.svg/640px-Flag_of_The_Gambia.svg.png",
-    "name2": "Gambie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Flag_of_Bolivia_%28state%29.svg/2560px-Flag_of_Bolivia_%28state%29.svg.png",
+    "name1": "Bolivie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/1280px-Flag_of_Uruguay.svg.png",
+    "name2": "Uruguay",
     "champ": "Qualif CDM",
-    "heure": "19H00",
-    "date": "24/03/2025",
+    "heure": "20H00",
+    "date": "25/03/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/2560px-Flag_of_Senegal.svg.png",
+    "name1": "Senegal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flag_of_Togo.svg/1200px-Flag_of_Togo.svg.png",
+    "name2": "Togo",
+    "champ": "Qualif CDM",
+    "heure": "21H00",
+    "date": "25/03/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Central_African_Republic.svg/1200px-Flag_of_the_Central_African_Republic.svg.png",
-    "name1": "Republique Centrafricaine",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_Mali.svg/800px-Flag_of_Mali.svg.png",
-    "name2": "Mali",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Flag_of_Angola.svg/2560px-Flag_of_Angola.svg.png",
+    "name1": "Angola",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Cape_Verde.svg/1200px-Flag_of_Cape_Verde.svg.png",
+    "name2": "Cape Verde",
     "champ": "Qualif CDM",
     "heure": "16H00",
-    "date": "24/03/2025",
-    "pro": "Total (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/1200px-Flag_of_Guinea-Bissau.svg.png",
-    "name1": "Guinée-Bissau",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Flag_of_Burkina_Faso.svg/1200px-Flag_of_Burkina_Faso.svg.png",
-    "name2": "Burkina Faso",
-    "champ": "Qualif CDM",
-    "heure": "16H00",
-    "date": "24/03/2025",
-    "pro": "2X"
+    "date": "25/03/2025",
+    "pro": "Tptal 1 (0.5)"
   }
 ]
 
