@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/0/0a/Avtomobilist_Yekaterinburg_Logo.png",
-    "name1": "Avtomobilist",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Ak_Bars_Kazan_logo.svg/1200px-Ak_Bars_Kazan_logo.svg.png",
-    "name2": "Ak Bars Kazan",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+3.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
+    "champ": "La Liga",
+    "heure": "20H00",
+    "date": "27/03/2025",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/98/HC_Metallurg_Magnitogorsk.png",
-    "name1": "Metallourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Avangard_Omsk_logo.svg/1200px-Avangard_Omsk_logo.svg.png",
-    "name2": "Avangard Omsk",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "14H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+3.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Leyton_Orient_F.C._logo.svg/1200px-Leyton_Orient_F.C._logo.svg.png",
+    "name1": "Leyton Orient",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_Stevenage_FC_2019.svg/1200px-Logo_Stevenage_FC_2019.svg.png",
+    "name2": "Stevenage",
+    "champ": "Ligue One",
+    "heure": "20H00",
+    "date": "27/03/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d2/HC_Dinamo_Minsk_logo.png",
     "name1": "Dinamo Minsk",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSKA_Moscow_logo.svg/1200px-CSKA_Moscow_logo.svg.png",
     "name2": "CSKA Moscou",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "16H30",
-    "date": "26/03/2025",
-    "pro": "Total: (+3.5)"
+    "champ": "LDC Women",
+    "heure": "20H00",
+    "date": "27/03/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/FC_Spartak_Moscow_crest.svg/1200px-FC_Spartak_Moscow_crest.svg.png",
-    "name1": "Spartak Moscou",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6WiCaNCYEij9Q2y50-SIDHafErUImi3vSeg&s",
-    "name2": "Severstal Tcherepovets",
-    "champ": "Hockey. Ligue continentale",
-    "heure": "16H30",
-    "date": "26/03/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/67/KB_Drita.svg/1200px-KB_Drita.svg.png",
+    "name1": "KF Drita",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e1/SCGjilani.svg",
+    "name2": "KF Gjilan",
+    "champ": "Kosovo Championnat",
+    "heure": "13H00",
+    "date": "27/03/2025",
+    "pro": "Total 1 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Zverev_MCM22_%2831%29_%2852036649709%29.jpg/220px-Zverev_MCM22_%2831%29_%2852036649709%29.jpg",
-    "name1": "Alexander Zverev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Arthur_Fils_at_EFG_Swiss_Open_Gstaad_2023_Pic_Gordon_Simmonds.jpg/1200px-Arthur_Fils_at_EFG_Swiss_Open_Gstaad_2023_Pic_Gordon_Simmonds.jpg",
-    "name2": "Arthur Fils",
-    "champ": "Tennis. ATP. Miami",
-    "heure": "19H00",
-    "date": "26/03/2025",
-    "pro": "Total: (+19.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/ar/thumb/a/a3/Dinamo_Tirana_Club_Logo.svg/240px-Dinamo_Tirana_Club_Logo.svg.png",
+    "name1": "Dinamo Tirina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Partizani_Tirana_Club_Logo.svg/1200px-Partizani_Tirana_Club_Logo.svg.png",
+    "name2": "Partizani Tirana",
+    "champ": "Albanie Championnat",
+    "heure": "16H00",
+    "date": "27/03/2025",
+    "pro": "Total 1 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Francisco_Cerundolo_-_Wimbledon_2022_%2821%29_%28cropped2%29.jpg/1200px-Francisco_Cerundolo_-_Wimbledon_2022_%2821%29_%28cropped2%29.jpg",
-    "name1": "Francisco Cerundolo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Dimitrov_WM16_%2867%29_%2828385960076%29.jpg/1200px-Dimitrov_WM16_%2867%29_%2828385960076%29.jpg",
-    "name2": "Grigor Dimitrov",
-    "champ": "Tennis. ATP. Miami",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8EdGOb85hdGxj8RB9K4apdDDqg-7Cp-BTPQ&s",
+    "name1": "Egnatia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Vllaznia_Shkod%C3%ABr_Club_Logo.svg/1200px-Vllaznia_Shkod%C3%ABr_Club_Logo.svg.png",
+    "name2": "Vllaznia",
+    "champ": "Albanie Championnat",
     "heure": "20H30",
-    "date": "26/03/2025",
-    "pro": "Total: (+20)"
+    "date": "27/03/2025",
+    "pro": "1X"
   }
 ]
 
