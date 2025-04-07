@@ -1,62 +1,62 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/38/Logo_Brentford_FC_2017.svg/1200px-Logo_Brentford_FC_2017.svg.png",
-    "name1": "Brentford",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
-    "name2": "Chelsea",
-    "champ": "Premier Ligue",
-    "heure": "13H00",
-    "date": "06/04/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name1": "CFR Cluj",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/CS_Universitatea_Craiova_Logo.svg/1200px-CS_Universitatea_Craiova_Logo.svg.png",
+    "name2": "CS Craiova",
+    "champ": "Roumanie Ligue 1",
+    "heure": "17H30",
+    "date": "07/04/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
-    "name1": "Fulham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/Logo_Liverpool_FC_Liver_Bird.svg/1200px-Logo_Liverpool_FC_Liver_Bird.svg.png",
-    "name2": "Liverpool",
-    "champ": "Premier Ligue",
-    "heure": "13H00",
-    "date": "06/04/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a7/Logo_FK_%C4%8Cukari%C4%8Dki.png",
+    "name1": "Cukaricki",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW9mLX33cyPQcFWPf4p4bBQg-lTdX5kCPTPQ&s",
+    "name2": "IMT Novi Beograd",
+    "champ": "Serbie Championnat",
+    "heure": "16H00",
+    "date": "07/04/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/1200px-Logo_Manchester_City_2016.svg.png",
-    "name2": "Man City",
-    "champ": "Premier Ligue",
-    "heure": "18H00",
-    "date": "06/04/2025",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
+    "name1": "CSKA 1948",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
+    "name2": "Ludogorest 1945",
+    "champ": "Blgarie Championnat",
+    "heure": "17H00",
+    "date": "07/04/2025",
+    "pro": "2X et Total (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
-    "name1": "Seville",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atlético",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Leganes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
+    "name2": "Osasuna",
     "champ": "La Liga",
-    "heure": "14H15",
-    "date": "06/04/2025",
-    "pro": "2X"
+    "heure": "19H00",
+    "date": "07/04/2025",
+    "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/AtalantaBC.svg/1200px-AtalantaBC.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/langfr-250px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
+    "name2": "Napoli",
     "champ": "Serie A",
-    "heure": "16H00",
-    "date": "06/04/2025",
-    "pro": "Total 2 (0.5)"
+    "heure": "18H45",
+    "date": "07/04/2025",
+    "pro": "Total 1 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
-    "name1": "Heidenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/2560px-Bayer_04_Leverkusen_%28logo%29.svg.png",
-    "name2": "Leverkusen",
-    "champ": "Bundesliga",
-    "heure": "13H30",
-    "date": "06/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1200px-Logo_Newcastle_United_FC.svg.png",
+    "name2": "Newcastle",
+    "champ": "Premier Ligue",
+    "heure": "19H00",
+    "date": "07/04/2025",
     "pro": "Total 2 (1.5)"
   }
 ]
