@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name1": "CFR Cluj",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/CS_Universitatea_Craiova_Logo.svg/1200px-CS_Universitatea_Craiova_Logo.svg.png",
-    "name2": "CS Craiova",
-    "champ": "Roumanie Ligue 1",
-    "heure": "17H30",
-    "date": "07/04/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
+    "name1": "Bristol City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
+    "name2": "West Bromwich",
+    "champ": "Angleterre Championship",
+    "heure": "18H45",
+    "date": "08/04/2025",
+    "pro": "Les deux marque"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/a/a7/Logo_FK_%C4%8Cukari%C4%8Dki.png",
-    "name1": "Cukaricki",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW9mLX33cyPQcFWPf4p4bBQg-lTdX5kCPTPQ&s",
-    "name2": "IMT Novi Beograd",
-    "champ": "Serbie Championnat",
-    "heure": "16H00",
-    "date": "07/04/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/1200px-Logo_Derby_County_2012.svg.png",
+    "name1": "Derby Conty",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
+    "name2": "Burnley",
+    "champ": "Angleterre Championship",
+    "heure": "18H45",
+    "date": "08/04/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/52/CSKA_1948_new_logo.png",
-    "name1": "CSKA 1948",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/1/1e/PFC_Ludogorets_Razgrad.png",
-    "name2": "Ludogorest 1945",
-    "champ": "Blgarie Championnat",
-    "heure": "17H00",
-    "date": "07/04/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name1": "Middlesbrough",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds",
+    "champ": "Angleterre Championship",
+    "heure": "19H00",
+    "date": "08/04/2025",
+    "pro": "2X"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "La Liga",
-    "heure": "19H00",
-    "date": "07/04/2025",
-    "pro": "Les deux marque"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/SSC_Napoli_2024_%28deep_blue_navy%29.svg/langfr-250px-SSC_Napoli_2024_%28deep_blue_navy%29.svg.png",
-    "name2": "Napoli",
-    "champ": "Serie A",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShM8AZmlT9c-cCXaTIkKXBWlKUgKe5DdBkKA&s",
+    "name1": "Stoke City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/94/Logo_Luton_Town_2009_FC.svg",
+    "name2": "Luton Town",
+    "champ": "Angleterre Championship",
     "heure": "18H45",
-    "date": "07/04/2025",
-    "pro": "Total 1 (0.5)"
+    "date": "08/04/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/1200px-Logo_Newcastle_United_FC.svg.png",
-    "name2": "Newcastle",
-    "champ": "Premier Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+    "name1": "Bayern",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "LDC",
     "heure": "19H00",
-    "date": "07/04/2025",
-    "pro": "Total 2 (1.5)"
+    "date": "08/04/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143926%21Logo_Real_Madrid.svg",
+    "name2": "Real",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "08/04/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   }
 ]
 
