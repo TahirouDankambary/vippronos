@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
-    "name2": "West Bromwich",
+    "photo1": "https://upload.wikimedia.org/wikipedia/hif/1/16/Swansea_City_AFC_logo.png",
+    "name1": "Swansea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8e/Logo_Plymouth_Argyle_1982.svg/1200px-Logo_Plymouth_Argyle_1982.svg.png",
+    "name2": "Plymouth Arglye",
     "champ": "Angleterre Championship",
     "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "Les deux marque"
+    "date": "09/04/2025",
+    "pro": "Equipe 1 Gagne une Mi-temps"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/57/Logo_Derby_County_2012.svg/1200px-Logo_Derby_County_2012.svg.png",
-    "name1": "Derby Conty",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7LnlgKVHqTGFo3Mm8d9WLaO-fprATIiXcDQ&s",
-    "name2": "Burnley",
-    "champ": "Angleterre Championship",
-    "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/90/AudaFK-1-.gif",
+    "name1": "Auda",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxStJdjjr_9r0qxQLNfQIawac4rbOQwDICog&s",
+    "name2": "Liepaja",
+    "champ": "Lettonie Championnat",
+    "heure": "15H00",
+    "date": "09/04/2025",
+    "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name2": "Leeds",
-    "champ": "Angleterre Championship",
-    "heure": "19H00",
-    "date": "08/04/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5e/NK_Olimpija_Ljubljana_%28logo%29.svg/1200px-NK_Olimpija_Ljubljana_%28logo%29.svg.png",
+    "name1": "Olimpija",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/7/79/FC_Koper.png",
+    "name2": "Koper",
+    "champ": "Slovenie Ligue 1",
+    "heure": "15H00",
+    "date": "09/04/2025",
+    "pro": "Total (1.5)"
     },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShM8AZmlT9c-cCXaTIkKXBWlKUgKe5DdBkKA&s",
-    "name1": "Stoke City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/94/Logo_Luton_Town_2009_FC.svg",
-    "name2": "Luton Town",
-    "champ": "Angleterre Championship",
-    "heure": "18H45",
-    "date": "08/04/2025",
-    "pro": "Total 2 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/640px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name1": "Bayern",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
-    "champ": "LDC",
-    "heure": "19H00",
-    "date": "08/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Cherno_More_Varna_%28logo%29.svg/1200px-Cherno_More_Varna_%28logo%29.svg.png",
+    "name1": "Tcherno More Vara",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e9/CSKA_99-05.png",
+    "name2": "CSKA Sofia",
+    "champ": "Coupe de Bulgarie",
+    "heure": "16H00",
+    "date": "09/04/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/c/c7/20181006143926%21Logo_Real_Madrid.svg",
-    "name2": "Real",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/1200px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
     "champ": "LDC",
     "heure": "19H00",
-    "date": "08/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "09/04/2025",
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/800px-Aston_Villa_FC_2024.svg.png",
+    "name2": "Aston Villa",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "09/04/2025",
+    "pro": "Total 2 (0.5)"
   }
 ]
 
