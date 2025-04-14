@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name1": "Liverpool",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name2": "West-Ham",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name1": "Bournemouth",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
+    "name2": "Fulham",
     "champ": "Premier Ligue",
-    "heure": "13H00",
-    "date": "13/04/2025",
-    "pro": "Total 1 (1.5)"
+    "heure": "19H00",
+    "date": "14/04/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/1200px-Logo_Atalanta_Bergame_2024.svg.png",
-    "name1": "Atalanta",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name2": "Bologna",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SSC_Napoli.svg/1200px-SSC_Napoli.svg.png",
+    "name1": "Naples",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
+    "name2": "Empoli",
     "champ": "Serie A",
-    "heure": "10H30",
-    "date": "13/04/2025",
-    "pro": "Handicap 2 (1.5)"
+    "heure": "18H45",
+    "date": "14/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/CS_Universitatea_Craiova_logo.svg/1200px-CS_Universitatea_Craiova_logo.svg.png",
-    "name1": "Univ.Craiova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Roumanie Championnat",
-    "heure": "18H00",
-    "date": "13/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
+    "name1": "Atletico",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/1200px-Logo_Real_Valladolid_CF_2024.svg.png",
+    "name2": "Valladolide",
+    "champ": "La Liga",
+    "heure": "19H00",
+    "date": "14/04/2025",
+    "pro": "Total (2.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
-    "name1": "Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/langfr-250px-Logo_KRC_Genk_2021.svg.png",
-    "name2": "Genk",
-    "champ": "Jupiler Ligue",
-    "heure": "16H30",
-    "date": "13/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1200px-Logo_SD_Huesca_2023.svg.png",
+    "name1": "Huesca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/1200px-Logo_M%C3%A1laga_CF.svg.png",
+    "name2": "Malaga",
+    "champ": "Espagne D2",
+    "heure": "18H30",
+    "date": "14/04/2025",
+    "pro": "Nul dans une Mi-temps"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1200px-AGF_Aarhus_%28logo%29.svg.png",
-    "name1": "AGF Arhus",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Danmark Championnat",
-    "heure": "14H00",
-    "date": "13/04/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name1": "Shamrock Rovers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Cork_City_FC_2016.svg/1200px-Cork_City_FC_2016.svg.png",
+    "name2": "Crork City",
+    "champ": "Irlande Championnat",
+    "heure": "19H00",
+    "date": "14/04/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/3/33/Bohemians_1905_logo.png",
-    "name1": "Bohemians",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/FCVP_official_logo.svg/1200px-FCVP_official_logo.svg.png",
-    "name2": "Plzen",
-    "champ": "Tchèque Championnat",
-    "heure": "1H30",
-    "date": "13/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/KR_Reykjavik_%28logo%29.svg/1200px-KR_Reykjavik_%28logo%29.svg.png",
+    "name1": "KR Reykjavik",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0uHMWNwROdMiyj1kx4uqqKeARtb6cUivKg&s",
+    "name2": "Valur",
+    "champ": "Islande Championnat",
+    "heure": "19H15",
+    "date": "14/04/2025",
+    "pro": "Total 2 (1.5)"
   }
 ]
 
