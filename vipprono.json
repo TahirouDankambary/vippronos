@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
-    "name1": "Bournemouth",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMTGQmXlSYsG-96NaaIgpEU5ywHdJisLuYAw&s",
-    "name2": "Fulham",
-    "champ": "Premier Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/800px-Aston_Villa_FC_2024.svg.png",
+    "name1": "Aston Villa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
+    "champ": "LDC",
     "heure": "19H00",
-    "date": "14/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "15/04/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/SSC_Napoli.svg/1200px-SSC_Napoli.svg.png",
-    "name1": "Naples",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs6CN8we269tY6L_aeKuhl_IJzqPDd4oi2fw&s",
-    "name2": "Empoli",
-    "champ": "Serie A",
-    "heure": "18H45",
-    "date": "14/04/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name1": "Dortmund",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "15/04/2025",
+    "pro": "Les deux marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name1": "Atletico",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/1200px-Logo_Real_Valladolid_CF_2024.svg.png",
-    "name2": "Valladolide",
-    "champ": "La Liga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/lv/b/b5/Grobinas_SC_LFS_logo.png",
+    "name1": "Grobina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/Logo_FK_RFS_2021.svg/1200px-Logo_FK_RFS_2021.svg.png",
+    "name2": "Rigas Futbola",
+    "champ": "Lettonie Championat",
     "heure": "19H00",
-    "date": "14/04/2025",
-    "pro": "Total (2.5)"
+    "date": "15/04/2025",
+    "pro": "Total 2 (2.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1200px-Logo_SD_Huesca_2023.svg.png",
-    "name1": "Huesca",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/1200px-Logo_M%C3%A1laga_CF.svg.png",
-    "name2": "Malaga",
-    "champ": "Espagne D2",
-    "heure": "18H30",
-    "date": "14/04/2025",
-    "pro": "Nul dans une Mi-temps"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Sharjah_FC_logo.svg/1200px-Sharjah_FC_logo.svg.png",
+    "name1": "Al Sharjah",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/1200px-Logo_Al-Taawoun_FC.svg.png",
+    "name2": "Al Taawon",
+    "champ": "AFC LDC",
+    "heure": "16H00",
+    "date": "15/04/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
-    "name1": "Shamrock Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Cork_City_FC_2016.svg/1200px-Cork_City_FC_2016.svg.png",
-    "name2": "Crork City",
-    "champ": "Irlande Championnat",
-    "heure": "19H00",
-    "date": "14/04/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/FC_Pyunik_%28logo%29.svg/1200px-FC_Pyunik_%28logo%29.svg.png",
+    "name1": "Pyunik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/1/1e/%D0%90%D1%80%D0%B0%D1%80%D0%B0%D1%82-%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D1%8F.png",
+    "name2": "Araat Armenie",
+    "champ": "Coupe d'Armenie",
+    "heure": "14H30",
+    "date": "15/04/2025",
+    "pro": "Total 2 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/KR_Reykjavik_%28logo%29.svg/1200px-KR_Reykjavik_%28logo%29.svg.png",
-    "name1": "KR Reykjavik",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy0uHMWNwROdMiyj1kx4uqqKeARtb6cUivKg&s",
-    "name2": "Valur",
-    "champ": "Islande Championnat",
-    "heure": "19H15",
-    "date": "14/04/2025",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_FK_Borac_Banja_Luka_2025.svg/1200px-Logo_FK_Borac_Banja_Luka_2025.svg.png",
+    "name1": "Borac Banja",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FK_Sarajevo_%28logo%29.svg/1200px-FK_Sarajevo_%28logo%29.svg.png",
+    "name2": "Srajevo",
+    "champ": "Coupe de Bsnie",
+    "heure": "15H30",
+    "date": "15/04/2025",
+    "pro": "1X"
   }
 ]
 
