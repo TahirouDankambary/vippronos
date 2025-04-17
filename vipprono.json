@@ -3,11 +3,11 @@
     "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
     "name1": "Inter Milan",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
-    "champ": "LDC",
+    "name2": "Rangers",
+    "champ": "Europa Ligue",
     "heure": "19H00",
-    "date": "16/04/2025",
-    "pro": "1X"
+    "date": "17/04/2025",
+    "pro": "V1"
   },  
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/1200px-Real_Madrid_CF.svg.png",
@@ -16,7 +16,7 @@
     "name2": "Arsenal",
     "champ": "LDC",
     "heure": "19H00",
-    "date": "16/04/2025",
+    "date": "17/04/2025",
     "pro": "Les deux marque"
   },
   {
@@ -26,7 +26,7 @@
     "name2": "Lion City",
     "champ": "AFC 2 LDC",
     "heure": "10H00",
-    "date": "16/04/2025",
+    "date": "17/04/2025",
     "pro": "Total 2 (2.5)"
     },
     {
@@ -36,7 +36,7 @@
     "name2": "NK Maribor,
     "champ": "Slovenie Ligue 1",
     "heure": "16H00",
-    "date": "16/04/2025",
+    "date": "17/04/2025",
     "pro": "12"
   },
   {
@@ -46,7 +46,7 @@
     "name2": "Van",
     "champ": "Coupe d'Armenie",
     "heure": "14H30",
-    "date": "16/04/2025",
+    "date": "17/04/2025",
     "pro": "V1"
   },
   {
@@ -56,7 +56,7 @@
     "name2": "Crystal Palace",
     "champ": "Premier Ligue",
     "heure": "18H30",
-    "date": "16/04/2025",
+    "date": "17/04/2025",
     "pro": "1X et Total (1.5)"
   }
 ]
