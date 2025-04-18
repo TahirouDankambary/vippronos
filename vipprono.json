@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/langfr-250px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name1": "Athetic Bilbao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/Logo_Rangers_FC_-_2020.svg/2048px-Logo_Rangers_FC_-_2020.svg.png",
-    "name2": "Rangers",
-    "champ": "Europa Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Oxford_United_2018.svg/1200px-Logo_Oxford_United_2018.svg.png",
+    "name1": "Oxford United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+    "name2": "Leeds",
+    "champ": "Championship",
     "heure": "19H00",
-    "date": "17/04/2025",
-    "pro": "V1"
+    "date": "18/04/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cb/Logo_Eintracht_Francfort.svg/1200px-Logo_Eintracht_Francfort.svg.png",
-    "name1": "Frankfurt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1200px-Logo_Tottenham_Hotspur.svg.png",
-    "name2": "Tottenham",
-    "champ": "Europa Ligue",
-    "heure": "19H00",
-    "date": "17/04/2025",
-    "pro": "Au moins une quipe marque (1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Z2Rt7f_ULew4adrVF4Z-mTBBSEi3bpav_Q&s",
+    "name1": "Watford",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZnohO2No-QIfgQfYPvOQHlgLyXn3b-wJkRg&s",
+    "name2": "Burnley",
+    "champ": "Championship",
+    "heure": "14H00",
+    "date": "18/04/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name1": "Lazio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name2": "Bodo-Glimt",
-    "champ": "Europa Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Coventry_City_FC_crest.svg/1200px-Coventry_City_FC_crest.svg.png",
+    "name1": "Coventry",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_West_Bromwich_Albion.svg/1200px-Logo_West_Bromwich_Albion.svg.png",
+    "name2": "West Bromwich",
+    "champ": "Championship",
     "heure": "19H00",
-    "date": "17/04/2025",
-    "pro": "Au moins une quipe marque (1.5)"
+    "date": "18/04/2025",
+    "pro": "Total 2 (0.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/1200px-Logo_Manchester_United_FC.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Olympique_Lyonnais_logo.svg/1200px-Olympique_Lyonnais_logo.svg.png",
-    "name2": "Lyon",
-    "champ": "Europa Ligue",
-    "heure": "16H00",
-    "date": "17/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
+    "name1": "Espanyol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "name2": "Getafe",
+    "champ": "La LIGA",
+    "heure": "19H00",
+    "date": "18/04/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/2048px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/fc/NK_Celje.png",
-    "name2": "Celje",
-    "champ": "Conférence Ligue",
-    "heure": "16H45",
-    "date": "17/04/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/langfr-250px-Logo_FC_Porto.svg.png",
+    "name1": "Porto",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9f/FC_Famalic%C3%A3o_logo.png",
+    "name2": "Famalicao",
+    "champ": "Portugal Premier Ligue",
+    "heure": "17H00",
+    "date": "18/04/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
-    "name1": "Midtjylland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name2": "Copenhague",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
+    "name1": "Brondby",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/FC_Nordsj%C3%A6lland_%28logo%29.svg/1200px-FC_Nordsj%C3%A6lland_%28logo%29.svg.png",
+    "name2": "Nordsjaelland",
     "champ": "Danmark Championnat",
-    "heure": "16H00",
-    "date": "17/04/2025",
-    "pro": "Total 2 (0.5)"
+    "heure": "17H00",
+    "date": "18/04/2025",
+    "pro": "Lzs deux marque"
   }
 ]
 
