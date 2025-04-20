@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Arsenal_FC_2002.svg/640px-Logo_Arsenal_FC_2002.svg.png",
-    "name1": "Arsenal Femmes",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMNCsyM1rsT0jVlkmdB8NSv-KYnEDZ1sJyGQ&s",
-    "name2": "Lyon Femmes",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone Femmes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea Femmes",
     "champ": "LDC Femmes",
     "heure": "11H30",
-    "date": "19/04/2025",
-    "pro": "V2"
+    "date": "20/04/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/1200px-Everton_FC_logo.svg.png",
-    "name1": "Everton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/1200px-Logo_Manchester_City_2016.svg.png",
-    "name2": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Ipswich_Town_2024.svg/1200px-Logo_Ipswich_Town_2024.svg.png",
+    "name1": "Ipswich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
     "champ": "Premier Ligue",
     "heure": "14H00",
-    "date": "19/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "20/04/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_West_Ham_United_2016.svg/langfr-250px-Logo_West_Ham_United_2016.svg.png",
-    "name1": "West Ham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1200px-Logo_Southampton_FC_2011.svg.png",
-    "name2": "Southampton",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
+    "name1": "Leicester",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
+    "name2": "Liverpool",
     "champ": "Premier Ligue",
     "heure": "19H00",
-    "date": "19/04/2025",
-    "pro": "1X et Total (1.5)"
+    "date": "20/04/2025",
+    "pro": "Total 2 (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
-    "name1": "Las Palmas",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_Atl%C3%A9tico_Madrid_2017.svg/1200px-Logo_Atl%C3%A9tico_Madrid_2017.svg.png",
-    "name2": "Atlético",
-    "champ": "La LIGA",
-    "heure": "19H00",
-    "date": "19/04/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
+    "heure": "16H00",
+    "date": "20/04/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d7/Logo_1._FC_Heidenheim_1846_%282007%29.svg/1200px-Logo_1._FC_Heidenheim_1846_%282007%29.svg.png",
-    "name1": "Heidenheim",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/langfr-250px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
-    "name2": "Bayern",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/FC_St._Pauli_%28logo%29.svg/1200px-FC_St._Pauli_%28logo%29.svg.png",
+    "name1": "St Pauli",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name2": "Leverkusen",
     "champ": "Bundesliga",
     "heure": "13H30",
-    "date": "19/04/2025",
-    "pro": "V2 et Total (1.5)"
+    "date": "20/04/2025",
+    "pro": "2X et Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "La LIGA",
-    "heure": "14H15",
-    "date": "19/04/2025",
-    "pro": "V1"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlguAuTfUlVcMweIhpy3IbtnkI299dQOBYpg&s",
+    "name1": "Fulham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "Premier Ligue",
+    "heure": "13H00",
+    "date": "20/04/2025",
+    "pro": "2X"
   }
 ]
 
