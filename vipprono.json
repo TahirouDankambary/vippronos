@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name1": "Gerone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
-    "name2": "Betis",
-    "champ": "La Liga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
+    "name1": "Man city",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Premier Ligue",
     "heure": "19H00",
-    "date": "21/04/2025",
-    "pro": "Total (1.5)"
+    "date": "22/04/2025",
+    "pro": "Total 2 (0.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name1": "Shelbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/2/20/Badge_of_Galway_United_FC_%282013%29.png",
-    "name2": "Galway",
-    "champ": "Irlande Championnat",
-    "heure": "16H00",
-    "date": "21/04/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
+    "name2": "Majorque",
+    "champ": "La Liga",
+    "heure": "19H30",
+    "date": "22/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
-    "name1": "Drogheda",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ4lQ_4zsRYv5ctABpAAcIKDzK4WhUpwjd0A&s",
-    "name2": "St Patrik's",
-    "champ": "Irlande Championnat",
-    "heure": "16H00",
-    "date": "21/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
+    "name1": "Valence",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
+    "name2": "Espanyol",
+    "champ": "La Liga",
+    "heure": "17H00",
+    "date": "22/04/2025",
     "pro": "Total (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Cork_City_FC_2016.svg/1200px-Cork_City_FC_2016.svg.png",
-    "name1": "Cork City",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCqjm5IMs3OW3lOY-Et2pqAjemOfnWxZ5A0Q&s",
-    "name2": "Waterford",
-    "champ": "Irlande Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
+    "name1": "Rio Ave",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/1200px-Logo_Sporting_CP_2001.svg.png",
+    "name2": "Sporting",
+    "champ": "Portugal Premiere Ligue",
     "heure": "16H00",
-    "date": "21/04/2025",
-    "pro": "Total (1.5)"
+    "date": "22/04/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1200px-Molde_Fotball_Logo.svg.png",
-    "name1": "Molde",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name2": "Bodo-Glimt",
-    "champ": "Nrvège Championnat",
-    "heure": "17H15",
-    "date": "21/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
-    "name1": "Brondby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0e/Logo_Randers_FC_2023.svg/1200px-Logo_Randers_FC_2023.svg.png",
-    "name2": "Randers",
+    "photo1": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/606.png",
+    "name1": "Nordsjaelland",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
+    "name2": "Midtjylland",
     "champ": "Danemark Championnat",
+    "heure": "17H00",
+    "date": "22/04/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1200px-Konyaspor_%28logo%29.svg.png",
+    "name1": "Konyaspor",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg/1200px-Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg.png",
+    "name2": "Galatasaray",
+    "champ": "Coupr dr Turquie",
     "heure": "14H00",
-    "date": "21/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "22/04/2025",
+    "pro": "Qualif Equipe 2"
   }
 ]
 
