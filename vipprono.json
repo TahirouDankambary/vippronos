@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name1": "Man city",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e5/Logo_Aston_Villa.svg/1200px-Logo_Aston_Villa.svg.png",
-    "name2": "Aston Villa",
-    "champ": "Premier Ligue",
-    "heure": "19H00",
-    "date": "22/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/langfr-250px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Alaves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Real_Sociedad_logo.svg/1200px-Real_Sociedad_logo.svg.png",
+    "name2": "Sociedad",
+    "champ": "La LIGA",
+    "heure": "19H30",
+    "date": "23/04/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
-    "name1": "Barcelone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_RCD_Majorque.svg/1200px-Logo_RCD_Majorque.svg.png",
-    "name2": "Majorque",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "name1": "Getafe",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXmjIufLk2XiIwD78DRTZCrTmItvnfY9_JbA&s",
+    "name2": "Real",
     "champ": "La Liga",
     "heure": "19H30",
-    "date": "22/04/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Logo_Valencia_CF_2019.svg/langfr-250px-Logo_Valencia_CF_2019.svg.png",
-    "name1": "Valence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
-    "name2": "Espanyol",
-    "champ": "La Liga",
-    "heure": "17H00",
-    "date": "22/04/2025",
-    "pro": "Total (1.5)"
-    },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Rio_Ave_FC.svg/1200px-Rio_Ave_FC.svg.png",
-    "name1": "Rio Ave",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Sporting_CP_2001.svg/1200px-Logo_Sporting_CP_2001.svg.png",
-    "name2": "Sporting",
-    "champ": "Portugal Premiere Ligue",
-    "heure": "16H00",
-    "date": "22/04/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://secure.cache.images.core.optasports.com/soccer/teams/150x150/606.png",
-    "name1": "Nordsjaelland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/FC_Midtjylland_logo.svg/1200px-FC_Midtjylland_logo.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Danemark Championnat",
-    "heure": "17H00",
-    "date": "22/04/2025",
+    "date": "23/04/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Konyaspor_%28logo%29.svg/1200px-Konyaspor_%28logo%29.svg.png",
-    "name1": "Konyaspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6c/Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg/1200px-Logo_Galatasaray_SK_%284_%C3%89toiles%29.svg.png",
-    "name2": "Galatasaray",
-    "champ": "Coupr dr Turquie",
-    "heure": "14H00",
-    "date": "22/04/2025",
-    "pro": "Qualif Equipe 2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/1200px-Cagliari_Calcio_1920_logo.svg.png",
+    "name1": "Cagliari",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name2": "Fiorentina",
+    "champ": "Serie A",
+    "heure": "19H00",
+    "date": "23/04/2025",
+    "pro": "Total 2 (0.5)"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
+    "name2": "Lazio",
+    "champ": "Serie A",
+    "heure": "16H30",
+    "date": "23/04/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Parma_Calcio_1913.svg/1200px-Logo_Parma_Calcio_1913.svg.png",
+    "name1": "Parma",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Juventus_FC_-_logo_black_%28Italy%2C_2020%29.svg",
+    "name2": "Juventus",
+    "champ": "Serie A",
+    "heure": "16H30",
+    "date": "23/04/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_KRC_Genk_2021.svg/1200px-Logo_KRC_Genk_2021.svg.png",
+    "name2": "Genk",
+    "champ": "Jupiler Ligue",
+    "heure": "18H30",
+    "date": "23/04/2025",
+    "pro": "2X"
   }
 ]
 
