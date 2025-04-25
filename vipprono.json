@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvxDRX7WZvxJGmM5sWQmiYIxbEh_5QLE84Dg&s",
-    "name1": "Seville",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name1": "Stuttgart",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Osasuna",
-    "champ": "La LIGA",
-    "heure": "17H00",
-    "date": "24/04/2025",
-    "pro": "Total (1.5)"
+    "name2": "Heidenheim",
+    "champ": "Bundesliga",
+    "heure": "18H30",
+    "date": "25/04/2025",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
-    "name1": "Leganes",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
-    "name2": "Gerone",
-    "champ": "La Liga",
-    "heure": "17H00",
-    "date": "24/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Brescia_Calcio_%28logo%29.svg/1200px-Brescia_Calcio_%28logo%29.svg.png",
+    "name1": "Brescia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/1200px-Logo_Pisa_SC_2024.svg.png",
+    "name2": "Pisa",
+    "champ": "Serie B",
+    "heure": "13H00",
+    "date": "25/04/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBganfbbyY4TsIUd9odzWLqvyoZUR4Sv3lQ&s",
-    "name2": "Empoli",
-    "champ": "Coupe d'Italie",
-    "heure": "19H00",
-    "date": "24/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Cesena_FC_%28logo%29.svg/1200px-Cesena_FC_%28logo%29.svg.png",
+    "name1": "Cesena",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a4/Ussassuolostemma.svg/1200px-Ussassuolostemma.svg.png",
+    "name2": "Sassuolo",
+    "champ": "Serie B",
+    "heure": "18H30",
+    "date": "25/04/2025",
+    "pro": "Total 2 (0.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_FC_Twente_2018.svg/1200px-Logo_FC_Twente_2018.svg.png",
-    "name1": "Twente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name2": "PSV",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
+    "name1": "Waalwijk",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
+    "name2": "Utrecht",
     "champ": "Eredivisie",
-    "heure": "19H00",
-    "date": "24/04/2025",
-    "pro": "V2"
+    "heure": "16H45",
+    "date": "25/04/2025",
+    "pro": "Total 2 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/4/48/Afturelding.JPG",
-    "name1": "Ungmennafelagio",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b7/V%C3%ADkingur_Reykjavik_%28logo%29.svg/1200px-V%C3%ADkingur_Reykjavik_%28logo%29.svg.png",
-    "name2": "Vikingur",
-    "champ": "Islande Championnat",
-    "heure": "19H15",
-    "date": "24/04/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9f/FC_Famalic%C3%A3o_logo.png",
+    "name1": "Famalicao",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
+    "name2": "Braga",
+    "champ": "Portugal Championnat",
+    "heure": "19H30",
+    "date": "25/04/2025",
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f6/USG.png",
-    "name2": "Saint Gilloise",
-    "champ": "Jupiler Ligue",
-    "heure": "18H30",
-    "date": "24/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name1": "Shamrock",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name2": "Shelbourne",
+    "champ": "Irlande Championnat",
+    "heure": "18H45",
+    "date": "25/04/2025",
+    "pro": "Total 2 (0.5)"
   }
 ]
 
