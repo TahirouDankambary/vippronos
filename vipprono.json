@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
-    "name1": "Stuttgart",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/25/Logo_CA_Osasuna_2024.svg/1200px-Logo_CA_Osasuna_2024.svg.png",
-    "name2": "Heidenheim",
-    "champ": "Bundesliga",
-    "heure": "18H30",
-    "date": "25/04/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
+    "name2": "Aston Villa",
+    "champ": "Coupe d'Angleterre",
+    "heure": "16H15",
+    "date": "26/04/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Brescia_Calcio_%28logo%29.svg/1200px-Brescia_Calcio_%28logo%29.svg.png",
-    "name1": "Brescia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ac/Logo_Pisa_SC_2024.svg/1200px-Logo_Pisa_SC_2024.svg.png",
-    "name2": "Pisa",
-    "champ": "Serie B",
-    "heure": "13H00",
-    "date": "25/04/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6d/Logo_Everton_FC_2024.svg/langfr-250px-Logo_Everton_FC_2024.svg.png",
+    "name2": "Everton",
+    "champ": "Premier Ligue",
+    "heure": "11H30",
+    "date": "26/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Cesena_FC_%28logo%29.svg/1200px-Cesena_FC_%28logo%29.svg.png",
-    "name1": "Cesena",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/thumb/a/a4/Ussassuolostemma.svg/1200px-Ussassuolostemma.svg.png",
-    "name2": "Sassuolo",
-    "champ": "Serie B",
-    "heure": "18H30",
-    "date": "25/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1200px-Logo_Southampton_FC_2011.svg.png",
+    "name1": "Southampton",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/ce/Logo_Fulham.svg",
+    "name2": "Fulham",
+    "champ": "Premier Ligue",
+    "heure": "14H00",
+    "date": "26/04/2025",
+    "pro": "V2"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/RKC_Waalwijk_%28logo%29.svg/1200px-RKC_Waalwijk_%28logo%29.svg.png",
-    "name1": "Waalwijk",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name2": "Utrecht",
-    "champ": "Eredivisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
+    "name2": "Real",
+    "champ": "Coupe du Roi",
     "heure": "16H45",
-    "date": "25/04/2025",
-    "pro": "Total 2 (1.5)"
+    "date": "26/04/2025",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/9/9f/FC_Famalic%C3%A3o_logo.png",
-    "name1": "Famalicao",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/9c/Logo_SC_Braga_2024.png",
-    "name2": "Braga",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/S%C3%ADmbolo_Estrela_da_Amadora.svg/1200px-S%C3%ADmbolo_Estrela_da_Amadora.svg.png",
+    "name1": "Estrela da Amadora",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/Logo_FC_Porto.svg/1200px-Logo_FC_Porto.svg.png",
+    "name2": "Porto",
     "champ": "Portugal Championnat",
     "heure": "19H30",
-    "date": "25/04/2025",
-    "pro": "2X"
+    "date": "26/04/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
-    "name1": "Shamrock",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name2": "Shelbourne",
-    "champ": "Irlande Championnat",
-    "heure": "18H45",
-    "date": "25/04/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "name1": "Real Oviedo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c1/Logo_Levante_UD_2023.svg/1200px-Logo_Levante_UD_2023.svg.png",
+    "name2": "Levante",
+    "champ": "Espagne D2",
+    "heure": "14H15",
+    "date": "26/04/2025",
+    "pro": "2X"
   }
 ]
 
