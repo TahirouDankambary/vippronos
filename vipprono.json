@@ -1,33 +1,33 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0a/Logo_Trabzonspor_2022.svg/1200px-Logo_Trabzonspor_2022.svg.png",
-    "name1": "Trabzonspor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/800px-Logo_FC_Barcelone.svg.png",
-    "name2": "Barcelone",
-    "champ": "LDC Yong",
-    "heure": "16H00",
-    "date": "28/04/2025",
-    "pro": "Au moins ue Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name2": "PSG",
+    "champ": "LDC",
+    "heure": "19H00",
+    "date": "29/04/2025",
+    "pro": "But avant 30 Min (NON)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ae/Logo_Udinese_Calcio_2010.svg/1200px-Logo_Udinese_Calcio_2010.svg.png",
-    "name1": "Udinese",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name2": "Bologna",
-    "champ": "Serie A",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
+    "name1": "Al-Hilal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
+    "name2": "Al-Ahli",
+    "champ": "AFC Elitr Ligue",
     "heure": "16H30",
-    "date": "28/04/2025",
-    "pro": "V2"
+    "date": "29/04/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
-    "name1": "Leeds",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
-    "name2": "Bristol",
-    "champ": "Championship",
-    "heure": "19H00",
-    "date": "28/04/2025",
-    "pro": "1X et Total (-4.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/FK_Jelgava_Logo.svg/1200px-FK_Jelgava_Logo.svg.png",
+    "name1": "Jelgava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/lv/b/b5/Grobinas_SC_LFS_logo.png",
+    "name2": "Grobina",
+    "champ": "Lettonie Championnat",
+    "heure": "16H00",
+    "date": "29/04/2025",
+    "pro": "Total 1 (1.5)"
     },
     {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_UD_Almer%C3%ADa.svg/1200px-Logo_UD_Almer%C3%ADa.svg.png",
@@ -36,28 +36,28 @@
     "name2": "Racin de Ferrol",
     "champ": "Espagne D2",
     "heure": "18H30",
-    "date": "28/04/2025",
+    "date": "29/04/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1200px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utrecht II",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh0CUg6YG3nejRrIurZYUHOAldz0MK2-mtpg&s",
-    "name2": "Volendam",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_Malm%C3%B6_FF.svg/1200px-Logo_Malm%C3%B6_FF.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Osters_IF.svg/1200px-Osters_IF.svg.png",
+    "name2": "Osters",
     "champ": "Eerste Divisie",
-    "heure": "18H00",
-    "date": "28/04/2025",
-    "pro": "V2"
+    "heure": "17H00",
+    "date": "29/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfStasaQRef0KHTMMvvEzkpcne-WnM7jGjkw&s",
-    "name1": "Dinamo Bucureti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Roumanie Ligue 1",
-    "heure": "18H00",
-    "date": "28/04/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Burton_Albion_FC_logo.svg/1200px-Burton_Albion_FC_logo.svg.png",
+    "name1": "Burton Albion",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1200px-Logo_Wigan_Athletic.svg.png",
+    "name2": "Wigan Athletic",
+    "champ": "Angleterre Ligue 1",
+    "heure": "18H45",
+    "date": "29/04/2025",
+    "pro": "2X"
   }
 ]
 
