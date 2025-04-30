@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name1": "Arsenal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
-    "name2": "PSG",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/800px-Logo_FC_Barcelone.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
     "champ": "LDC",
     "heure": "19H00",
-    "date": "29/04/2025",
-    "pro": "But avant 30 Min (NON)"
+    "date": "30/04/2025",
+    "pro": "1X et Total (-4.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
-    "name1": "Al-Hilal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name2": "Al-Ahli",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
+    "name1": "Al Nassr",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Kawasaki_Frontale_%28logo%29.svg/1200px-Kawasaki_Frontale_%28logo%29.svg.png",
+    "name2": "Kawasaki Frontale",
     "champ": "AFC Elitr Ligue",
     "heure": "16H30",
-    "date": "29/04/2025",
-    "pro": "Au moins une EQuipe marque (1.5)"
+    "date": "30/04/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/FK_Jelgava_Logo.svg/1200px-FK_Jelgava_Logo.svg.png",
-    "name1": "Jelgava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/lv/b/b5/Grobinas_SC_LFS_logo.png",
-    "name2": "Grobina",
-    "champ": "Lettonie Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1200px-Logo_Viking_FK.svg.png",
+    "name1": "Viking",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/08/FK_Haugesund_logo.png",
+    "name2": "Haugesund",
+    "champ": "Norvège Championnat",
     "heure": "16H00",
-    "date": "29/04/2025",
-    "pro": "Total 1 (1.5)"
+    "date": "30/04/2025",
+    "pro": "V1"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_UD_Almer%C3%ADa.svg/1200px-Logo_UD_Almer%C3%ADa.svg.png",
-    "name1": "Almeria",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Escudo_rcf.png",
-    "name2": "Racin de Ferrol",
-    "champ": "Espagne D2",
-    "heure": "18H30",
-    "date": "29/04/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/17/Logo_Malm%C3%B6_FF.svg/1200px-Logo_Malm%C3%B6_FF.svg.png",
-    "name1": "Malmo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Osters_IF.svg/1200px-Osters_IF.svg.png",
-    "name2": "Osters",
-    "champ": "Eerste Divisie",
-    "heure": "17H00",
-    "date": "29/04/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Burton_Albion_FC_logo.svg/1200px-Burton_Albion_FC_logo.svg.png",
-    "name1": "Burton Albion",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Wigan_Athletic.svg/1200px-Logo_Wigan_Athletic.svg.png",
-    "name2": "Wigan Athletic",
-    "champ": "Angleterre Ligue 1",
-    "heure": "18H45",
-    "date": "29/04/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/79/FC_Koper.png",
+    "name1": "Koper",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/NK_Celje.png/250px-NK_Celje.png",
+    "name2": "Celje",
+    "champ": "Slovenie Ligue 1",
+    "heure": "16H45",
+    "date": "30/04/2025",
     "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
+    "name1": "Brondby",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkzb0TRqhxNcKVGNndhklq8OlGqxZ-UlPRmA&s",
+    "name2": "Silkeboug",
+    "champ": "Coupe Danemak",
+    "heure": "16H30",
+    "date": "30/04/2025",
+    "pro": "Les deux marque"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Petrojet_SC_%28logo%29.png/250px-Petrojet_SC_%28logo%29.png",
+    "name1": "Petrojet",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b8/Logo_Al_Ahly.png",
+    "name2": "Al Ahly",
+    "champ": "Egypte Championnat",
+    "heure": "17H00",
+    "date": "30/04/2025",
+    "pro": "2X et Total (1.5)"
   }
 ]
 
