@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/1200px-Brighton_and_Hove_Albion_FC_crest.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1200px-Newcastle_United_Logo.svg.png",
-    "name2": "Newcastle",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/1200px-Nottingham_Forest_F.C._logo.svg.png",
+    "name2": "Nottingham",
     "champ": "Premier Ligue",
-    "heure": "13H00",
-    "date": "04/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "heure": "19H00",
+    "date": "05/05/2025",
+    "pro": "Total 2 (0.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/11/Logo_1._FSV_Mayence_05_2024.svg/1200px-Logo_1._FSV_Mayence_05_2024.svg.png",
-    "name1": "Mayence",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
-    "name2": "Frankfurt",
-    "champ": "Bundesliga",
-    "heure": "17H30",
-    "date": "04/05/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/5/56/Logo_Girona_FC_-_2022.svg",
+    "name1": "Gerone",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1200px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "La Liga",
+    "heure": "19H00",
+    "date": "05/05/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
-    "name1": "Fribourg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png",
-    "name2": "Leverkusen",
-    "champ": "Bundesliga",
-    "heure": "15H30",
-    "date": "04/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
+    "name2": "Milan",
+    "champ": "Serie A",
+    "heure": "18H45",
+    "date": "05/05/2025",
+    "pro": "V2"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_Real_Madrid.svg/1468px-Logo_Real_Madrid.svg.png",
-    "name1": "Real",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
-    "name2": "Celta Vigo",
-    "champ": "La Liga",
-    "heure": "12H00",
-    "date": "04/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/1200px-Logo_IF_Brommapojkarna_2020.svg.png",
+    "name2": "Brommapojkarna",
+    "champ": "Norvège Championnat",
+    "heure": "17H00",
+    "date": "05/05/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
+    "name1": "FCSB",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfStasaQRef0KHTMMvvEzkpcne-WnM7jGjkw&s",
+    "name2": "Dinamo Bucuresti",
+    "champ": "Roumanie Ligue 1",
+    "heure": "17H30",
+    "date": "05/05/2025",
     "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/59/Logo_Empoli_FC_2021.svg/1200px-Logo_Empoli_FC_2021.svg.png",
-    "name1": "Empoli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_SS_Lazio.svg/1200px-Logo_SS_Lazio.svg.png",
-    "name2": "Lazio",
-    "champ": "Serie A",
-    "heure": "10H30",
-    "date": "04/05/2025",
-    "pro": "2X"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dc/Logo_Club_Brugge_KV_2024.svg/1200px-Logo_Club_Brugge_KV_2024.svg.png",
-    "name1": "Club Bruges",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name2": "Anderlecht",
-    "champ": "Belgique Coupe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name1": "Shelbourne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d7/Badge_of_Waterford_FC.png",
+    "name2": "Waterford",
+    "champ": "Irlande Championnat",
     "heure": "16H00",
-    "date": "04/05/2025",
-    "pro": "Equipe 1 Gagne la Coupe"
+    "date": "05/05/2025",
+    "pro": "V1"
   }
 ]
 
