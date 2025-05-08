@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/Logo_Paris_Saint-Germain_2024.svg/1200px-Logo_Paris_Saint-Germain_2024.svg.png",
-    "name1": "PSG",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "LDC",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo-Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5c/Logo_Tottenham_Hotspur.svg",
+    "name2": "Tottenham",
+    "champ": "Europa Ligue",
     "heure": "19H00",
-    "date": "07/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "date": "08/05/2025",
+    "pro": "2X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ee/NK_Maribor.svg/1200px-NK_Maribor.svg.png",
-    "name1": "NK Maribor",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/NK_Celje.png/250px-NK_Celje.png",
-    "name2": "Celje",
-    "champ": "Slovenie Ligue 1",
-    "heure": "16H45",
-    "date": "07/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/langfr-250px-Logo_Manchester_United_FC.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/langfr-250px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Bilbao",
+    "champ": "Europa Ligue",
+    "heure": "19H00",
+    "date": "08/05/2025",
     "pro": "Au moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/FK_Vojvodina_%28logo%29.svg/1200px-FK_Vojvodina_%28logo%29.svg.png",
-    "name1": "Vojvodina Novi Sad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c3/TSC_Backa_Topola_Logo.png",
-    "name2": "TSC Backa",
-    "champ": "Coupe De Serbie",
-    "heure": "16H30",
-    "date": "07/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/2048px-Logo_ACF_Fiorentina_2022.svg.png",
+    "name1": "Fiorentina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
+    "name2": "Betis",
+    "champ": "Conference Ligue",
+    "heure": "19H00",
+    "date": "08/05/2025",
     "pro": "Au moins une Equipe marque (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_Silkeborg_IF.svg/1200px-Logo_Silkeborg_IF.svg.png",
-    "name1": "Sikeborg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
-    "name2": "Brondby",
-    "champ": "Coupe de Danemak",
-    "heure": "16H30",
-    "date": "07/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name1": "Chelsea",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/1200px-Logo_Djurg%C3%A5rdens_IF.svg.png",
+    "name2": "Djurgardens",
+    "champ": "Conference Ligue",
+    "heure": "19H00",
+    "date": "08/05/2025",
+    "pro": "Handicap 2 (3.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
-    "name1": "Al Nassr",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/1200px-Logo_Al-Ittihad_Club_2015.svg.png",
-    "name2": "Ittihad",
-    "champ": "Saoudi Ligue",
-    "heure": "18H00",
-    "date": "07/05/2025",
-    "pro": "Handicap 2 (1)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
+    "name1": "Copenhague",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/1200px-Logo_Viborg_FF.svg.png",
+    "name2": "Viborg",
+    "champ": "Coupe de Danemark",
+    "heure": "17H00",
+    "date": "08/05/2025",
+    "pro": "1X et Total (-4.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/45/Al_Ahli_Saudi_FC_logo.svg/1200px-Al_Ahli_Saudi_FC_logo.svg.png",
-    "name1": "Al Ahli",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5a/Logo_Al-Taawoun_FC.svg/1200px-Logo_Al-Taawoun_FC.svg.png",
-    "name2": "Al Taawon",
-    "champ": "Irlande Championnat",
-    "heure": "16H00",
-    "date": "07/05/2025",
-    "pro": "Total 1 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
+    "name1": "Bristol City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
+    "name2": "Sheffield",
+    "champ": "Angleterre Championship",
+    "heure": "19H00",
+    "date": "08/05/2025",
+    "pro": "Total (1.5)"
   }
 ]
 
