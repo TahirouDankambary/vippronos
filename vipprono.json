@@ -1,23 +1,23 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name1": "Bodo-Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/5/5c/Logo_Tottenham_Hotspur.svg",
-    "name2": "Tottenham",
-    "champ": "Europa Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
+    "name1": "Las Palmas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name2": "Rayo Vallecano",
+    "champ": "La Liga",
     "heure": "19H00",
-    "date": "08/05/2025",
-    "pro": "2X"
+    "date": "09/05/2025",
+    "pro": "Total (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5b/Logo_Manchester_United_FC.svg/langfr-250px-Logo_Manchester_United_FC.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/langfr-250px-Logo_Athletic_Club_Bilbao.svg.png",
-    "name2": "Bilbao",
-    "champ": "Europa Ligue",
-    "heure": "19H00",
-    "date": "08/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/C%C3%A1diz_CF_logo.svg/1200px-C%C3%A1diz_CF_logo.svg.png",
+    "name1": "Cadiz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_UD_Almer%C3%ADa.svg/1200px-Logo_UD_Almer%C3%ADa.svg.png",
+    "name2": "Almeria",
+    "champ": "Espagne D2",
+    "heure": "18H30",
+    "date": "09/05/2025",
+    "pro": "2X"
   },
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/2048px-Logo_ACF_Fiorentina_2022.svg.png",
@@ -26,7 +26,7 @@
     "name2": "Betis",
     "champ": "Conference Ligue",
     "heure": "19H00",
-    "date": "08/05/2025",
+    "date": "09/05/2025",
     "pro": "Au moins une Equipe marque (1.5)"
     },
     {
@@ -36,7 +36,7 @@
     "name2": "Djurgardens",
     "champ": "Conference Ligue",
     "heure": "19H00",
-    "date": "08/05/2025",
+    "date": "09/05/2025",
     "pro": "Handicap 2 (3.5)"
   },
   {
@@ -46,7 +46,7 @@
     "name2": "Viborg",
     "champ": "Coupe de Danemark",
     "heure": "17H00",
-    "date": "08/05/2025",
+    "date": "09/05/2025",
     "pro": "1X et Total (-4.5)"
   },
   {
@@ -56,7 +56,7 @@
     "name2": "Sheffield",
     "champ": "Angleterre Championship",
     "heure": "19H00",
-    "date": "08/05/2025",
+    "date": "09/05/2025",
     "pro": "Total (1.5)"
   }
 ]
