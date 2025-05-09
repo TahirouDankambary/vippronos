@@ -20,44 +20,44 @@
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/2048px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name1": "Fiorentina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
-    "name2": "Betis",
-    "champ": "Conference Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/88/NS%C3%8D_Runav%C3%ADk_%28logo%29.svg/1200px-NS%C3%8D_Runav%C3%ADk_%28logo%29.svg.png",
+    "name1": "NSI Runavik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/KI_Klaksvik.png/250px-KI_Klaksvik.png",
+    "name2": "Ki Klaksvik",
+    "champ": "Ile Feroe Championnat",
     "heure": "19H00",
     "date": "09/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "pro": "2X"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name1": "Chelsea",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/1200px-Logo_Djurg%C3%A5rdens_IF.svg.png",
-    "name2": "Djurgardens",
-    "champ": "Conference Ligue",
-    "heure": "19H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/44/Polissia_Jytomyr_logo_%282024%29.svg/langfr-250px-Polissia_Jytomyr_logo_%282024%29.svg.png",
+    "name1": "Polissya Jytomyr",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/langfr-250px-FC_Dynamo_Kyiv_logo.svg.png",
+    "name2": "Dynamo Kyiv",
+    "champ": "Ukraine Championnat",
+    "heure": "15H00",
     "date": "09/05/2025",
-    "pro": "Handicap 2 (3.5)"
+    "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Logo_FC_Copenhagen_2023.svg/1200px-Logo_FC_Copenhagen_2023.svg.png",
-    "name1": "Copenhague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a8/Logo_Viborg_FF.svg/1200px-Logo_Viborg_FF.svg.png",
-    "name2": "Viborg",
-    "champ": "Coupe de Danemark",
-    "heure": "17H00",
-    "date": "09/05/2025",
-    "pro": "1X et Total (-4.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/47/Logo_Bristol_City_FC_2019.svg/1200px-Logo_Bristol_City_FC_2019.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a5/Logo_Sheffield_United_FC.svg/1200px-Logo_Sheffield_United_FC.svg.png",
-    "name2": "Sheffield",
-    "champ": "Angleterre Championship",
-    "heure": "19H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
+    "name1": "Sampdoria",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Unione_Sportiva_Salernitana_1919_%28logo%29.svg/1200px-Unione_Sportiva_Salernitana_1919_%28logo%29.svg.png",
+    "name2": "Slernitana",
+    "champ": "Serie B",
+    "heure": "18H30",
     "date": "09/05/2025",
     "pro": "Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Logo_Cosenza_Calcio.svg/1200px-Logo_Cosenza_Calcio.svg.png",
+    "name1": "Cosenza Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/73/Logo_Cesena_FC_2018.svg/1200px-Logo_Cesena_FC_2018.svg.png",
+    "name2": "Cesena",
+    "champ": "Serie B",
+    "heure": "18H30",
+    "date": "09/05/2025",
+    "pro": "2X"
   }
 ]
 
