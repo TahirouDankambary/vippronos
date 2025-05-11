@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/91/Logo_Southampton_FC_2011.svg/1200px-Logo_Southampton_FC_2011.svg.png",
-    "name1": "Southampton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/ba/Logo_Manchester_City_2016.svg/langfr-250px-Logo_Manchester_City_2016.svg.png",
-    "name2": "Man City",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Newcastle_United_FC.svg/langfr-250px-Logo_Newcastle_United_FC.svg.png",
+    "name1": "Nescastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/51/Logo_Chelsea.svg/1200px-Logo_Chelsea.svg.png",
+    "name2": "Chelsea",
     "champ": "Premier Ligue",
-    "heure": "14H00",
-    "date": "10/05/2025",
-    "pro": "Total (1.5)"
+    "heure": "11H00",
+    "date": "11/05/2025",
+    "pro": "3 but d'affilée Non"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
-    "name1": "Bournemouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Aston_Villa_FC_2024.svg/langfr-250px-Aston_Villa_FC_2024.svg.png",
-    "name2": "Aston Villa",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/37/Logo_Nottingham_Forest_FC.svg/langfr-130px-Logo_Nottingham_Forest_FC.svg.png",
+    "name1": "Nottingham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3c/Logo_Leicester_City_2021.svg/langfr-250px-Logo_Leicester_City_2021.svg.png",
+    "name2": "Leicester",
     "champ": "Premier Ligue",
-    "heure": "16H30",
-    "date": "10/05/2025",
-    "pro": "2X"
+    "heure": "13H15",
+    "date": "11/05/2025",
+    "pro": "1X et Tota (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/CS_Universitatea_Craiova_Logo.svg/1200px-CS_Universitatea_Craiova_Logo.svg.png",
-    "name1": "Universitatea Craiova",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name2": "CFR Cluj",
-    "champ": "Roumanie Ligue 1",
-    "heure": "17H30",
-    "date": "10/05/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name1": "Barcelone",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxITiGZuLkhpVxvQJp2tKaPNk-zCLxvicXg&s",
+    "name2": "Real",
+    "champ": "La Liga",
+    "heure": "14H15",
+    "date": "11/05/2025",
+    "pro": "V1"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/00/Logo_Slavia_2024.svg/1200px-Logo_Slavia_2024.svg.png",
-    "name1": "Slavia Prague",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "Sparta Prague",
-    "champ": "Tchèque Championnat",
-    "heure": "17H00",
-    "date": "10/05/2025",
-    "pro": "Total 2 (0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a0/Logo_Torino_FC_2024.svg/langfr-250px-Logo_Torino_FC_2024.svg.png",
+    "name1": "Torino",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1200px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
+    "heure": "16H00",
+    "date": "11/05/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/4/4f/RSC_Anderlecht_logo.png",
-    "name1": "Anderlecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/e/e8/Royale_Union_Saint-Gilloise.jpg",
-    "name2": "Saint-Gilloise",
-    "champ": "Jupiler Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/b/ba/SSC_Napoli.svg",
+    "name1": "Naples",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
+    "champ": "Serie A",
     "heure": "18H45",
-    "date": "10/05/2025",
-    "pro": "Total 1 (0.5)"
+    "date": "11/05/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SL_Benfica_logo.svg/1200px-SL_Benfica_logo.svg.png",
-    "name1": "Benfica",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/12/Logo_Sporting_Clube_Portugal.svg/1200px-Logo_Sporting_Clube_Portugal.svg.png",
-    "name2": "Sporting",
-    "champ": "Portugal Premier Ligue",
-    "heure": "17H00",
-    "date": "10/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4a/Bayer_04_Leverkusen_%28logo%29.svg/langfr-250px-Bayer_04_Leverkusen_%28logo%29.svg.png",
+    "name1": "Leverkusen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/langfr-250px-Borussia_Dortmund_logo.svg.png",
+    "name2": "Dortmund",
+    "champ": "Bundesliga",
+    "heure": "13H30",
+    "date": "11/05/2025",
+    "pro": "Les deux marque"
   }
 ]
 
