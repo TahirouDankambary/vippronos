@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/6/63/Venezia_FC_logo.png",
-    "name1": "Venise",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/af/Logo_ACF_Fiorentina_2022.svg/langfr-250px-Logo_ACF_Fiorentina_2022.svg.png",
-    "name2": "Fiorentina",
-    "champ": "Serie A",
-    "heure": "*16H30",
-    "date": "12/05/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/1200px-Logo_Real_Valladolid_CF_2024.svg.png",
+    "name1": "Valladolid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/56/Logo_Girona_FC_-_2022.svg/1200px-Logo_Girona_FC_-_2022.svg.png",
+    "name2": "Gerone",
+    "champ": "La Liga",
+    "heure": "*17H00",
+    "date": "13/05/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/90/Logo_Al-Okhdood_FC.svg/1200px-Logo_Al-Okhdood_FC.svg.png",
-    "name1": "Al-Okhdood",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/42/AlNassr_logo.png",
-    "name2": "Al Nassr",
-    "champ": "Saoudie Ligue",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8d/Logo_S%C3%A9ville_FC.svg/1200px-Logo_S%C3%A9ville_FC.svg.png",
+    "name1": "Seville",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
+    "name2": "Las palmas",
+    "champ": "La Liga",
+    "heure": "19H30",
+    "date": "13/05/2025",
+    "pro": "Total (1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1200px-Logo_Real_Sociedad_2017.svg.png",
+    "name1": "Real Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Logo_Celta_de_Vigo_2010.svg/1200px-Logo_Celta_de_Vigo_2010.svg.png",
+    "name2": "Celta Vigo",
+    "champ": "La Liga",
     "heure": "18H00",
-    "date": "12/05/2025",
+    "date": "13/05/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/72/Logo_Sunderland_AFC_Original.svg/1200px-Logo_Sunderland_AFC_Original.svg.png",
+    "name1": "Sunderland",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUpwYZQz5gFDI7jmSh3LaVzQTxuQsOAV_f0Q&s",
+    "name2": "Coventry City",
+    "champ": "Angleterre Championship",
+    "heure": "19H00",
+    "date": "13/05/2025",
+    "pro": "2X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/14/Logo_AS_Cittadella_-_2023.svg/1200px-Logo_AS_Cittadella_-_2023.svg.png",
+    "name1": "Cittadella",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a4/Unione_Sportiva_Salernitana_1919_%28logo%29.svg/1200px-Unione_Sportiva_Salernitana_1919_%28logo%29.svg.png",
+    "name2": "Salernitana",
+    "champ": "Serie B",
+    "heure": "18H30",
+    "date": "13/05/2025",
     "pro": "Au moins une EQuipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/30/Aris_Limassol.svg/1200px-Aris_Limassol.svg.png",
-    "name1": "Aris Limassol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/3d/AC_Omonia_logo.svg/1200px-AC_Omonia_logo.svg.png",
-    "name2": "AC Omonia",
-    "champ": "Chypre Championnat",
-    "heure": "16H00",
-    "date": "12/05/2025",
-    "pro": "Total 2 (0.5)"
-    },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5f/Logo_Granada_CF.svg/1200px-Logo_Granada_CF.svg.png",
-    "name1": "Granada",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Logo_SD_Eibar_2022.svg/1200px-Logo_SD_Eibar_2022.svg.png",
-    "name2": "Eibar",
-    "champ": "Espagne D2",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_SS_Juve_Stabia_2024.svg/1200px-Logo_SS_Juve_Stabia_2024.svg.png",
+    "name1": "Juve Stabia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bd/Logo_Sampdoria.svg/1200px-Logo_Sampdoria.svg.png",
+    "name2": "Sampdoria",
+    "champ": "Serie B",
     "heure": "18H30",
-    "date": "12/05/2025",
-    "pro": "Total 1 (0.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Maccabi_Netanya_%28logo%29.svg/1200px-Maccabi_Netanya_%28logo%29.svg.png",
-    "name1": "Maccabi Netanya",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/45/Maccabi_Tel_Aviv_FC.png",
-    "name2": "Maccabi Tel Aviv",
-    "champ": "Israel Championnat",
-    "heure": "17H30",
-    "date": "12/05/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfStasaQRef0KHTMMvvEzkpcne-WnM7jGjkw&s",
-    "name1": "Dinamo Bucuresti",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/FC_Rapid_Bucuresti_logo.svg/1200px-FC_Rapid_Bucuresti_logo.svg.png",
-    "name2": "Rapid Bucuresti",
-    "champ": "Roumanie Ligue 1",
-    "heure": "18H00",
-    "date": "12/05/2025",
-    "pro": "2X"
+    "date": "13/05/2025",
+    "pro": "Au moins une EQuipe marque (1.5)"
   }
 ]
 
