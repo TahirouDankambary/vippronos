@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
-    "name1": "Bologna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Logo_of_AC_Milan.svg/1200px-Logo_of_AC_Milan.svg.png",
-    "name2": "Milan",
-    "champ": "Coupe d'Italie",
-    "heure": "19H00",
-    "date": "14/05/2025",
-    "pro": "Equipe 2 Gagne la Coupe"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/archive/a/a5/20221110213237%21Rcd_espanyol_de_barcelona.png",
+    "name1": "Espanyol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Barcelone.svg/1200px-Logo_FC_Barcelone.svg.png",
+    "name2": "Barcelone",
+    "champ": "La Liga",
+    "heure": "19H30",
+    "date": "15/05/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Logo_FC_Utrecht.svg/1898px-Logo_FC_Utrecht.svg.png",
-    "name1": "Utecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sparta_Rotterdam_%28logo%29.svg/1200px-Sparta_Rotterdam_%28logo%29.svg.png",
-    "name2": "Sparta Rotterdam",
-    "champ": "Eredivisie",
-    "heure": "18H00",
-    "date": "14/05/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e2/FC_Groningen_%28logo%29.svg/1200px-FC_Groningen_%28logo%29.svg.png",
-    "name1": "Groningen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Ajax_Amsterdam.svg/1200px-Ajax_Amsterdam.svg.png",
-    "name2": "Ajax",
-    "champ": "Eredivisie",
-    "heure": "18H00",
-    "date": "14/05/2025",
-    "pro": "V2"
-    },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/50/Sk_sigma.svg/1200px-Sk_sigma.svg.png",
-    "name1": "Sigma Olomouc",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/AC-Sparta-LOGO2021.svg/1200px-AC-Sparta-LOGO2021.svg.png",
-    "name2": "Sparta Prague",
-    "champ": "Coupe de Tcheque",
-    "heure": "17H00",
-    "date": "14/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/ca/Getafe_%28logo%29.svg/1200px-Getafe_%28logo%29.svg.png",
+    "name1": "Getafe",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Logo_Athletic_Club_Bilbao.svg/langfr-250px-Logo_Athletic_Club_Bilbao.svg.png",
+    "name2": "Athletic Bilbao",
+    "champ": "La Liga",
+    "heure": "19H30",
+    "date": "15/05/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/79/FC_Koper.png",
-    "name1": "Koper",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/NK_Celje.png/250px-NK_Celje.png",
-    "name2": "Celje",
-    "champ": "Slovenie Coupe",
-    "heure": "18H00",
-    "date": "14/05/2025",
-    "pro": "Au moins une EQuipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/41/Logo_Rayo_Vallecano_de_Madrid_2016.svg/1200px-Logo_Rayo_Vallecano_de_Madrid_2016.svg.png",
+    "name1": "Rayo Vallecano",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg",
+    "name2": "Betis",
+    "champ": "La Liga",
+    "heure": "17H00",
+    "date": "15/05/2025",
+    "pro": "Total (1.5)"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Brei%C3%B0ablik_UBK_Logo.svg/1200px-Brei%C3%B0ablik_UBK_Logo.svg.png",
+    "name1": "Breidablik",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Vestri_logo.png/250px-Vestri_logo.png",
+    "name2": "Vestri",
+    "champ": "Coupe d'Islande",
+    "heure": "19H30",
+    "date": "15/05/2025",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Logo_Chakhtar_Donetsk.svg/langfr-250px-Logo_Chakhtar_Donetsk.svg.png",
-    "name1": "Chakhtar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/FC_Dynamo_Kyiv_logo.svg/langfr-250px-FC_Dynamo_Kyiv_logo.svg.png",
-    "name2": "Dynamo Kyiv",
-    "champ": "Coupe d'Ukraine",
-    "heure": "15H30",
-    "date": "14/05/2025",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgFc1t0CaVOTvdszBgEUBSIV3wdL5NXXktw&s",
+    "name1": "Varnamo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name2": "Malmo",
+    "champ": "Suede Championnat",
+    "heure": "17H00",
+    "date": "15/05/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Logo_Djurg%C3%A5rdens_IF.svg/1200px-Logo_Djurg%C3%A5rdens_IF.svg.png",
+    "name1": "Djurgardens",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1200px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
+    "name2": "Mjallby",
+    "champ": "Suede Championnat",
+    "heure": "17H00",
+    "date": "15/05/2025",
+    "pro": "Total (1.5)"
   }
 ]
 
