@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fd/Al-Fateh_FC_logo.png",
-    "name1": "Al-Fateh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/1200px-Al_Hilal_SFC_Logo.svg.png",
-    "name2": "Al Hilal",
-    "champ": "Saoudi Ligue",
-    "heure": "15H55",
-    "date": "16/05/2025",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1e/Logo_Crystal_Palace_FC_-_2022.svg/1200px-Logo_Crystal_Palace_FC_-_2022.svg.png",
+    "name1": "Crystal Palace",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name2": "Man city",
+    "champ": "Coupe d'Angleterre",
+    "heure": "15H30",
+    "date": "17/05/2025",
+    "pro": "Au Moins une Equipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/Havnar_B%C3%B3ltfelag_logo.svg/1200px-Havnar_B%C3%B3ltfelag_logo.svg.png",
-    "name1": "Havnar",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/KI_Klaksvik.png/250px-KI_Klaksvik.png",
-    "name2": "Ki Klaksvik",
-    "champ": "Iles Feroe",
-    "heure": "16H15",
-    "date": "16/05/2025",
-    "pro": "V2"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhvHEXiStqTU8zdKb0bmQPKRaN5-F0thBnNg&s",
+    "name1": "Leipzig",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/Bohemians_FC.svg/1200px-Bohemians_FC.svg.png",
-    "name1": "Bohemian",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name2": "Shelbourne",
-    "champ": "Irlande Championnat",
-    "heure": "18H45",
-    "date": "16/05/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a2/SC_Freiburg_%28logo%29.svg/1200px-SC_Freiburg_%28logo%29.svg.png",
+    "name1": "Fribourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/1200px-Eintracht_Frankfurt_crest.svg.png",
+    "name2": "FranKfurt",
+    "champ": "Bundesliga",
+    "heure": "13H30",
+    "date": "17/05/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
-    "name1": "Drogheda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/0/09/Derry_City_FC_%282010%29.png",
-    "name2": "Derry City",
-    "champ": "Irlande Championnat",
-    "heure": "18H45",
-    "date": "16/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/1200px-Racing_Club_de_Strasbourg_logo.svg.png",
+    "name1": "Strasbourg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_Havre_AC_2012.svg/1200px-Logo_Havre_AC_2012.svg.png",
+    "name2": "Le Havre",
+    "champ": "Ligue 1",
+    "heure": "19H00",
+    "date": "17/05/2025",
     "pro": "Au Moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/Troms%C3%B8_IL_logo.svg/1200px-Troms%C3%B8_IL_logo.svg.png",
-    "name1": "Tromso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name2": "Bodo-Glimt",
-    "champ": "Norvège Championnat",
-    "heure": "16H00",
-    "date": "16/05/2025",
-    "pro": "2X et Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b1/Logo_OGC_Nice_2013.svg/1200px-Logo_OGC_Nice_2013.svg.png",
+    "name1": "Nice",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_SB29_2010.svg/1200px-Logo_SB29_2010.svg.png",
+    "name2": "Stade Brestois",
+    "champ": "Ligue 1",
+    "heure": "19H00",
+    "date": "17/05/2025",
+    "pro": "1X et Total (-4.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/39/FC_Nordsj%C3%A6lland_%28logo%29.svg/1200px-FC_Nordsj%C3%A6lland_%28logo%29.svg.png",
-    "name1": "Nordsjaelland",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/AGF_Aarhus_%28logo%29.svg/1200px-AGF_Aarhus_%28logo%29.svg.png",
-    "name2": "AGF Arhus",
-    "champ": "Danmark Championnat",
-    "heure": "17H00",
-    "date": "16/05/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f6/USG.png",
+    "name2": "Saint Gilloise",
+    "champ": "Jupiler Ligue",
+    "heure": "18H45",
+    "date": "17/05/2025",
+    "pro": "V2"
   }
 ]
 
