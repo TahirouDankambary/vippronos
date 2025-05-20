@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/1200px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
-    "name1": "Brighton",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/1200px-Liverpool_FC.svg.png",
-    "name2": "Liverpool",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name1": "Man City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
+    "name2": "Bournemouth",
     "champ": "Premier Ligue",
     "heure": "19H00",
-    "date": "19/05/2025",
-    "pro": "Total 2 (1.5)"
+    "date": "20/05/2025",
+    "pro": "V1"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/C%C3%B3rdoba_CF_logo.svg/1200px-C%C3%B3rdoba_CF_logo.svg.png",
-    "name1": "Cordoba",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOSH_-i_xfN_NiMk5FO0bT6kxzTtskX6NAOw&s",
-    "name2": "Mirendes",
-    "champ": "Espagne D2",
-    "heure": "18H30",
-    "date": "19/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Al-Shabab_Club_2021.svg/1200px-Logo_Al-Shabab_Club_2021.svg.png",
+    "name1": "Al Shabab",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/1200px-Logo_Al-Ittihad_Club_2015.svg.png",
+    "name2": "Ittihad",
+    "champ": "Saoudi Ligue",
+    "heure": "18H00",
+    "date": "20/05/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Mj%C3%A4llby_AIF_%28logo%29.svg/1200px-Mj%C3%A4llby_AIF_%28logo%29.svg.png",
-    "name1": "Majallby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/Logo_IF_Brommapojkarna_2020.svg/1200px-Logo_IF_Brommapojkarna_2020.svg.png",
-    "name2": "Brommapojkarma",
-    "champ": "Norvège Championnat",
-    "heure": "17H00",
-    "date": "19/05/2025",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubIizk6pfHj-wD49qWfS1DqhqKluwPLc5xw&s",
+    "name1": "Kil Toppfotball",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
+    "name2": "Rosenborg",
+    "champ": "Norvège Coupe",
+    "heure": "18H00",
+    "date": "20/05/2025",
+    "pro": "Au Moins une Equipe marque (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name1": "Shelbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/13/Drogheda_United_FC.svg/1200px-Drogheda_United_FC.svg.png",
-    "name2": "Drogheda",
-    "champ": "Irlande Championnat",
-    "heure": "18H45",
-    "date": "19/05/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cd/Egersunds_IK_logo.png",
+    "name1": "Egersunds",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Sarpsborg_08_2023.svg/1200px-Logo_Sarpsborg_08_2023.svg.png",
+    "name2": "Sarpsborg 08",
+    "champ": "Norvège Coupe",
+    "heure": "16H00",
+    "date": "20/05/2025",
+    "pro": "Au Moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
-    "name1": "Shamrock",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5d/St_Patricks_Athletic_FC.svg/2048px-St_Patricks_Athletic_FC.svg.png",
-    "name2": "St Patricks",
-    "champ": "Irlande Championnat",
-    "heure": "19H00",
-    "date": "19/05/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Asane_Fotball_logo.svg/1200px-Asane_Fotball_logo.svg.png",
+    "name1": "Asane",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Viking_FK_logo_2020.svg/1200px-Viking_FK_logo_2020.svg.png",
+    "name2": "Viking",
+    "champ": "Norvège Coupe",
+    "heure": "16H00",
+    "date": "20/05/2025",
+    "pro": "V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Br%C3%B8ndby_IF_2023.svg/1200px-Logo_Br%C3%B8ndby_IF_2023.svg.png",
-    "name1": "Brondby",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_FC_Midtjylland_2023.svg/1200px-Logo_FC_Midtjylland_2023.svg.png",
-    "name2": "Midtjylland",
-    "champ": "Danemark Championnat",
-    "heure": "17H00",
-    "date": "19/05/2025",
-    "pro": "Au moins une Equipe maeque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b2/Aalesunds_FK_logo.svg/1853px-Aalesunds_FK_logo.svg.png",
+    "name1": "Aalesunds",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Hamarkameratene_logo.svg/1200px-Hamarkameratene_logo.svg.png",
+    "name2": "Hamkam",
+    "champ": "Norvège Coupe",
+    "heure": "16H00",
+    "date": "20/05/2025",
+    "pro": "12"
   }
 ]
 
