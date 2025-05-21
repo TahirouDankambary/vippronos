@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name1": "Man City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg/1200px-Logo_AFC_Bournemouth_2013_%28Alternatif%29.svg.png",
-    "name2": "Bournemouth",
-    "champ": "Premier Ligue",
-    "heure": "19H00",
-    "date": "20/05/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/US_Catanzaro_1929_crest.svg/1200px-US_Catanzaro_1929_crest.svg.png",
+    "name1": "Catanzaro",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Spezia_Calcio_-_2023.svg",
+    "name2": "Spezia",
+    "champ": "Serie B",
+    "heure": "18H30",
+    "date": "21/05/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Al-Shabab_Club_2021.svg/1200px-Logo_Al-Shabab_Club_2021.svg.png",
-    "name1": "Al Shabab",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/Logo_Al-Ittihad_Club_2015.svg/1200px-Logo_Al-Ittihad_Club_2015.svg.png",
-    "name2": "Ittihad",
-    "champ": "Saoudi Ligue",
-    "heure": "18H00",
-    "date": "20/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/it/archive/c/cb/20080419201843%21Juvestabiastemma.png",
+    "name1": "Juve Stabia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/1200px-US_Cremonese_logo.svg.png",
+    "name2": "Cremonese",
+    "champ": "Serie B",
+    "heure": "18H30",
+    "date": "21/05/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSubIizk6pfHj-wD49qWfS1DqhqKluwPLc5xw&s",
-    "name1": "Kil Toppfotball",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
-    "name2": "Rosenborg",
-    "champ": "Norvège Coupe",
-    "heure": "18H00",
-    "date": "20/05/2025",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Logo_Al-Nassr.png/500px-Logo_Al-Nassr.png",
+    "name1": "Al Nassr",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Khaleej_Club_2019.svg/1200px-Logo_Khaleej_Club_2019.svg.png",
+    "name2": "Al-Khaleej",
+    "champ": "Saoudi Ligue",
+    "heure": "16H10",
+    "date": "21/05/2025",
+    "pro": "V1"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/c/cd/Egersunds_IK_logo.png",
-    "name1": "Egersunds",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Logo_Sarpsborg_08_2023.svg/1200px-Logo_Sarpsborg_08_2023.svg.png",
-    "name2": "Sarpsborg 08",
-    "champ": "Norvège Coupe",
-    "heure": "16H00",
-    "date": "20/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/33/FC_Dordrecht.png",
+    "name1": "Dordrecht",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_Willem_II_Tilburg_-_2022.svg/640px-Logo_Willem_II_Tilburg_-_2022.svg.png",
+    "name2": "Willem II",
+    "champ": "Eredivisie",
+    "heure": "16H45",
+    "date": "21/05/2025",
     "pro": "Au Moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Asane_Fotball_logo.svg/1200px-Asane_Fotball_logo.svg.png",
-    "name1": "Asane",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Viking_FK_logo_2020.svg/1200px-Viking_FK_logo_2020.svg.png",
-    "name2": "Viking",
-    "champ": "Norvège Coupe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/FK_Vojvodina_logo.svg/1200px-FK_Vojvodina_logo.svg.png",
+    "name1": "Vojvodina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
+    "name2": "Etoile Rouge",
+    "champ": "Serbie Coupe",
     "heure": "16H00",
-    "date": "20/05/2025",
-    "pro": "V2"
+    "date": "21/05/2025",
+    "pro": "Total 2 (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/b/b2/Aalesunds_FK_logo.svg/1853px-Aalesunds_FK_logo.svg.png",
-    "name1": "Aalesunds",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Hamarkameratene_logo.svg/1200px-Hamarkameratene_logo.svg.png",
-    "name2": "Hamkam",
-    "champ": "Norvège Coupe",
-    "heure": "16H00",
-    "date": "20/05/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_Tottenham_Hotspur_Football_Club_2024.svg/langfr-120px-Logo_Tottenham_Hotspur_Football_Club_2024.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
+    "name2": "Man United",
+    "champ": "Ligue Europa",
+    "heure": "19H00",
+    "date": "21/05/2025",
+    "pro": "Equipe 1 Gagne la Coupe"
   }
 ]
 
