@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/40/US_Catanzaro_1929_crest.svg/1200px-US_Catanzaro_1929_crest.svg.png",
-    "name1": "Catanzaro",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Spezia_Calcio_-_2023.svg",
-    "name2": "Spezia",
-    "champ": "Serie B",
-    "heure": "18H30",
-    "date": "21/05/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name1": "Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
+    "name2": "Valencia",
+    "champ": "La Liga",
+    "heure": "19H00",
+    "date": "23/05/2025",
+    "pro": "a*Au Moins une Equipe marque (1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/it/archive/c/cb/20080419201843%21Juvestabiastemma.png",
-    "name1": "Juve Stabia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e1/US_Cremonese_logo.svg/1200px-US_Cremonese_logo.svg.png",
-    "name2": "Cremonese",
-    "champ": "Serie B",
-    "heure": "18H30",
-    "date": "21/05/2025",
-    "pro": "2X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
+    "name1": "CFR Cluj",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
+    "name2": "FCSB",
+    "champ": "Rouma Ligue 1",
+    "heure": "17H30",
+    "date": "23/05/2025",
+    "pro": "Total (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9d/Logo_Al-Nassr.png/500px-Logo_Al-Nassr.png",
-    "name1": "Al Nassr",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/43/Logo_Khaleej_Club_2019.svg/1200px-Logo_Khaleej_Club_2019.svg.png",
-    "name2": "Al-Khaleej",
-    "champ": "Saoudi Ligue",
-    "heure": "16H10",
-    "date": "21/05/2025",
-    "pro": "V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/09/Derry_City_FC_%282010%29.png",
+    "name1": "Derry City",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
+    "name2": "Shamrock",
+    "champ": "Irlande Premier Ligue",
+    "heure": "18H45",
+    "date": "23/05/2025",
+    "pro": "Total (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/3/33/FC_Dordrecht.png",
-    "name1": "Dordrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_Willem_II_Tilburg_-_2022.svg/640px-Logo_Willem_II_Tilburg_-_2022.svg.png",
-    "name2": "Willem II",
-    "champ": "Eredivisie",
-    "heure": "16H45",
-    "date": "21/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
+    "name1": "Shelbourne",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Sligo_Rovers_FC.svg/1200px-Sligo_Rovers_FC.svg.png",
+    "name2": "Silgo Rover",
+    "champ": "Irlande Premier Ligue",
+    "heure": "18H445",
+    "date": "23/05/2025",
     "pro": "Au Moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/FK_Vojvodina_logo.svg/1200px-FK_Vojvodina_logo.svg.png",
-    "name1": "Vojvodina",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/b/b1/Logo_de_l%27%C3%89toile_rouge_de_Belgrade_%28handball%29.png",
-    "name2": "Etoile Rouge",
-    "champ": "Serbie Coupe",
-    "heure": "16H00",
-    "date": "21/05/2025",
-    "pro": "Total 2 (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/20/Badge_of_Galway_United_FC_%282013%29.png",
+    "name1": "Galway",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Cork_City_FC_2016.svg/1200px-Cork_City_FC_2016.svg.png",
+    "name2": "Cork City",
+    "champ": "Irlande Premier Ligue",
+    "heure": "18H45",
+    "date": "23/05/2025",
+    "pro": "Total (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7b/Logo_Tottenham_Hotspur_Football_Club_2024.svg/langfr-120px-Logo_Tottenham_Hotspur_Football_Club_2024.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1200px-Manchester_United_FC_crest.svg.png",
-    "name2": "Man United",
-    "champ": "Ligue Europa",
-    "heure": "19H00",
-    "date": "21/05/2025",
-    "pro": "Equipe 1 Gagne la Coupe"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png",
+    "name1": "Como",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter",
+    "champ": "Serie A",
+    "heure": "18H45",
+    "date": "23/05/2025",
+    "pro": "V2"
   }
 ]
 
