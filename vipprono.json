@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name1": "Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/ce/Valenciacf.svg/1200px-Valenciacf.svg.png",
-    "name2": "Valencia",
-    "champ": "La Liga",
-    "heure": "19H00",
-    "date": "23/05/2025",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1200px-Arsenal_FC.svg.png",
+    "name1": "Arsenal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+    "name2": "Barcelone",
+    "champ": "LDC Femmes",
+    "heure": "16H00",
+    "date": "24/05/2025",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/7e/CFR_Cluj_badge.svg/1200px-CFR_Cluj_badge.svg.png",
-    "name1": "CFR Cluj",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Fcsb-logo.svg/1200px-Fcsb-logo.svg.png",
-    "name2": "FCSB",
-    "champ": "Rouma Ligue 1",
-    "heure": "17H30",
-    "date": "23/05/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Arminia_Bielefeld_Logo_2021%E2%80%93.svg/1200px-Arminia_Bielefeld_Logo_2021%E2%80%93.svg.png",
+    "name1": "Arminia Bielefeld",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/VfB_Stuttgart_1893_Logo.svg/langfr-250px-VfB_Stuttgart_1893_Logo.svg.png",
+    "name2": "Stuttgart",
+    "champ": "DFB Pokal",
+    "heure": "18H00",
+    "date": "24/05/2025",
+    "pro": "Au moins une Equie marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/0/09/Derry_City_FC_%282010%29.png",
-    "name1": "Derry City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Shamrock_Rovers_F_C_.svg/1200px-Shamrock_Rovers_F_C_.svg.png",
-    "name2": "Shamrock",
-    "champ": "Irlande Premier Ligue",
-    "heure": "18H45",
-    "date": "23/05/2025",
-    "pro": "Total (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/46/Logo_CD_Legan%C3%A9s.svg/1200px-Logo_CD_Legan%C3%A9s.svg.png",
+    "name1": "Deportivo Leganes",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9a/Logo_Real_Valladolid_CF_2024.svg/640px-Logo_Real_Valladolid_CF_2024.svg.png",
+    "name2": "Valladolid",
+    "champ": "La Liga",
+    "heure": "16H30",
+    "date": "24/05/2025",
+    "pro": "V1"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/34/Shelbourne_FC.svg/1200px-Shelbourne_FC.svg.png",
-    "name1": "Shelbourne",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/33/Sligo_Rovers_FC.svg/1200px-Sligo_Rovers_FC.svg.png",
-    "name2": "Silgo Rover",
-    "champ": "Irlande Premier Ligue",
-    "heure": "18H445",
-    "date": "23/05/2025",
-    "pro": "Au Moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/RCD_Espanyol_crest.svg/1200px-RCD_Espanyol_crest.svg.png",
+    "name1": "Espanyol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f5/Logo_UD_Las_Palmas.svg/1200px-Logo_UD_Las_Palmas.svg.png",
+    "name2": "Las Palmas",
+    "champ": "La Liga",
+    "heure": "16H30",
+    "date": "24/05/2025",
+    "pro": "V1"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/2/20/Badge_of_Galway_United_FC_%282013%29.png",
-    "name1": "Galway",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/db/Cork_City_FC_2016.svg/1200px-Cork_City_FC_2016.svg.png",
-    "name2": "Cork City",
-    "champ": "Irlande Premier Ligue",
-    "heure": "18H45",
-    "date": "23/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Deportivo_Alaves_logo_%282020%29.svg/1200px-Deportivo_Alaves_logo_%282020%29.svg.png",
+    "name1": "Alaves",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/1200px-CA_Osasuna_2024_crest.svg.png",
+    "name2": "Osasuna",
+    "champ": "La Liga",
+    "heure": "19H00",
+    "date": "24/05/2025",
     "pro": "Total (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Logo_Como_1907_2019.png",
-    "name1": "Como",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
-    "name2": "Inter",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fb/Logo_Bologna_FC_-_2018.svg/1200px-Logo_Bologna_FC_-_2018.svg.png",
+    "name1": "Bologna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4c/Logo_Genoa_CFC_-_2022.svg/1200px-Logo_Genoa_CFC_-_2022.svg.png",
+    "name2": "Genoa",
     "champ": "Serie A",
-    "heure": "18H45",
-    "date": "23/05/2025",
-    "pro": "V2"
+    "heure": "16H00",
+    "date": "24/05/2025",
+    "pro": "V1"
   }
 ]
 
