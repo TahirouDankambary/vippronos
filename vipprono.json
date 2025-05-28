@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/94/Eintracht_Braunschweig_%28logo%29.svg/1200px-Eintracht_Braunschweig_%28logo%29.svg.png",
-    "name1": "Eintracht Brunswick",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/ff/1._FC_Saarbr%C3%BCcken.svg/1200px-1._FC_Saarbr%C3%BCcken.svg.png",
-    "name2": "Sarrebruck",
-    "champ": "Bundesliga",
-    "heure": "18H30",
-    "date": "27/05/2025",
-    "pro": "Les deux Marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
+    "name1": "Betis",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "Conference Ligue",
+    "heure": "19H00",
+    "date": "28/05/2025",
+    "pro": "Equipe 2 Gagne La coupe"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/lt/a/a6/FK_Garliava.jpeg",
-    "name1": "Garliava",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d8/FK_Panevezys_%28logo%29.svg/2048px-FK_Panevezys_%28logo%29.svg.png",
-    "name2": "Panevezys",
-    "champ": "Lituanie Coupe",
-    "heure": "16H30",
-    "date": "27/05/2025",
-    "pro": "Total (3.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/1200px-Fredrikstad_FK_%28logo%29.svg.png",
+    "name1": "Fredrikstad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
+    "name2": "Rosenborg",
+    "champ": "Norvège Championnat",
+    "heure": "17H00",
+    "date": "28/05/2025",
+    "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/f/f1/TransINVEST_FK_logo.png",
-    "name1": "Transinvest",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/FC_Hegelmann_logo.svg/1200px-FC_Hegelmann_logo.svg.png",
-    "name2": "Hegelmann",
-    "champ": "Lituanie Coupe",
-    "heure": "16H00",
-    "date": "27/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
+    "name1": "Bodo Glimt",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1200px-Logo_Viking_FK.svg.png",
+    "name2": "Viking",
+    "champ": "Norvège Championnat",
+    "heure": "19H00",
+    "date": "28/05/2025",
+    "pro": "3 but d'affilé Non"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/lt/8/84/FKKazluRuda2022.jpg",
-    "name1": "Kazlu Ruda",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/FK_Jonava_logo.svg/1200px-FK_Jonava_logo.svg.png",
-    "name2": "Jonava",
-    "champ": "Lituanie Coupe",
-    "heure": "15H30",
-    "date": "27/05/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9d/Blauw_Geel_%2738.png",
+    "name1": "Blauw Geel",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hmB0mvvRaeuk7d1fy5b5nm2FJ13gTQ5Luw&s",
+    "name2": "Noordwijk",
+    "champ": "Pays-Bas Qualif",
+    "heure": "18H00",
+    "date": "28/05/2025",
+    "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c0/Banga_Garzdai_Logo.png/250px-Banga_Garzdai_Logo.png",
-    "name1": "Banga Gargzdai",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/c/ca/FA_%C5%A0iauliai_logo.png",
-    "name2": "Siauliai",
-    "champ": "Lituanie Coupe",
-    "heure": "15H30",
-    "date": "27/05/2025",
-    "pro": "Les deux marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f8/FC_Levadia_Tallinnin.png",
+    "name1": "Levadia",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/JK_Vaprus_%28logo%29.svg/1200px-JK_Vaprus_%28logo%29.svg.png",
+    "name2": "Parnu Vaprus",
+    "champ": "Estonie Championnat",
+    "heure": "16H00",
+    "date": "28/05/2025",
+    "pro": "Total 1 (1.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKtaLygSxXkAoCUIKdyYSZLppXgjY9Ka8TVg&s",
-    "name1": "Kuressaare",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/FC_Flora_%28logo%29.svg/1436px-FC_Flora_%28logo%29.svg.png",
-    "name2": "Flora",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/84/N%C3%B5mme_Kalju_FC_logo_2024.png",
+    "name1": "Nomme Kalju",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/47/Paide_Linnameeskond_logo.png",
+    "name2": "Paide Linnameeskond",
     "champ": "Estonie Championnat",
     "heure": "15H00",
-    "date": "27/05/2025",
-    "pro": "V2"
+    "date": "28/05/2025",
+    "pro": "Au moins une Equipe marque (1.5)"
   }
 ]
 
