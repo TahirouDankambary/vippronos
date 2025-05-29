@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/98/Logo_Real_Betis_Balompi%C3%A9_-_2022.svg/1200px-Logo_Real_Betis_Balompi%C3%A9_-_2022.svg.png",
-    "name1": "Betis",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "Conference Ligue",
-    "heure": "19H00",
-    "date": "28/05/2025",
-    "pro": "Equipe 2 Gagne La coupe"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOweAB5XloH6Jsvugb63Md6Mo9LeRBa6iWGA&s",
+    "name1": "Cremonese",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/9/93/Logo_Spezia_Calcio_-_2023.svg",
+    "name2": "Spezia",
+    "champ": "Serie B",
+    "heure": "18H30",
+    "date": "29/05/2025",
+    "pro": "1X"
   },  
   {
     "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Fredrikstad_FK_%28logo%29.svg/1200px-Fredrikstad_FK_%28logo%29.svg.png",
     "name1": "Fredrikstad",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rosenborg_Trondheim_logo.svg/1200px-Rosenborg_Trondheim_logo.svg.png",
     "name2": "Rosenborg",
-    "champ": "Norvège Championnat",
-    "heure": "17H00",
-    "date": "28/05/2025",
+    "champ": "Ligue 1",
+    "heure": "18H30",
+    "date": "29/05/2025",
     "pro": "Les deux Marque"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e6/Logo_FK_Bod%C3%B8_Glimt.svg/1200px-Logo_FK_Bod%C3%B8_Glimt.svg.png",
-    "name1": "Bodo Glimt",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Logo_Viking_FK.svg/1200px-Logo_Viking_FK.svg.png",
-    "name2": "Viking",
-    "champ": "Norvège Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/04/Logo_SC_Telstar.svg/1683px-Logo_SC_Telstar.svg.png",
+    "name1": "SC Telstar",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f4/Logo_Willem_II_Tilburg_-_2022.svg/640px-Logo_Willem_II_Tilburg_-_2022.svg.png",
+    "name2": "Willem II",
+    "champ": "Pays-Bas Qualif",
     "heure": "19H00",
-    "date": "28/05/2025",
-    "pro": "3 but d'affilé Non"
+    "date": "29/05/2025",
+    "pro": "Au moins Une Equipe marque (1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/9/9d/Blauw_Geel_%2738.png",
-    "name1": "Blauw Geel",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2hmB0mvvRaeuk7d1fy5b5nm2FJ13gTQ5Luw&s",
-    "name2": "Noordwijk",
-    "champ": "Pays-Bas Qualif",
-    "heure": "18H00",
-    "date": "28/05/2025",
-    "pro": "Les deux Marque"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e0/Royal_Antwerp_Football_Club_%28logo%29.svg/1200px-Royal_Antwerp_Football_Club_%28logo%29.svg.png",
+    "name1": "Royal Antwerp",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Sporting_de_Charleroi_%28logo%29.svg/1200px-Sporting_de_Charleroi_%28logo%29.svg.png",
+    "name2": "Charleroi",
+    "champ": "Jupiler Ligue",
+    "heure": "16H30",
+    "date": "29/05/2025",
+    "pro": "Total 1 (0.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f8/FC_Levadia_Tallinnin.png",
-    "name1": "Levadia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/JK_Vaprus_%28logo%29.svg/1200px-JK_Vaprus_%28logo%29.svg.png",
-    "name2": "Parnu Vaprus",
-    "champ": "Estonie Championnat",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Brann_logo.svg/2560px-Brann_logo.svg.png",
+    "name1": "Brann",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Molde_Fotball_Logo.svg/1200px-Molde_Fotball_Logo.svg.png",
+    "name2": "Molde",
+    "champ": "Norvège Championnat",
     "heure": "16H00",
     "date": "28/05/2025",
-    "pro": "Total 1 (1.5)"
+    "pro": "Au Moins une Equipe marque (1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/84/N%C3%B5mme_Kalju_FC_logo_2024.png",
-    "name1": "Nomme Kalju",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/4/47/Paide_Linnameeskond_logo.png",
-    "name2": "Paide Linnameeskond",
-    "champ": "Estonie Championnat",
-    "heure": "15H00",
-    "date": "28/05/2025",
-    "pro": "Au moins une Equipe marque (1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Malm%C3%B6_FF_2000.svg/1200px-Logo_Malm%C3%B6_FF_2000.svg.png",
+    "name1": "Malmo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/74/Logo_BK_H%C3%A4cken_2021.svg/1200px-Logo_BK_H%C3%A4cken_2021.svg.png",
+    "name2": "Hacken",
+    "champ": "Suède Championnat",
+    "heure": "13H00",
+    "date": "29/05/2025",
+    "pro": "Les deux marque (1.5)"
   }
 ]
 
