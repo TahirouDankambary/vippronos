@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Logo_of_CD_Castell%C3%B3n.svg/1200px-Logo_of_CD_Castell%C3%B3n.svg.png",
-    "name1": "Castellon",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Real_Zaragoza_logo.svg/1200px-Real_Zaragoza_logo.svg.png",
-    "name2": "Real Zaragoza",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Escudo_rcf.png/1200px-Escudo_rcf.png",
+    "name1": "Racing de Ferrol",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Real_Sporting_de_Gijon.svg/1200px-Real_Sporting_de_Gijon.svg.png",
+    "name2": "Sporting de Gijon",
     "champ": "Espagne. D2",
-    "heure": "18H30",
-    "date": "30/05/2025",
-    "pro": "12"
+    "heure": "14H15",
+    "date": "31/05/2025",
+    "pro": "Total 1: (+0.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d2/FC_Flora_%28logo%29.svg/1436px-FC_Flora_%28logo%29.svg.png",
-    "name1": "Flora",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4d/JK_Tammeka_Tartu_%28logo%29.svg/1200px-JK_Tammeka_Tartu_%28logo%29.svg.png",
-    "name2": "Tammeka Tartu",
-    "champ": "Estonie. Meistriliiga",
-    "heure": "17H00",
-    "date": "30/05/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/1200px-Logo_M%C3%A1laga_CF.svg.png",
+    "name1": "Malaga",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
+    "name2": "Burgos",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "31/05/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Emblem_of_the_Donbas_Battalion.svg/1200px-Emblem_of_the_Donbas_Battalion.svg.png",
-    "name1": "Syla Donbassa",
-    "photo2": "https://i.namu.wiki/i/rPWi6yR7eKaeG4zA3zxV5PuVPR9PaZIsutbRj_QPGMyj4ozRlGy5gfWgle-rg8DTVpdB0VVyKjcbb-k91dbUfg.svg",
-    "name2": "Chornomorets Sevastopol",
-    "champ": "Championnat amical des clubs",
-    "heure": "17H00",
-    "date": "30/05/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Str%C3%B8msgodset_IF_%28logo%29.svg/1200px-Str%C3%B8msgodset_IF_%28logo%29.svg.png",
+    "name1": "Stromsgodset",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Hamarkameratene_logo.svg/1200px-Hamarkameratene_logo.svg.png",
+    "name2": "HamKam",
+    "champ": "Norvège. Eliteserien",
+    "heure": "14H00",
+    "date": "31/05/2025",
+    "pro": "1X Et TP(1.5) - OUI"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Olympique_d%27Akbou_logo.png/1200px-Olympique_d%27Akbou_logo.png",
-    "name1": "Olympique Akbou",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/archive/f/f7/20141112200624%21Logo_CS_Constantine.png",
-    "name2": "Constantine",
-    "champ": "Algérie. Ligue 1",
-    "heure": "16H00",
-    "date": "30/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo_Troms%C3%B8_IL_2020.svg/langfr-250px-Logo_Troms%C3%B8_IL_2020.svg.png",
+    "name1": "Tromso",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
+    "name2": "Valerenga",
+    "champ": "Norvège. Eliteserien",
+    "heure": "16H45",
+    "date": "31/05/2025",
+    "pro": "Total: (+2)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Degerfors_IF_2020.svg/langfr-250px-Logo_Degerfors_IF_2020.svg.png",
+    "name1": "Degerfors",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_%C3%96sters_IF.svg/815px-Logo_%C3%96sters_IF.svg.png",
+    "name2": "Osters",
+    "champ": "Suède. Allsvenskan",
+    "heure": "13H00",
+    "date": "31/05/2025",
+    "pro": "Total: (+1.5)"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IFK_Norrkoping_logo.svg/1200px-IFK_Norrkoping_logo.svg.png",
+    "name1": "IFK Norrkoping",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3GjzUAyIqkVjXkmb9gqTecP1DMzCM2RyrA&s",
+    "name2": "GAIS",
+    "champ": "Suède. Allsvenskan",
+    "heure": "13H00",
+    "date": "31/05/2025",
     "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/8/8a/AUT_Leibnitz_COA.png",
-    "name1": "Leibnitz",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ2q-4xz8SYk5OZ-LPn6uxxLl4kvudqTH0hw&s",
-    "name2": "USV Hoome Mooskirchen",
-    "champ": "Autriche. Oberliga",
-    "heure": "16H30",
-    "date": "30/05/2025",
-    "pro": "V1"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a7/JK_Vaprus_%28logo%29.svg/1200px-JK_Vaprus_%28logo%29.svg.png",
-    "name1": "Parnu Vaprus U21",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Harjujk_logo.png/1200px-Harjujk_logo.png",
-    "name2": "Harju U21",
-    "champ": "Estonie. ll Liiga",
-    "heure": "16H00",
-    "date": "30/05/2025",
-    "pro": "2X"
   }
 ]
 
