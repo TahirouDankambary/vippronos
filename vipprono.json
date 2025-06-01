@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Escudo_rcf.png/1200px-Escudo_rcf.png",
-    "name1": "Racing de Ferrol",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Real_Sporting_de_Gijon.svg/1200px-Real_Sporting_de_Gijon.svg.png",
-    "name2": "Sporting de Gijon",
-    "champ": "Espagne. D2",
-    "heure": "14H15",
-    "date": "31/05/2025",
-    "pro": "Total 1: (+0.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/de/thumb/2/22/FC_Vizela_Logo.svg/250px-FC_Vizela_Logo.svg.png",
+    "name1": "Vizela",
+    "photo2": "https://i.namu.wiki/i/vyXmxibAXeC-Zlss5izRfAAfqtKtmKAmmGc8nMRsm1vcpRHTbDrX5ahaPohX3SD5cLP2-foCtJFa6_Ml7OhfPw.svg",
+    "name2": "Aves",
+    "champ": "Portugal. Qualification",
+    "heure": "18H45",
+    "date": "01/06/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/93/Logo_M%C3%A1laga_CF.svg/1200px-Logo_M%C3%A1laga_CF.svg.png",
-    "name1": "Malaga",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/0/00/Burgos_CF_escudo.png",
-    "name2": "Burgos",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/RC_Deportivo_La_Coru%C3%B1a_logo.svg/1200px-RC_Deportivo_La_Coru%C3%B1a_logo.svg.png",
+    "name1": "Deportivo de La Coruna",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbX_4IBXYMB2vrrq6n1RYkvfDv6RSDpXiT3g&s",
+    "name2": "Elche",
     "champ": "Espagne. D2",
     "heure": "16H30",
-    "date": "31/05/2025",
-    "pro": "1X"
+    "date": "01/06/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b4/Str%C3%B8msgodset_IF_%28logo%29.svg/1200px-Str%C3%B8msgodset_IF_%28logo%29.svg.png",
-    "name1": "Stromsgodset",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Hamarkameratene_logo.svg/1200px-Hamarkameratene_logo.svg.png",
-    "name2": "HamKam",
-    "champ": "Norvège. Eliteserien",
-    "heure": "14H00",
-    "date": "31/05/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Logo_of_SD_Huesca.svg/1200px-Logo_of_SD_Huesca.svg.png",
+    "name1": "Huesca",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/CD_Eldense_2023.svg/langfr-250px-CD_Eldense_2023.svg.png",
+    "name2": "Eldense",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "01/06/2025",
+    "pro": "Total: (+1.5)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/84/Logo_Troms%C3%B8_IL_2020.svg/langfr-250px-Logo_Troms%C3%B8_IL_2020.svg.png",
-    "name1": "Tromso",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name2": "Valerenga",
-    "champ": "Norvège. Eliteserien",
-    "heure": "16H45",
-    "date": "31/05/2025",
-    "pro": "Total: (+2)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ0vx2cEvTSg6hq3IAqb9M71WAMMPzA6CkBA&s",
+    "name1": "Levante",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/SD_Eibar_logo_2016.svg/1200px-SD_Eibar_logo_2016.svg.png",
+    "name2": "SD Eibar",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "01/06/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ea/Logo_Degerfors_IF_2020.svg/langfr-250px-Logo_Degerfors_IF_2020.svg.png",
-    "name1": "Degerfors",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/78/Logo_%C3%96sters_IF.svg/815px-Logo_%C3%96sters_IF.svg.png",
-    "name2": "Osters",
-    "champ": "Suède. Allsvenskan",
-    "heure": "13H00",
-    "date": "31/05/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/ca/RealSantanderRC_1923.png",
+    "name1": "Racing de Santander",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Logo_of_Granada_Club_de_F%C3%BAtbol.svg/1200px-Logo_of_Granada_Club_de_F%C3%BAtbol.svg.png",
+    "name2": "Granada",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "01/06/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/IFK_Norrkoping_logo.svg/1200px-IFK_Norrkoping_logo.svg.png",
-    "name1": "IFK Norrkoping",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA3GjzUAyIqkVjXkmb9gqTecP1DMzCM2RyrA&s",
-    "name2": "GAIS",
-    "champ": "Suède. Allsvenskan",
-    "heure": "13H00",
-    "date": "31/05/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/6e/Real_Oviedo_logo.svg/1200px-Real_Oviedo_logo.svg.png",
+    "name1": "Real Oviedo",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/C%C3%A1diz_CF_logo.svg/1200px-C%C3%A1diz_CF_logo.svg.png",
+    "name2": "Càdiz",
+    "champ": "Espagne. D2",
+    "heure": "16H30",
+    "date": "01/06/2025",
+    "pro": "V1"
   }
 ]
 
