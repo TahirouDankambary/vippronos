@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Almere_City_FC_logo.PNG/250px-Almere_City_FC_logo.PNG",
-    "name1": "Almere City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/2/23/FC_Eindhoven.png",
-    "name2": "Eindhoven",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "15/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Dagenham_%26_Redbridge_FC.svg/1730px-Logo_Dagenham_%26_Redbridge_FC.svg.png",
+    "name1": "Dagenham & Redbridge",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/ac/BedfordTown.png",
+    "name2": "Bedford Town",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "16/09/2025",
     "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/7/79/Ajax_Amsterdam.svg/1017px-Ajax_Amsterdam.svg.png",
-    "name1": "AFC Ajax ll",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Logo_ADO_Den_Haag_2024.svg/986px-Logo_ADO_Den_Haag_2024.svg.png",
-    "name2": "ADO La Haye",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "15/09/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/33/FC_Dordrecht.png/250px-FC_Dordrecht.png",
-    "name1": "Dordrecht",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/1200px-AZ_Alkmaar.svg.png",
-    "name2": "Alkmaar",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "15/09/2025",
-    "pro": "1X"
-    },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/PSV_Eindhoven.svg/1200px-PSV_Eindhoven.svg.png",
-    "name1": "PSV",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Roda_JC_Kerkrade_logo.svg/1200px-Roda_JC_Kerkrade_logo.svg.png",
-    "name2": "Roda JC Kerkrade",
-    "champ": "Pays-Bas. Eerste Divisie",
-    "heure": "18H00",
-    "date": "15/09/2025",
-    "pro": "Deux équipes vont marquer: OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/8/81/FC_Fredericia.png",
-    "name1": "Fredericia",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/Vejle_Boldklub.png/250px-Vejle_Boldklub.png",
-    "name2": "Vejle",
-    "champ": "Danemark. Superliga",
-    "heure": "17H00",
-    "date": "15/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/70/SouthportFC.png",
+    "name1": "Southport",
+    "photo2": "https://pbs.twimg.com/profile_images/1832818073717309440/lKKxo95K_400x400.jpg",
+    "name2": "Radcliffe",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "16/09/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Rks_rakow_crest_ai.svg/langfr-250px-Rks_rakow_crest_ai.svg.png",
-    "name1": "Rakow Czestochowa",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/G%C3%B3rnik_Zabrze_crest.svg/869px-G%C3%B3rnik_Zabrze_crest.svg.png",
-    "name2": "Gornik Zabrze",
-    "champ": "Championnat de Pologne",
-    "heure": "17H00",
-    "date": "15/09/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Slough_Town_FC_crest.svg/1200px-Slough_Town_FC_crest.svg.png",
+    "name1": "Slough Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c6/WellingUnitedBadge.png",
+    "name2": "Welling United",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "16/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Worthing_FC_crest.svg/210px-Worthing_FC_crest.svg.png",
+    "name1": "Worthing",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jersey_Bulls.svg/894px-Jersey_Bulls.svg.png",
+    "name2": "Jersey Bulls",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "16/09/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Weston-super-Mare_AFC_logo.svg/1031px-Weston-super-Mare_AFC_logo.svg.png",
+    "name1": "Weston-Super-Mare",
+    "photo2": "https://static.wikia.nocookie.net/the-football-database/images/9/99/Taunton_Town_FC.jpg/revision/latest/scale-to-width-down/140?cb=20161116184401",
+    "name2": "Taunton Town",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "16/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Halesowen_Town_FC_crest.svg/1200px-Halesowen_Town_FC_crest.svg.png",
+    "name1": "Halesowen Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Grimsby_Borough_FC_crest.svg/1200px-Grimsby_Borough_FC_crest.svg.png",
+    "name2": "Grimsby Borough FC",
+    "champ": "Coupe d'Angleterre",
+    "heure": "18H45",
+    "date": "16/09/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
 
