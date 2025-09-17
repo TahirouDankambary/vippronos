@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1a/Logo_Dagenham_%26_Redbridge_FC.svg/1730px-Logo_Dagenham_%26_Redbridge_FC.svg.png",
-    "name1": "Dagenham & Redbridge",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/a/ac/BedfordTown.png",
-    "name2": "Bedford Town",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "16/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1uUdgbW8v-6atl_grFpf1SbqGGjyRJg2ajQ&s",
+    "name1": "Al Ahli Doha",
+    "photo2": "https://tmssl.akamaized.net//images/wappen/head/86257.png?lm=1734458937",
+    "name2": "Al Khalidiya",
+    "champ": "Ligue des champions AFC 2",
+    "heure": "16H00",
+    "date": "17/09/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/7/70/SouthportFC.png",
-    "name1": "Southport",
-    "photo2": "https://pbs.twimg.com/profile_images/1832818073717309440/lKKxo95K_400x400.jpg",
-    "name2": "Radcliffe",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/31/Al_Wasl_Duba%C3%AF_%28logo%29.svg/1144px-Al_Wasl_Duba%C3%AF_%28logo%29.svg.png",
+    "name1": "Al Wasl",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLE-bgYMrGyd0dRmbUeBQEfAk2X1sHcv4rRg&s",
+    "name2": "Esteghlal",
+    "champ": "Ligue des champions AFC 2",
+    "heure": "16H00",
+    "date": "17/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/15/Al_Muharraq_%28logo%29.svg/langfr-250px-Al_Muharraq_%28logo%29.svg.png",
+    "name1": "Al-Muharraq",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/43/Al-Wehdat_SC_%28logo%29.png",
+    "name2": "Al-Weehdat",
+    "champ": "Ligue des champions AFC 2",
+    "heure": "18H15",
+    "date": "17/09/2025",
+    "pro": "Total: (+1.5)"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/Woodford_Town_FC_crest.svg/1200px-Woodford_Town_FC_crest.svg.png",
+    "name1": "Woodford Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/4/44/Bury_Town_FC.png",
+    "name2": "Bury Town",
     "champ": "Coupe d'Angleterre",
     "heure": "18H45",
-    "date": "16/09/2025",
+    "date": "17/09/2025",
     "pro": "2X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Slough_Town_FC_crest.svg/1200px-Slough_Town_FC_crest.svg.png",
-    "name1": "Slough Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/c/c6/WellingUnitedBadge.png",
-    "name2": "Welling United",
+    "photo1": "https://static.wikia.nocookie.net/the-football-database/images/9/95/Frome_Town_F.C..png/revision/latest?cb=20180609222311",
+    "name1": "Frome Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/f/f8/Shaftesbury_F.C._badge.png",
+    "name2": "Shaftesbury Town",
     "champ": "Coupe d'Angleterre",
     "heure": "18H45",
-    "date": "16/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-    },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Worthing_FC_crest.svg/210px-Worthing_FC_crest.svg.png",
-    "name1": "Worthing",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jersey_Bulls.svg/894px-Jersey_Bulls.svg.png",
-    "name2": "Jersey Bulls",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "16/09/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
+    "date": "17/09/2025",
+    "pro": "1X"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Weston-super-Mare_AFC_logo.svg/1031px-Weston-super-Mare_AFC_logo.svg.png",
-    "name1": "Weston-Super-Mare",
-    "photo2": "https://static.wikia.nocookie.net/the-football-database/images/9/99/Taunton_Town_FC.jpg/revision/latest/scale-to-width-down/140?cb=20161116184401",
-    "name2": "Taunton Town",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "16/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/13/Halesowen_Town_FC_crest.svg/1200px-Halesowen_Town_FC_crest.svg.png",
-    "name1": "Halesowen Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/52/Grimsby_Borough_FC_crest.svg/1200px-Grimsby_Borough_FC_crest.svg.png",
-    "name2": "Grimsby Borough FC",
-    "champ": "Coupe d'Angleterre",
-    "heure": "18H45",
-    "date": "16/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://kassiesa.net/uefa/clubs/images/FC-Sochi.png",
+    "name1": "Sochi",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/e7/Dynamo_Moscow_logo.svg/786px-Dynamo_Moscow_logo.svg.png",
+    "name2": "Dynamo Moscou",
+    "champ": "Coupe de Russie",
+    "heure": "17H30",
+    "date": "17/09/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   }
 ]
 
