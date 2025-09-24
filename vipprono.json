@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/d/d0/Al_Bukiryah_Logo.png",
-    "name1": "Al-Bukayriyah",
-    "photo2": "https://upload.wikimedia.org/wikipedia/lt/5/51/Al-Kholood_Club_emblema.png",
-    "name2": "Al Kholood",
-    "champ": "Coupe d'Arabie saoudite",
-    "heure": "15H35",
-    "date": "22/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
+    "name1": "Atl. Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
+    "name2": "Rayo Vallecano",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H30",
+    "date": "24/09/2025",
+    "pro": "1X"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf3v898ecv_YKH3N4H7aV8ersaAIc0Kx7D6g&s",
-    "name1": "Al-Ta'ee",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmME2T1QSMFwd_b83BpkLgAWetbAr6A2LixQ&s",
-    "name2": "Al-Khaleej",
-    "champ": "Coupe d'Arabie saoudite",
-    "heure": "15H45",
-    "date": "22/09/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1065px-Logo_Real_Sociedad_2017.svg.png",
+    "name1": "Real Sociedad",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
+    "name2": "Majorque",
+    "champ": "Espagne. LaLiga",
+    "heure": "19H30",
+    "date": "24/09/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Abha_Club_Logo.svg/1200px-Abha_Club_Logo.svg.png",
-    "name1": "Abha",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0c/Logo_Al-Shabab_Club_2021.svg/1200px-Logo_Al-Shabab_Club_2021.svg.png",
-    "name2": "Al Shabab",
-    "champ": "Coupe d'Arabie saoudite",
-    "heure": "18H00",
-    "date": "22/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1192px-Newcastle_United_Logo.svg.png",
+    "name1": "Newcastle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/32/Bradford_City_AFC.png",
+    "name2": "Bradford City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "24/09/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/7/7c/Al_Adalah_logo.png",
-    "name1": "Al Adalh",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/928px-Al_Hilal_SFC_Logo.svg.png",
-    "name2": "Al-Hilal",
-    "champ": "Coupe d'Arabie saoudite",
-    "heure": "18H30",
-    "date": "22/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/5/5a/Huddersfield_Town_A.F.C._logo.svg/158px-Huddersfield_Town_A.F.C._logo.svg.png",
+    "name1": "Huddersfield Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
+    "name2": "Man City",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "24/09/2025",
     "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/IFK_Varnamo_logo.svg/1158px-IFK_Varnamo_logo.svg.png",
-    "name1": "IFK Varnamo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIlIqVwkMjtcFLh5FGEfv1OLvsM1ptwVsKNg&s",
-    "name2": "Halmstads",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H00",
-    "date": "22/09/2025",
-    "pro": "12"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
+    "name1": "Tottenham",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1200px-Doncaster_Rovers_F.C._logo.svg.png",
+    "name2": "Doncaster Rovers",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "18H45",
+    "date": "24/09/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f9/IFK_Norrk%C3%B6ping_%28logo%29.svg/1019px-IFK_Norrk%C3%B6ping_%28logo%29.svg.png",
-    "name1": "IFK Norrköping",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQITgzEZ5_d0uh12CAFdmJHveMFByqbTFjX2Q&s",
-    "name2": "AIK Fotboll",
-    "champ": "Suède. Allsvenskan",
-    "heure": "17H10",
-    "date": "22/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/1038px-Logo_Port_Vale_FC.svg.png",
+    "name1": "Port Vale",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1021px-Arsenal_FC.svg.png",
+    "name2": "Arsenal",
+    "champ": "Angleterre. Coupe de la Ligue",
+    "heure": "19H00",
+    "date": "24/09/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   }
 ]
 
