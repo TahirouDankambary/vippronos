@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/935px-Atletico_Madrid_Logo_2024.svg.png",
-    "name1": "Atl. Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/Rayo_Vallecano_logo.svg/1200px-Rayo_Vallecano_logo.svg.png",
-    "name2": "Rayo Vallecano",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/895px-CA_Osasuna_2024_crest.svg.png",
+    "name1": "Osasuna",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Elche_CF_2021.svg/1667px-Logo_Elche_CF_2021.svg.png",
+    "name2": "Elche",
     "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "24/09/2025",
-    "pro": "1X"
+    "heure": "17H30",
+    "date": "25/09/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/26/Logo_Real_Sociedad_2017.svg/1065px-Logo_Real_Sociedad_2017.svg.png",
-    "name1": "Real Sociedad",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/97/RCD_Mallorca_%28logo%29.svg/1547px-RCD_Mallorca_%28logo%29.svg.png",
-    "name2": "Majorque",
-    "champ": "Espagne. LaLiga",
-    "heure": "19H30",
-    "date": "24/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/896px-Genoa_CFC_crest.svg.png",
+    "name1": "Genoa",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBganfbbyY4TsIUd9odzWLqvyoZUR4Sv3lQ&s",
+    "name2": "Empoli",
+    "champ": "Coupe d'Italie",
+    "heure": "16H30",
+    "date": "25/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1002px-Torino_FC_Logo.svg.png",
+    "name1": "Torino",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/947px-Pisa_SC_crest.svg.png",
+    "name2": "Pisa 1909",
+    "champ": "Coupe d'Italie",
+    "heure": "19H00",
+    "date": "25/09/2025",
+    "pro": "1X Et TP(1.5) - OUI"
+    },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fa/FC_Amkal_Moscow.png",
+    "name1": "Amkal",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FC_Yenisey_Krasnoyarsk_%28logo%29.svg/948px-FC_Yenisey_Krasnoyarsk_%28logo%29.svg.png",
+    "name2": "Ienisseï Krasnoïarsk",
+    "champ": "Coupe de Russie",
+    "heure": "14H00",
+    "date": "25/09/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/1192px-Newcastle_United_Logo.svg.png",
-    "name1": "Newcastle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/3/32/Bradford_City_AFC.png",
-    "name2": "Bradford City",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "24/09/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-    },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/sco/thumb/5/5a/Huddersfield_Town_A.F.C._logo.svg/158px-Huddersfield_Town_A.F.C._logo.svg.png",
-    "name1": "Huddersfield Town",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/1200px-Manchester_City_FC_badge.svg.png",
-    "name2": "Man City",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "24/09/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/FC_KAMAZ_Logo.svg/2045px-FC_KAMAZ_Logo.svg.png",
+    "name1": "KAMAZ",
+    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4c/FC_Spartak_Kostroma_Logo_2022.svg/921px-FC_Spartak_Kostroma_Logo_2022.svg.png",
+    "name2": "Spartak Kostroma",
+    "champ": "Coupe de Russie",
+    "heure": "16H30",
+    "date": "25/09/2025",
+    "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/Logo_Tottenham_Hotspur.svg/1011px-Logo_Tottenham_Hotspur.svg.png",
-    "name1": "Tottenham",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Doncaster_Rovers_F.C._logo.svg/1200px-Doncaster_Rovers_F.C._logo.svg.png",
-    "name2": "Doncaster Rovers",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "18H45",
-    "date": "24/09/2025",
-    "pro": "V1 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/Logo_Port_Vale_FC.svg/1038px-Logo_Port_Vale_FC.svg.png",
-    "name1": "Port Vale",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1021px-Arsenal_FC.svg.png",
-    "name2": "Arsenal",
-    "champ": "Angleterre. Coupe de la Ligue",
-    "heure": "19H00",
-    "date": "24/09/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/ru/e/e9/Volna_NN_FC_logo_2024.png",
+    "name1": "Volna Kovernino",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/FC_Arsenal_Tula_logo.svg/1200px-FC_Arsenal_Tula_logo.svg.png",
+    "name2": "Arsenal Tula",
+    "champ": "Coupe de Russie",
+    "heure": "17H00",
+    "date": "25/09/2025",
+    "pro": "V2"
   }
 ]
 
