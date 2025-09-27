@@ -1,63 +1,63 @@
 [
    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/3/38/CA_Osasuna_2024_crest.svg/895px-CA_Osasuna_2024_crest.svg.png",
-    "name1": "Osasuna",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cd/Logo_Elche_CF_2021.svg/1667px-Logo_Elche_CF_2021.svg.png",
-    "name2": "Elche",
-    "champ": "Espagne. LaLiga",
-    "heure": "17H30",
-    "date": "25/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/51/Juventus_FC_2017_logo.png",
+    "name1": "Juventus",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/fd/Logo_Atalanta_Bergame_2024.svg/730px-Logo_Atalanta_Bergame_2024.svg.png",
+    "name2": "Atalanta",
+    "champ": "Italie. Série A",
+    "heure": "16H00",
+    "date": "27/09/2025",
     "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Genoa_CFC_crest.svg/896px-Genoa_CFC_crest.svg.png",
-    "name1": "Genoa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWBganfbbyY4TsIUd9odzWLqvyoZUR4Sv3lQ&s",
-    "name2": "Empoli",
-    "champ": "Coupe d'Italie",
-    "heure": "16H30",
-    "date": "25/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/0b/Cagliari_Calcio_1920_logo.svg/992px-Cagliari_Calcio_1920_logo.svg.png",
+    "name1": "Cagliari Calcio",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/langfr-250px-FC_Internazionale_Milano_2021.svg.png",
+    "name2": "Inter Milan",
+    "champ": "Italie. Série A",
+    "heure": "18H45",
+    "date": "27/09/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Torino_FC_Logo.svg/1002px-Torino_FC_Logo.svg.png",
-    "name1": "Torino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Pisa_SC_crest.svg/947px-Pisa_SC_crest.svg.png",
-    "name2": "Pisa 1909",
-    "champ": "Coupe d'Italie",
-    "heure": "19H00",
-    "date": "25/09/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/FC_Rostov_logo.svg/1200px-FC_Rostov_logo.svg.png",
+    "name1": "Rostov",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/FC_Krasnodar_logo.svg/1200px-FC_Krasnodar_logo.svg.png",
+    "name2": "Krasnodar",
+    "champ": "Russie. Première Ligue",
+    "heure": "16H00",
+    "date": "27/09/2025",
+    "pro": "Total: (+2)"
     },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/f/fa/FC_Amkal_Moscow.png",
-    "name1": "Amkal",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/80/FC_Yenisey_Krasnoyarsk_%28logo%29.svg/948px-FC_Yenisey_Krasnoyarsk_%28logo%29.svg.png",
-    "name2": "Ienisseï Krasnoïarsk",
-    "champ": "Coupe de Russie",
-    "heure": "14H00",
-    "date": "25/09/2025",
-    "pro": "Total: (+1.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/89/FC_KAMAZ_Logo.svg/2045px-FC_KAMAZ_Logo.svg.png",
-    "name1": "KAMAZ",
-    "photo2": "https://upload.wikimedia.org/wikipedia/ru/thumb/4/4c/FC_Spartak_Kostroma_Logo_2022.svg/921px-FC_Spartak_Kostroma_Logo_2022.svg.png",
-    "name2": "Spartak Kostroma",
-    "champ": "Coupe de Russie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/0/0b/FC_Zenit_2_star_2023_logo.png",
+    "name1": "Zénith",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/8a/Logo_FK_Orenbourg_2025.svg/1200px-Logo_FK_Orenbourg_2025.svg.png",
+    "name2": "Orenbourg",
+    "champ": "Russie. Première Ligue",
     "heure": "16H30",
-    "date": "25/09/2025",
-    "pro": "Total: (+1.5)"
+    "date": "27/09/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/ru/e/e9/Volna_NN_FC_logo_2024.png",
-    "name1": "Volna Kovernino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/FC_Arsenal_Tula_logo.svg/1200px-FC_Arsenal_Tula_logo.svg.png",
-    "name2": "Arsenal Tula",
-    "champ": "Coupe de Russie",
-    "heure": "17H00",
-    "date": "25/09/2025",
-    "pro": "V2"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1d/Logo_FC_Lorient_Bretagne-Sud.svg/1428px-Logo_FC_Lorient_Bretagne-Sud.svg.png",
+    "name1": "Lorient",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/5/58/Logo_AS_Monaco_FC_-_2021.svg/1182px-Logo_AS_Monaco_FC_-_2021.svg.png",
+    "name2": "AS Monaco",
+    "champ": "France. Ligue 1",
+    "heure": "15H00",
+    "date": "27/09/2025",
+    "pro": "Deux équipes vont marquer: OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/86/Paris_Saint-Germain_Logo.svg/1200px-Paris_Saint-Germain_Logo.svg.png",
+    "name1": "PSG",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_AJ_Auxerre_-_1997.svg/950px-Logo_AJ_Auxerre_-_1997.svg.png",
+    "name2": "Auxerre",
+    "champ": "France. Ligue 1",
+    "heure": "19H05",
+    "date": "27/09/2025",
+    "pro": "V1 Et TP(1.5) - OUI"
   }
 ]
 
