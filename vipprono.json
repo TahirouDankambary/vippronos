@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Birmingham_City_FC_logo.svg/847px-Birmingham_City_FC_logo.svg.png",
-    "name1": "Birmingham City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Sheffield_Wednesday_badge.svg/828px-Sheffield_Wednesday_badge.svg.png",
-    "name2": "Sheffield Wednesday",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnjfJzN-Nrb20LEwihVeSoE6iR1b3hyPJ9g&s",
+    "name1": "Metz",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/927px-Olympique_Marseille_logo.svg.png",
+    "name2": "Marseille",
+    "champ": "France. Ligue 1",
+    "heure": "15H00",
+    "date": "04/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/Blackburn_Rovers.svg/1159px-Blackburn_Rovers.svg.png",
-    "name1": "Blackburn Rovers",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Swansea_City_AFC_logo.svg/1200px-Swansea_City_AFC_logo.svg.png",
-    "name2": "Swansea City",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "12"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IWIYXgSpdXNRK_ZEyy0KYf8jNci_lnrk3Q&s",
+    "name1": "Stade Brestois",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/931px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
+    "name2": "Nantes",
+    "champ": "France. Ligue 1",
+    "heure": "17H00",
+    "date": "04/10/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Bristol_City_crest.svg/1200px-Bristol_City_crest.svg.png",
-    "name1": "Bristol City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Ipswich_Town.svg/962px-Ipswich_Town.svg.png",
-    "name2": "Ipswich",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/950px-AJAuxerreLogo.svg.png",
+    "name1": "Auxerre",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/893px-RC_Lens_logo.svg.png",
+    "name2": "RC Lens",
+    "champ": "France. Ligue 1",
+    "heure": "19H05",
+    "date": "04/10/2025",
     "pro": "Total: (+1.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/1200px-Leicester_City_crest.svg.png",
-    "name1": "Leicester City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/886px-Logo_Wrexham_AFC.svg.png",
-    "name2": "Wrexham",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "1X"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88uEXSKkpArOTSz_wr9i9AjOStKYKw0pcrQ&s",
+    "name1": "Fortuna Sittard",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZzpFkR9A2bEHm3iVy9UQVtF9q8lPZ0CPYA&s",
+    "name2": "Volendam",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "16H45",
+    "date": "04/10/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Middlesbrough_FC_crest.svg/1152px-Middlesbrough_FC_crest.svg.png",
-    "name1": "Middlesbrough",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_Stoke_City_FC_-_2001.svg/1027px-Logo_Stoke_City_FC_-_2001.svg.png",
-    "name2": "Stoke City",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "1X"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/PEC_Zwolle_%28logo%29.svg/971px-PEC_Zwolle_%28logo%29.svg.png",
+    "name1": "PEC Zwolle",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
+    "name2": "PSV",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "18H00",
+    "date": "04/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Hull_City_AFC_logo.svg/948px-Hull_City_AFC_logo.svg.png",
-    "name1": "Hull City",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/1200px-Preston_North_End_FC.svg.png",
-    "name2": "Preston North End",
-    "champ": "Angleterre. Championship",
-    "heure": "18H45",
-    "date": "30/09/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_sc_Heerenveen_2024.svg/1131px-Logo_sc_Heerenveen_2024.svg.png",
+    "name1": "Heerenveen",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/1200px-Excelsior_Rotterdam_logo_2021.svg.png",
+    "name2": "Excelsior",
+    "champ": "Pays-Bas. Eredivisie",
+    "heure": "19H00",
+    "date": "04/10/2025",
+    "pro": "1X"
   }
 ]
