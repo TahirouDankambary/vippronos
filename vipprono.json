@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnjfJzN-Nrb20LEwihVeSoE6iR1b3hyPJ9g&s",
-    "name1": "Metz",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Olympique_Marseille_logo.svg/927px-Olympique_Marseille_logo.svg.png",
-    "name2": "Marseille",
-    "champ": "France. Ligue 1",
-    "heure": "15H00",
-    "date": "04/10/2025",
-    "pro": "2X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/893px-Real_Madrid_CF.svg.png",
+    "name1": "Real Madrid",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/927px-AS_Roma_logo_%282017%29.svg.png",
+    "name2": "Roma",
+    "champ": "UEFA. Femmes",
+    "heure": "16H45",
+    "date": "08/10/2025",
+    "pro": "1X Et TP(1.5) - OUI"
   },  
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5IWIYXgSpdXNRK_ZEyy0KYf8jNci_lnrk3Q&s",
-    "name1": "Stade Brestois",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_FC_Nantes_%28avec_fond%29_-_2019.svg/931px-Logo_FC_Nantes_%28avec_fond%29_-_2019.svg.png",
-    "name2": "Nantes",
-    "champ": "France. Ligue 1",
-    "heure": "17H00",
-    "date": "04/10/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/FC_Twente.svg/953px-FC_Twente.svg.png",
+    "name1": "Twente",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
+    "name2": "Chelsea",
+    "champ": "UEFA. Femmes",
+    "heure": "16H45",
+    "date": "08/10/2025",
+    "pro": "V2 Et TP(1.5) - OUI"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/AJAuxerreLogo.svg/950px-AJAuxerreLogo.svg.png",
-    "name1": "Auxerre",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/RC_Lens_logo.svg/893px-RC_Lens_logo.svg.png",
-    "name2": "RC Lens",
-    "champ": "France. Ligue 1",
-    "heure": "19H05",
-    "date": "04/10/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
+    "name1": "Wolfsburg",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+    "name2": "PSG",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "08/10/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR88uEXSKkpArOTSz_wr9i9AjOStKYKw0pcrQ&s",
-    "name1": "Fortuna Sittard",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIZzpFkR9A2bEHm3iVy9UQVtF9q8lPZ0CPYA&s",
-    "name2": "Volendam",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "16H45",
-    "date": "04/10/2025",
-    "pro": "12"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/9e/PEC_Zwolle_%28logo%29.svg/971px-PEC_Zwolle_%28logo%29.svg.png",
-    "name1": "PEC Zwolle",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b0/Logo_PSV_Eindhoven_2024.svg/1200px-Logo_PSV_Eindhoven_2024.svg.png",
-    "name2": "PSV",
-    "champ": "Pays-Bas. Eredivisie",
-    "heure": "18H00",
-    "date": "04/10/2025",
-    "pro": "2X Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f1/Logo_sc_Heerenveen_2024.svg/1131px-Logo_sc_Heerenveen_2024.svg.png",
-    "name1": "Heerenveen",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Excelsior_Rotterdam_logo_2021.svg/1200px-Excelsior_Rotterdam_logo_2021.svg.png",
-    "name2": "Excelsior",
-    "champ": "Pays-Bas. Eredivisie",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1184px-Manchester_United_FC_crest.svg.png",
+    "name1": "Man United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
+    "name2": "Valerenga",
+    "champ": "UEFA. Femmes",
     "heure": "19H00",
-    "date": "04/10/2025",
-    "pro": "1X"
+    "date": "08/10/2025",
+    "pro": "Total: (+2.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8OmFSHBypREVx75N6UOqQEChQoGWtmf6gg&s",
+    "name1": "St.Polten",
+    "photo2": "https://upload.wikimedia.org/wikipedia/it/archive/1/15/20200825174527%21Club_Atl%C3%A9tico_de_Madrid_logo_2018.png",
+    "name2": "Atl.Madrid",
+    "champ": "UEFA. Femmes",
+    "heure": "19H00",
+    "date": "08/10/2025",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/2560px-Flag_of_Tanzania.svg.png",
+    "name1": "Tanzanie",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png",
+    "name2": "Zambie",
+    "champ": "Qualif Coupe du Monde 2026",
+    "heure": "19H00",
+    "date": "08/10/2025",
+    "pro": "Total: (+1.5)"
   }
 ]
