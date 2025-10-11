@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/893px-Real_Madrid_CF.svg.png",
-    "name1": "Real Madrid",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/927px-AS_Roma_logo_%282017%29.svg.png",
-    "name2": "Roma",
-    "champ": "UEFA. Femmes",
-    "heure": "16H45",
-    "date": "08/10/2025",
-    "pro": "1X Et TP(1.5) - OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSfCw72SRhgentzXqYxQSOjgy47I7pQAw-vw&s",
+    "name1": "Banbury United",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/0/0c/StAlbansCFC.png",
+    "name2": "St Albans City",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "11/10/2025",
+    "pro": "Deux équipes vont marquer: OUI"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/FC_Twente.svg/953px-FC_Twente.svg.png",
-    "name1": "Twente",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1200px-Chelsea_FC.svg.png",
-    "name2": "Chelsea",
-    "champ": "UEFA. Femmes",
-    "heure": "16H45",
-    "date": "08/10/2025",
-    "pro": "V2 Et TP(1.5) - OUI"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/VfL_Wolfsburg_Logo.svg/1200px-VfL_Wolfsburg_Logo.svg.png",
-    "name1": "Wolfsburg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
-    "name2": "PSG",
-    "champ": "UEFA. Femmes",
-    "heure": "19H00",
-    "date": "08/10/2025",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjM1u60yzYd_GKb3ik1TmEKPC4gG7SCxDjA&s",
+    "name1": "Braintree Town",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/d/d8/Logo_Farnborough_FC.png",
+    "name2": "Farnborough",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "11/10/2025",
     "pro": "1X"
   },
-    {
-    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/Manchester_United_FC_crest.svg/1184px-Manchester_United_FC_crest.svg.png",
-    "name1": "Man United",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/V%C3%A5lerenga_Oslo_logo.svg/1200px-V%C3%A5lerenga_Oslo_logo.svg.png",
-    "name2": "Valerenga",
-    "champ": "UEFA. Femmes",
-    "heure": "19H00",
-    "date": "08/10/2025",
-    "pro": "Total: (+2.5)"
-  },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8OmFSHBypREVx75N6UOqQEChQoGWtmf6gg&s",
-    "name1": "St.Polten",
-    "photo2": "https://upload.wikimedia.org/wikipedia/it/archive/1/15/20200825174527%21Club_Atl%C3%A9tico_de_Madrid_logo_2018.png",
-    "name2": "Atl.Madrid",
-    "champ": "UEFA. Femmes",
-    "heure": "19H00",
-    "date": "08/10/2025",
-    "pro": "V2"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Flag_of_Tanzania.svg/2560px-Flag_of_Tanzania.svg.png",
-    "name1": "Tanzanie",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Zambia.svg/1200px-Flag_of_Zambia.svg.png",
-    "name2": "Zambie",
-    "champ": "Qualif Coupe du Monde 2026",
-    "heure": "19H00",
-    "date": "08/10/2025",
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Woking_FC_logo.svg/1200px-Woking_FC_logo.svg.png",
+    "name1": "Woking",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Paris_Saint-Germain_F.C..svg/1200px-Paris_Saint-Germain_F.C..svg.png",
+    "name2": "Brackley Town",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "11/10/2025",
     "pro": "Total: (+1.5)"
+  },
+    {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Gainsborough_Trinity_FC_crest.svg/1196px-Gainsborough_Trinity_FC_crest.svg.png",
+    "name1": "Gainsborough Trinity",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Logo_Hartlepool_United_FC_-_2017.svg/1200px-Logo_Hartlepool_United_FC_-_2017.svg.png",
+    "name2": "Hartlepool United",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "11/10/2025",
+    "pro": "2X Et TP(1.5) - OUI"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Darlington_FC_crest.svg/921px-Darlington_FC_crest.svg.png",
+    "name1": "Darlington",
+    "photo2": "https://upload.wikimedia.org/wikipedia/en/9/9d/Telford_United.png",
+    "name2": "Telford United",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "11/10/2025",
+    "pro": "1X"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Dorking_Wanderers_FC_crest.svg/1200px-Dorking_Wanderers_FC_crest.svg.png",
+    "name1": "Dorking Wanderers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/e/e8/Aldershot_Town_Football_Club_logo.png",
+    "name2": "Aldershot Town",
+    "champ": "Coupe d'Angleterre",
+    "heure": "14H00",
+    "date": "11/10/2025",
+    "pro": "12"
   }
 ]
