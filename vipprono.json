@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQjGDeE5oeXM2ZAvP_X06h8oifDCgOR81KA&s",
-    "name1": "Queens Park Rangers",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKz6PIBNjuVgPp88X6PL5xYOOLuAx-bnpf1A&s",
-    "name2": "Southampton",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiPFVh8LCvjmolQIpL6hT63t_nRUsZ_TrK9A&s",
+    "name1": "Dundee",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/08/Logo_du_Kilmarnock_FC_2023.svg/langfr-250px-Logo_du_Kilmarnock_FC_2023.svg.png",
+    "name2": "Kilmarnock",
+    "champ": "Écosse. Première Ligue",
     "heure": "19H45",
-    "date": "05/11/2025",
-    "pro": "2X"
+    "date": "30/12/2025",
+    "pro": "Total: (+1.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/8/85/Logo_Preston_North_End_FC_-_2014.svg/1200px-Logo_Preston_North_End_FC_-_2014.svg.png",
-    "name1": "Preston North End",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logo_Swansea_City_AFC_-_1998.svg/1200px-Logo_Swansea_City_AFC_-_1998.svg.png",
-    "name2": "Swansea City",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvZCGCOS2GXRi0d4D_6OzScrJHta7E-EUGTg&s",
+    "name1": "Livingston FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/07/Logo_Dundee_United_FC_-_2022.svg/1200px-Logo_Dundee_United_FC_-_2022.svg.png",
+    "name2": "Dundee United",
+    "champ": "Écosse. Première Ligue",
     "heure": "19H45",
-    "date": "05/11/2025",
+    "date": "30/12/2025",
     "pro": "Total: (+1.5)"
   },
   {
-    "photo1": "https://static.wikia.nocookie.net/ted-lasso/images/1/15/SheffieldWednesday.jpg/revision/latest?cb=20221222142944",
-    "name1": "Sheffield Wednesday",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU45R6t05ZYGLjNF6WAQxsOnOp1nMl9vEOrQ&s",
-    "name2": "Norwich City",
-    "champ": "Angleterre. Championship",
+    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cc/Logo_Rangers_FC_2023.svg/langfr-250px-Logo_Rangers_FC_2023.svg.png",
+    "name1": "Rangers",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/aa/Logo_St._Mirren_FC_2023.svg/1200px-Logo_St._Mirren_FC_2023.svg.png",
+    "name2": "Saint Mirren",
+    "champ": "Écosse. Première Ligue",
     "heure": "19H45",
-    "date": "05/11/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "date": "30/12/2025",
+    "pro": "1X"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/c8/Logo_Portsmouth_FC.svg/1200px-Logo_Portsmouth_FC.svg.png",
-    "name1": "Portsmouth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/bf/Logo_Wrexham_AFC.svg/886px-Logo_Wrexham_AFC.svg.png",
-    "name2": "Wrexham",
-    "champ": "Angleterre. Championship",
-    "heure": "20H00",
-    "date": "05/11/2025",
-    "pro": "Total: (+1.5)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-IVQdmK2FCIvblKyXnZUkjn0gcCuE_yqsig&s",
+    "name1": "Hibernian",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDgF_adOss_xJC_xx2zNqszj1JvMkjV8I4A&s",
+    "name2": "Aberdeen FC",
+    "champ": "Écosse. Première Ligue",
+    "heure": "19H45",
+    "date": "30/12/2025",
+    "pro": "12"
   },
   {
-    "photo1": "https://www.fc-rotenberg.at/wp-content/uploads/2021/10/Logo_Header.png",
-    "name1": "Rotenberg",
-    "photo2": "https://upload.wikimedia.org/wikipedia/de/thumb/9/91/Dornbirner_SV.svg/1371px-Dornbirner_SV.svg.png",
-    "name2": "Dornbirner Sportverein",
-    "champ": "Autriche. Landesliga",
-    "heure": "18H00",
-    "date": "05/11/2025",
-    "pro": "Deux équipes vont marquer: OUI"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-xz1awmOxMhFpZZS-p3zJ85BAbxQu_CSlqA&s",
+    "name1": "Motherwell FC",
+    "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f2/Celtic_fc.svg/1200px-Celtic_fc.svg.png",
+    "name2": "Celtic",
+    "champ": "Écosse. Première Ligue",
+    "heure": "20H00",
+    "date": "30/12/2025",
+    "pro": "2X Et TP(1.5) - OUI"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR556b8L061B2Uteb8lxeVhibvvW3L_NtC_iQ&s",
     "name1": "Real Sociedad ll",
     "photo2": "https://upload.wikimedia.org/wikipedia/fr/thumb/e/ed/Logo_SD_Huesca_2023.svg/1768px-Logo_SD_Huesca_2023.svg.png",
     "name2": "Huesca",
-    "champ": "Espagne. D2",
-    "heure": "19H00",
-    "date": "05/11/2025",
-    "pro": "12"
+    "champ": "Championnat d'Arabie saoudite",
+    "heure": "15H30",
+    "date": "30/12/2025",
+    "pro": "V1"
   }
 ]
