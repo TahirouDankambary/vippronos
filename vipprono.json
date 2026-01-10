@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Zizou_Bergs_%282023_US_Open%29_02.jpg/250px-Zizou_Bergs_%282023_US_Open%29_02.jpg",
-    "name1": "Isaac Becroft",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tabilo_RGQ23_%2852942983162%29.jpg/250px-Tabilo_RGQ23_%2852942983162%29.jpg",
-    "name2": "Alejandro Tabilo",
+    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/ki82",
+    "name1": "Vit Kopriva",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Gaston_WMQ23_%2853061713286%29.jpg/960px-Gaston_WMQ23_%2853061713286%29.jpg",
+    "name2": "Hugo Gaston",
     "champ": "Tennis. ATP. Auckland",
     "heure": "22H00",
-    "date": "09/01/2026",
-    "pro": "V2"
+    "date": "10/01/2026",
+    "pro": "Total: (+21.5)"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Mochizuki_RGQ23_%2852942982782%29.jpg/330px-Mochizuki_RGQ23_%2852942982782%29.jpg",
-    "name1": "Shintaro Mochizuki",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cerundolo_JM._RGQ23_%2852943034457%29.jpg",
-    "name2": "Juan Manuel",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg/250px-Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg",
+    "name1": "Eliot Spizzirri",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/64/Cerundolo_JM._RGQ22_%283%29_%2852128606242%29.jpg",
+    "name2": "Juan Manuel Cerundolo",
     "champ": "Tennis. ATP. Auckland",
     "heure": "22H00",
-    "date": "09/01/2026",
-    "pro": "Total: (+21.5)"
+    "date": "10/01/2026",
+    "pro": "V1"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcu33wG_5i-5vRLOletHz-TkH3LOER2DNAw&s",
-    "name1": "Adrian Mannarino",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Pablo_Carre%C3%B1o_Busta_at_2014_Madrid_Open.jpg/250px-Pablo_Carre%C3%B1o_Busta_at_2014_Madrid_Open.jpg",
-    "name2": "Pablo Carreno Busta",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",
+    "name1": "Mattia Bellucci",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Medjedovic_RGQ23.jpg/250px-Medjedovic_RGQ23.jpg",
+    "name2": "Hamad Medjedovic",
     "champ": "Tennis. ATP. Auckland",
     "heure": "23H30",
-    "date": "09/01/2026",
-    "pro": "Total: (+22.5)"
+    "date": "10/01/2026",
+    "pro": "Total: (+21.5)"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Cristian_Garin.jpg",
-    "name1": "Christian Garin",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZSxh2l80J08i4tqWunEYWWUOUxQ5IsiR7g&s",
-    "name2": "Eliot Spizzirri",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/47/Nava_BLO22_%2824%29_%2852157277484%29.jpg",
+    "name1": "Emilio Nava",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Struff_MCM23_%2837%29_%2852883307264%29.jpg",
+    "name2": "Jan-Lennard Struff",
     "champ": "Tennis. ATP. Auckland",
     "heure": "23H30",
-    "date": "09/01/2026",
-    "pro": "Total: (+22.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Mariano_Navone_-_Roland-Garros_-_28.05.2024_%28cropped%29.jpg",
-    "name1": "Mariano Navone",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Nava_BLO22_%2824%29_%2852157277484%29.jpg/250px-Nava_BLO22_%2824%29_%2852157277484%29.jpg",
-    "name2": "Emilio Nava",
-    "champ": "Tennis. ATP. Auckland",
-    "heure": "01H00",
     "date": "10/01/2026",
     "pro": "Total: (+21.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/250px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",
-    "name1": "Mattia Bellucci",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg/250px-Bautista_Agut_MCM23_%2814%29_%2852883313449%29.jpg",
-    "name2": "Roberto Bautista-Agut",
-    "champ": "Tennis. ATP. Auckland",
-    "heure": "01H00",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Dalma_G%C3%A1lfi_%282023_US_Open%29_01_%28cropped%29.jpg/330px-Dalma_G%C3%A1lfi_%282023_US_Open%29_01_%28cropped%29.jpg",
+    "name1": "Dalma Galfi",
+    "photo2": "https://www.itftennis.com/remote.axd/media.itftennis.com/asset-bank/servlet/display?file=22137989f16b08669837fe3e.jpg?crop=0,0.0428380187416332,0,0.033467202141900958&cropmode=percentage&width=600&height=400&rnd=132276333750000000",
+    "name2": "Mina Hodzic",
+    "champ": "Tennis. WTA. Adélaïde",
+    "heure": "23H30",
     "date": "10/01/2026",
-    "pro": "Total: (+22.5)"
+    "pro": "V1"
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/2023-06_Kate%C5%99ina_Siniakov%C3%A1_autograph_%28cropped%29.jpg/250px-2023-06_Kate%C5%99ina_Siniakov%C3%A1_autograph_%28cropped%29.jpg",
+    "name1": "Katerina Siniakova",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Transylvania_Open_2023_Gabriela_Ruse_vs_Emiliana_Arango_6-1%2C_0-6%2C_6-1_%2853272725562%29_%28cropped%29.jpg/250px-Transylvania_Open_2023_Gabriela_Ruse_vs_Emiliana_Arango_6-1%2C_0-6%2C_6-1_%2853272725562%29_%28cropped%29.jpg",
+    "name2": "Elena Gabriela Ruse",
+    "champ": "Tennis. WTA. Adélaïde",
+    "heure": "23H30",
+    "date": "10/01/2026",
+    "pro": "Total: (+19.5)"
   }
 ]
