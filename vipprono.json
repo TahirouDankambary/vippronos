@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rinderknech_REN21_%282%29.jpg/330px-Rinderknech_REN21_%282%29.jpg",
-    "name1": "Arthur Rinderknech",
-    "photo2": "https://www.atptour.com/-/media/alias/player-headshot/gb93",
-    "name2": "Norbert Gombos",
-    "champ": "Tennis. Coupe Davis. Qualification",
-    "heure": "15H00",
-    "date": "07/02/2026",
-    "pro": "V1"
+    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/KC86",
+    "name1": "Darian King",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqhHhHI16nziOW6YbQzZlpKpV3aT9RKg3PLQ&s",
+    "name2": "Juan carlos Prado",
+    "champ": "Tennis. Coupe Davis",
+    "heure": "16H00",
+    "date": "08/02/2026",
+    "pro": "V2"
   },  
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Dodig_MCM23_%285%29_%2852883527210%29.jpg",
-    "name1": "Matej Dodig",
-    "photo2": "https://www.atptour.com/-/media/alias/player-headshot/h09n",
-    "name2": "August Holmgren",
-    "champ": "Tennis. Coupe Davis. Qualification",
-    "heure": "15H00",
-    "date": "07/02/2026",
-    "pro": "Handicap: 2(2.5)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDD1HGt0G2WsLsYEQcnW7eHMWVLivx1I7lA&s",
-    "name1": "Yannick Hanfmann",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Juan_Pablo_Varillas.jpg/250px-Juan_Pablo_Varillas.jpg",
-    "name2": "Juan Pablo Patino-Samudio",
-    "champ": "Tennis. Coupe Davis. Qualification",
-    "heure": "15H00",
-    "date": "07/02/2026",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Tsitsipas_S._MCM22_%28cropped%29.jpg",
+    "name1": "Stefanos Tsitsipas",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Rodrigo_Pacheco_M%C3%A9ndez_%282023_French_Open%29_02.jpg",
+    "name2": "Rodrigo Pacheco Mendez",
+    "champ": "Tennis. Coupe Davis",
+    "heure": "16H30",
+    "date": "08/02/2026",
     "pro": "Handicap: 2(6.5)"
   },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWkjXSjeAx0CXMhLlbYHNT2tEFsej_fYcUg&s",
+    "name1": "Blaise Bicknell",
+    "photo2": "https://www.atptour.com/-/media/alias/player-headshot/r0bt",
+    "name2": "Franco Roncadelli",
+    "champ": "Tennis. Coupe Davis",
+    "heure": "17H30",
+    "date": "08/02/2026",
+    "pro": "V2"
+  },
     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF812vurDyeMXCuC7W3kJNSJExbblG3WolBg&s",
+    "name1": "Kaipo Marshall",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUzHj_YqO2vmAmvcoB1O5-jfbbmoTxKaXwlA&s",
+    "name2": "Murkel Alejandro Dellien",
+    "champ": "Tennis. Coupe Davis",
+    "heure": "17H30",
+    "date": "08/02/2026",
+    "pro": "V2"
+  },
+  {
+    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/S0KT",
+    "name1": "Stefanos Sakellaridis",
+    "photo2": "https://12thman.com/images/2025/4/4/20250330_MT_GAME_KENTUCKY_JS_0079.jpg",
+    "name2": "Alan Magadan",
+    "champ": "Tennis. Coupe Davis",
+    "heure": "18H00",
+    "date": "08/02/2026",
+    "pro": "Total: (+20)"
+  },
+  {
     "photo1": "https://www.atptour.com/-/media/alias/player-headshot/G0DH",
     "name1": "Alvaro Guillen Meza",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLtb9nLkQz7gb5N4kzX0uZXPkVTToVuCoeA&s",
-    "name2": "Jordan Thompson",
-    "champ": "Tennis. Coupe Davis. Qualification",
-    "heure": "16H00",
-    "date": "07/02/2026",
-    "pro": "Handicap: 2(3.5)"
-  },
-  {
-    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/RC04",
-    "name1": "Andres Andrade",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e9MUQUZmhDdsBikbxiRwPR78-8a41aZJLg&s",
     "name2": "James Duckworth",
-    "champ": "Tennis. Coupe Davis. Qualification",
-    "heure": "17H30",
-    "date": "07/02/2026",
-    "pro": "Handicap: 1(3.5)"
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/48/Tabilo_RGQ23_%2852942983162%29.jpg",
-    "name1": "Alejandro Tabilo",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dusan_Lajovic_%2843285466791%29.jpg/250px-Dusan_Lajovic_%2843285466791%29.jpg",
-    "name2": "Dusan Lajovic",
-    "champ": "Tennis. Coupe Davis. Qualification",
-    "heure": "22H30",
-    "date": "07/02/2026",
-    "pro": "V1"
+    "champ": "Tennis. Coupe Davis",
+    "heure": "16H30",
+    "date": "08/02/2026",
+    "pro": "Total: (+21.5)"
   }
 ]
