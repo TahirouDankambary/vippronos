@@ -1,63 +1,63 @@
 
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6e9MUQUZmhDdsBikbxiRwPR78-8a41aZJLg&s",
-    "name1": "James Duckworth",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Svrcina_RGQ22_%2823%29_%2852129537653%29.jpg",
-    "name2": "Dalibor Svrcina",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Zverev_MCM23_%2820%29.jpg",
+    "name1": "Alexander Zverev",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kecmanovic_RG19_%2842%29_%2848199200981%29.jpg/250px-Kecmanovic_RG19_%2842%29_%2848199200981%29.jpg",
+    "name2": "Miomir Kecmanovic",
     "champ": "Tennis. ATP. Acapulco",
     "heure": "00H00",
-    "date": "25/02/2026",
-    "pro": "Handicap: 1(5)"
+    "date": "26/02/2026",
+    "pro": "1X2: V1
   },  
   {
-    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/P0J1",
-    "name1": "Rodrigo Pacheco Mendez",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Svrcina_RGQ22_%2823%29_%2852129537653%29.jpg",
+    "name1": "Dalibor Svrcina",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/5/53/Cobolli_RGQ23_%2852944096963%29.jpg",
     "name2": "Flavio Cobolli",
     "champ": "Tennis. ATP. Acapulco",
     "heure": "00H00",
-    "date": "25/02/2026",
-    "pro": "V2"
+    "date": "26/02/2026",
+    "pro": "Total: (+20)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Terence_Atmane_%282024_DC_Open%29_01_%28cropped%29.jpg/250px-Terence_Atmane_%282024_DC_Open%29_01_%28cropped%29.jpg",
-    "name1": "Terence Atmane",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaIzBJi6Mq0mqOO4939VufbaFy7uJtLccBEQ&s",
-    "name2": "Grigor Dimitrov",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdTNScsUdGml3PnGuIUqSmhm-u1knWDYNAUA&s",
+    "name1": "Mattia Bellucci",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Alejandro_Davidovich_Fokina_%282023_US_Open%29_06_%28cropped%29.jpg/250px-Alejandro_Davidovich_Fokina_%282023_US_Open%29_06_%28cropped%29.jpg",
+    "name2": "Alejandro Davidovich Fokina",
     "champ": "Tennis. ATP. Acapulco",
     "heure": "00H00",
-    "date": "25/02/2026",
-    "pro": "Total: (+20)"
+    "date": "26/02/2026",
+    "pro": "1X2: V1"
   },
     {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/c/c4/2022_Alexander_Zverev_9SC4939_%28cropped%29.jpg",
-    "name1": "Alexander Zverev",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Corentin_Moutet_%2845135594272%29.jpg",
-    "name2": "Corentin Moutet",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/52/T%C3%A9rence_Atmane_%282023_US_Open%29_01.jpg",
+    "name1": "Terence Atmane",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rafa_J%C3%B3dar_Espinar_2025.jpg/250px-Rafa_J%C3%B3dar_Espinar_2025.jpg",
+    "name2": "Rafael Jodar",
     "champ": "Tennis. ATP. Acapulco",
-    "heure": "01H30",
-    "date": "25/02/2026",
-    "pro": "V1"
+    "heure": "00H00",
+    "date": "26/02/2026",
+    "pro": "Handicap: 1(5.5)"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Rinky_Hijikata_%282023_Cary%29_07_%28cropped%29.jpg/250px-Rinky_Hijikata_%282023_Cary%29_07_%28cropped%29.jpg",
-    "name1": "Rinky Hijikata",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg/960px-Mattia_Bellucci_%282024_DC_Open%29_02_%28cropped%29.jpg",
-    "name2": "Mattia Bellucci",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Brandon_Nakashima_%282024_DC_Open%29_01_%28cropped%29.jpg/250px-Brandon_Nakashima_%282024_DC_Open%29_01_%28cropped%29.jpg",
+    "name1": "Brandon Nakashima",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Patrick_Kypson_%282023_Cary_2%29_05_%28cropped%29.jpg",
+    "name2": "Patrick Kypson",
     "champ": "Tennis. ATP. Acapulco",
     "heure": "01H30",
-    "date": "25/02/2026",
-    "pro": "Total: (+20)"
+    "date": "26/02/2026",
+    "pro": "Handicap: 1(0)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKjfn_RgpDDlbKxY1QAmXQj0VMo4pKxuQgNQ&s",
-    "name1": "Frances Tiafoe",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Borges_BOR22_%2852082935912%29.jpg",
-    "name2": "Nuno Borges",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg/330px-Wu_Yibing_%28Roland_Garros_2023%29_01_%28cropped_2%29.jpg",
+    "name1": "Yibing Wu",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Shimabukuro_WMQ23_%2853062069285%29.jpg",
+    "name2": "Sho Shimabukuro",
     "champ": "Tennis. ATP. Acapulco",
     "heure": "01H30",
-    "date": "25/02/2026",
-    "pro": "Total: (+20)"
+    "date": "26/02/2026",
+    "pro": "Total: (+19.5)"
   }
 ]
