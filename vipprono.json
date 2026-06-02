@@ -5,7 +5,7 @@
     "name1": "Jakub Mensik",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg/250px-Jo%C3%A3o_Fonseca_%282024_Cary%29_09_%28cropped%29.jpg",
     "name2": "Joao Fonseca",
-    "champ": "Tennis. WTA. Roland-Garros",
+    "champ": "Tennis. ATP. Roland-Garros",
     "heure": "18H15",
     "date": "02/06/2026",
     "pro": "Handicap: 1(7)"
@@ -15,7 +15,7 @@
     "name1": "Gabriela Andrea Knutson",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Garland_RGQ23.jpg/330px-Garland_RGQ23.jpg",
     "name2": "Joanna Garland",
-    "champ": "Tennis. WTA. Foggia",
+    "champ": "Tennis. WTA. Birmingham",
     "heure": "14H00",
     "date": "02/06/2026",
     "pro": "Total: (+19.5)" 
@@ -25,7 +25,7 @@
     "name1": "Celine Naef",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Inglis_WMQ22_%2818%29_%2852191635135%29.jpg",
     "name2": "Meddison Inglis",
-    "champ": "Tennis. WTA. Foggia",
+    "champ": "Tennis. WTA. Birmingham",
     "heure": "14H00",
     "date": "02/06/2026",
     "pro": "Handicap: 2(5.5)"
@@ -45,7 +45,7 @@
     "name1": "Tatjana Maria",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5OLN0EvFk26DMtCFPDiTc1hRFFijzL_jERg&s",
     "name2": "Linda Fruhvirtova",
-    "champ": "Tennis. Challenger. Pérouse",
+    "champ": "Tennis. WTA. Birmingham",
     "heure": "15H30",
     "date": "02/06/2026",
     "pro": "Total: (+19.5)"
@@ -55,7 +55,7 @@
     "name1": "Ashlyn Krueger",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sakatsume_WMQ23_%2853062186333%29.jpg",
     "name2": "Himeo Sakatsume",
-    "champ": "Tennis. Challenger. Tyler",
+    "champ": "Tennis. WTA. Birmingham",
     "heure": "15H30",
     "date": "02/06/2026",
     "pro": "1X2: V1"
@@ -65,39 +65,39 @@
     "name1": "Ana Konjuh",
     "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Dominika_Salkova_1599356_%28cropped%29.jpg/330px-Dominika_Salkova_1599356_%28cropped%29.jpg",
     "name2": "Dominika Salkova",
-    "champ": "Tennis. Challenger. Tyler",
+    "champ": "Tennis. WTA. Makarska",
     "heure": "14H30",
     "date": "02/06/2026",
     "pro": "Total: (+15.5)"
   },
     {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsq7GwO2tSkB_XiwktVPDMCIZzLWAHJ0-qA&s",
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/5/57/Miriam_Bulgaru_%2853823867450%29_%28cropped%29.jpg?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail_unscaled",
     "name1": "Miriam Bianca Bulgaru",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt0ubhn4P9m0AJGt_TZCQYrCOMHHkuFjGkrQ&s",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Noha_Akugue_RGQ23.jpg/250px-Noha_Akugue_RGQ23.jpg",
     "name2": "Noma Noha Akugue",
-    "champ": "Tennis. Challenger. Tyler",
+    "champ": "Tennis. WTA. Makarska",
     "heure": "15H00",
     "date": "02/06/2026",
     "pro": "1X2: V2"
   },
   {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Andrej_Martin_1%2C_2015_Wimbledon_Qualifying_-_Diliff.jpg",
-    "name1": "Andres Martin",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/2/29/Blake_Ellis_%282023_Cary%29_03_%28cropped%29.jpg",
-    "name2": "Blake Ellis",
-    "champ": "Tennis. Challenger. Tyler",
-    "heure": "20H30",
-    "date": "01/06/2026",
-    "pro": "Handicap: 2(4.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Waltert_WMQ22_%2811%29_%2852191598020%29_%28cropped%29.jpg/250px-Waltert_WMQ22_%2811%29_%2852191598020%29_%28cropped%29.jpg",
+    "name1": "Simona Waltert",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Teodora_Kostovi%C4%87_ITF_J300_College_Park_girls_singles_final_2_%28cropped%29.png/250px-Teodora_Kostovi%C4%87_ITF_J300_College_Park_girls_singles_final_2_%28cropped%29.png",
+    "name2": "Teodora Kostovic",
+    "champ": "Tennis. WTA. Makarska",
+    "heure": "15H00",
+    "date": "0é/06/2026",
+    "pro": "Total: (+19.5)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZeXc9BS1vaatBybAIZgSG1ae_yxlwHd6zPg&s",
-    "name1": "Landon Ardila",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZkMiYpfGGz0lMIyDqMZuNxu65koc7Yb_RmQ&s",
-    "name2": "Tyler Zink",
-    "champ": "Tennis. Challenger. Tyler",
-    "heure": "20H30",
-    "date": "01/06/2026",
-    "pro": "Total: (+18.5)"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Zidansek_WM19_%2829%29_%2848521850812%29.jpg/250px-Zidansek_WM19_%2829%29_%2848521850812%29.jpg",
+    "name1": "Tamara Zidansek",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLQ8fPeUD2L4YzpHJxG_2QOFnQ3lUKmhEwDw&s",
+    "name2": "Polona Hercog",
+    "champ": "Tennis. WTA. Makarska",
+    "heure": "16H00",
+    "date": "02/06/2026",
+    "pro": "Total: (-25.5)"
   }
 ]
