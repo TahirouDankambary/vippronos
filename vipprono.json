@@ -1,64 +1,44 @@
      
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRH8hVZncStLNZpkq6qBxRalccb4_sPqORPvXijMn9FQ&s=10",
-    "name1": "Petra Marcinko",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-Y0APoK6B4ueO5A4aNsBHzniA8-1O-0QBO3Bc_o_CoQ&s=10",
-    "name2": "Clara Burel",
-    "champ": "Tennis. WTA. Contrexeville",
-    "heure": "15H35",
-    "date": "07/07/2026",
-    "pro": "1X2: V1"
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kaylie_Collins_Washington_Spirit_2025_%28cropped%29.jpg/250px-Kaylie_Collins_Washington_Spirit_2025_%28cropped%29.jpg",
+    "name1": "Kylie Collins",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlSInzOZoXeUqktq_rRgrfj3enyqQs4LDdHhddlOc-uw&s",
+    "name2": "Alana Smith",
+    "champ": "Tennis. WTA. Newport",
+    "heure": "15H00",
+    "date": "08/07/2026",
+    "pro": "V1 Et TM (2.5)-NON"
   },  
   {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvY9WzljmZqLJXIhIoS2UBpmyKjDpmS2JTkzep-3sFzg&s=10",
+    "name1": "Katherine Sebov",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg9OLcNs5gnAMu4T4Ssb94RhBDcb44_Ts-lP-BBmH2A&s",
+    "name2": "Cadence Brace",
+    "champ": "Tennis. WTA. Newport",
+    "heure": "15H00",
+    "date": "08/07/2026",
+    "pro": "V1 Et TP (20.5)- NON" 
+  },
+  {
+    "photo1": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Brengle_WM18_%2827%29_%2843027092015%29.jpg/250px-Brengle_WM18_%2827%29_%2843027092015%29.jpg",
+    "name1": "Madison Brengle",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ65S5CPX9kCYzBy-BdeNjDjrYCqMA7hhJCCS0JTCNNg&s=10",
+    "name2": "Ana Sofia Sanchez",
+    "champ": "Tennis. WTA. Newport",
+    "heure": "15H00",
+    "date": "08/07/2026",
+    "pro": "1X2: V1"
+  },
+    {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2jLi0PE9oC7l5iUD9opiU-tDjhB5d_UbNVXMGjgzBlA&s",
     "name1": "Olivia Lincer",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLKr2CEcUGS7Fl3EVoCCF2o4umfJP5s64Z3KH9dnaioQ&s=10",
     "name2": "Tatjana Maria",
     "champ": "Tennis. WTA. Newport",
     "heure": "15H00",
-    "date": "07/07/2026",
-    "pro": "Total: (+15.5)" 
-  },
-  {
-    "photo1": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Sebov_RGQ23.jpg",
-    "name1": "Katherine Sebov",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsg9OLcNs5gnAMu4T4Ssb94RhBDcb44_Ts-lP-BBmH2A&s",
-    "name2": "Cadence Brace",
-    "champ": "Tennis. WTA. Newport",
-    "heure": "16H00",
-    "date": "07/07/2026",
-    "pro": "V1 Et TP (20.5)- NON"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSImKYLq1h8f5qu_a8FhidFBhBQgYR6HtE1DWU1d9gMgQ&s",
-    "name1": "Kylie Collins",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpEtFTDMR1x2YmHre69qdyealSRSPeADI1d8MudIeUQ&s",
-    "name2": "Alana Smith",
-    "champ": "Tennis. WTA. Newport",
-    "heure": "16H30",
-    "date": "07/07/2026",
-    "pro": "V1 Et TP (20.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFL1ppjeFQCdc9YGOp8Ep58T5bF0Xp46usrf3fX5CkeQ&s=10",
-    "name1": "Katie Volynets",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ariana_Arseneault_%282023_Wolfpack_Invite%29_04.jpg",
-    "name2": "Ariana Arseneault",
-    "champ": "Tennis. WTA. Newport",
-    "heure": "16H30",
-    "date": "07/07/2026",
-    "pro": "1X2: V1"
-  },
-    {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFEhH7VNSFvj9tHkFYhrk58SQAc_qdaBEBbAuig8wwVQ&s",
-    "name1": "Madison Brengle",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ65S5CPX9kCYzBy-BdeNjDjrYCqMA7hhJCCS0JTCNNg&s=10",
-    "name2": "Ana Sofia Sanchez",
-    "champ": "Tennis. WTA. Newport",
-    "heure": "16H30",
-    "date": "07/07/2026",
-    "pro": "Handicap: 2(8.5)"
+    "date": "08/07/2026",
+    "pro": "Total: (+15.5)"
   },
   {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiQRixS-ROSxkcV6BRH-1JDWDMg7Kp8_iX6TZAy-cjPQ&s=10",
@@ -66,29 +46,49 @@
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3aJVlY0Qwj8RtmDe2u64UVs5n7S_PzbSil0hJYAFwWA&s",
     "name2": "Kayla Cross",
     "champ": "Tennis. WTA. Newport",
-    "heure": "16H30",
-    "date": "07/07/2026",
-    "pro": "Handicap: 1(5.5)"
+    "heure": "15H00",
+    "date": "08/07/2026",
+    "pro": "V1 Et TP (20.5)- NON"
   },
     {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFL1ppjeFQCdc9YGOp8Ep58T5bF0Xp46usrf3fX5CkeQ&s=10",
+    "name1": "Katie Volynets",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Ariana_Arseneault_%282023_Wolfpack_Invite%29_04.jpg",
+    "name2": "Ariana Arseneault",
+    "champ": "Tennis. WTA. Newport",
+    "heure": "16H30",
+    "date": "08/07/2026",
+    "pro": "1X2: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSv7qJHlddQo2xpHoF_zp-I84SAgBFXOFw_TLdwbrCxw&s=10",
+    "name1": "Iryna Shymanovich",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Uchijima_WMQ23_%2853062168653%29.jpg",
+    "name2": "Hayu Kinoshita",
+    "champ": "Tennis. WTA. Newport",
+    "heure": "18H00",
+    "date": "08/07/2026",
+    "pro": "Total: (+18.5)"
+  },
+    {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtitP9j44H6gavmiBx5q_3UFpiJ46CClQRSQ_6SiYrQ&s",
+    "name1": "Katrina Scott",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mary_Stoiana_%282023_Wolfpack_Invite%29_05_%28cropped%29.jpg/250px-Mary_Stoiana_%282023_Wolfpack_Invite%29_05_%28cropped%29.jpg",
+    "name2": "Mary Stoiana",
+    "champ": "Tennis. WTA. Newport",
+    "heure": "18H00",
+    "date": "08/07/2026",
+    "pro": "1X2: V2"
+  },
+  {
     "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ660pyEf76a9YK7uuifC7DaI_QvvR9I3aUynlmhTzd4Q&s",
     "name1": "Momoko Kobori",
     "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNu0PJDBXKpkvEvpHLSWICz_tLvbGGeQoClOYsRsZuJw&s",
     "name2": "Elizabeth Mandlik",
     "champ": "Tennis. WTA. Newport",
-    "heure": "17H30",
-    "date": "07/07/2026",
-    "pro": "V1 Et TM (2.5)- NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEdRg65S9bPgQOyeENQWWsEUHgmyXJJ0x7D_Iabrgq3w&s=10",
-    "name1": "Mananchaya Sawangkaew",
-    "photo2": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/2018_Roland_Garros_Qualifying_Tournament_-_63_%28cropped%29.jpg/250px-2018_Roland_Garros_Qualifying_Tournament_-_63_%28cropped%29.jpg",
-    "name2": "Caroline Dolehide",
-    "champ": "Tennis. WTA. Newport",
-    "heure": "19H00",
-    "date": "07/07/2026",
-    "pro": "Total: (+19.5)"
+    "heure": "18H00",
+    "date": "08/07/2026",
+    "pro": "1X2: V2"
   
  }
 ]
