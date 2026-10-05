@@ -1,83 +1,83 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRWZ05505KAFfJVuc6-8L8drkS0z82QCZVk4M-bgeo3g&s=10",
-    "name1": "Joao Eduardo Schiessl",
-    "photo2": "https://www.atptour.com/-/media/images/news/2026/10/03/11/54/zverev-beijing-2026-saturday-1.jpg",
-    "name2": "Benjamin Torrealba",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCfUJ-DSOU-66Zw-cBZOE8z8zPyWhMcWeLZMjNYT6hDw&s=10",
+    "name1": "Gonzalo Villanueva",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw0n3iS0uOdIP2PkpDBA1tZuQJsR3bXI7q0nr-h05f6A&s=10",
+    "name2": "Nick Hardt",
+    "champ": "Tennis. Challenger. Antofagasta",
+    "heure": "17H00",
+    "date": "05/10/2026",
+    "pro": "Total de Sets: V1 ET TP (2.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDYON15yUmrVcZS6qw5p5gtSBaYFfWLOL3_5hugz_tug&s=10",
+    "name1": "Murkel Dellien",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk0Q6SEHFmsMO9_53h2U3Pesb4XDz24WI6SHQvagV4SQ&s=10",
+    "name2": "Juan Estevez",
+    "champ": "Tennis. Challenger. Antofagasta",
+    "heure": "17H00",
+    "date": "05/10/2026",
+    "pro": "V1 ET TP (19.5)- NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpQKOFlf_raltSpcCRqUYrpKiBEvVqkKR162hIndty_w&s",
+    "name1": "Genaro Alberto Olivieri",
+    "photo2": "https://www.atptour.com/-/media/images/news/2026/10/02/10/46/beijing-djokovic-2026-celebration.jpg",
+    "name2": "Valerio Aboian",
+    "champ": "Tennis. Challenger. Antofagasta",
+    "heure": "19H00",
+    "date": "05/10/2026",
+    "pro": "V1 ET TM (19.5) - NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRL_LQHnj2cXcuYTeb33P0ZredoqMmeseCwMAu6YIv2Q&s=10",
+    "name1": "Mateus Alves",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUOBWO5lyb78RS-Wr95jP6IRMm_1A5B4L40SwkggA0Cw&s=10",
+    "name2": "José Pereira",
     "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "13H00",
-    "date": "04/10/2026",
+    "heure": "14H30",
+    "date": "05/10/2026",
+      "pro": "1X2: V1"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsdI9xo8Z8PIr_bvT2z44rDwW3PTvENuZ23uMItAp9cw&s=10",
+    "name1": "Nicolas Kicker",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkhhs5i8zXR9GQTHo9xBE8rBDUzKf6BN6XRC9Ljur-YA&s=10",
+    "name2": "Thiago Cigarran",
+    "champ": "Tennis. Challenger. Antofagasta. Qualification",
+    "heure": "14H30",
+    "date": "05/10/2026",
     "pro": "1X2: V1"
   },
   {
-    "photo1": "https://www.atptour.com/-/media/tennis/players/head-shot/2025/02/19/01/37/fils_head_2025.png",
-    "name1": "Franco Ribero",
-    "photo2": "https://www.atptour.com/-/media/tennis/players/head-shot/2026/02/17/17/14/fonseca_head_2026.png",
-    "name2": "Lorenzo Joaquin Rodriguez",
-    "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "13H00",
-    "date": "04/10/2026",
-    "pro": "1X2: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkX9mTuPMXSgXFw2_5XYneZhLx-0CGsFqYUjKhePGOqg&s",
-    "name1": "Joaquin Aguilar Cardozo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTczAucuiwT6y09EIAOHZnF6J0h7qYWA5GK8U13M-R8vw&s=10",
-    "name2": "Santiago De La Fuente",
-    "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "13H00",
-    "date": "04/10/2026",
-    "pro": "Total de Sets: V1 ET TM(2.5) - NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_1FnCcah561JBdQI5qcB6L2ednKAdbqU3P4PIjfDfLw&s",
-    "name1": "Bernardo Munk Mesa",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfyPMuAKjxviaEGeH5x90-1ebDpQKvxXD4PQHV1hyHVw&s=10",
-    "name2": "Bruno Fernandez",
-    "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "14H30",
-    "date": "04/10/2026",
-      "pro": "V1 ET TP(20.5) - NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEFiO0bwoa5p7w1VaebCGsnzR0YYgfAhzJoYKbyPGb_00u6CuS6cyBY6c&s=10",
-    "name1": "Nicolas Bruna",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92k9LhfjSJjjvcYbQSAltLOuE-ATe6NywZ9MNuDu4xw&s=10",
-    "name2": "Alan Magadan",
-    "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "14H30",
-    "date": "04/10/2026",
-    "pro": "1X2: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvoOZ_o2L-WC5llbMlYiGVIQaZZJFtFhTFJalD5941OQ&s=10",
-    "name1": "Hernan Casanova",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkv3_fZCf673bf76MwgP3GwsiI6mm5t9vCY-Xbc1_YTg&s",
-    "name2": "Wilson Leite",
-    "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "14H30",
-    "date": "04/10/2026",
-    "pro": "V2 ET TP(18.5) - NON"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8ovraP8EwMlwhhCtuO4bskFl2Cjr6iVXeGPdfZs_z7w&s=10",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk-xq1NR7gx1NqQ1CyJTf0tnR68j7av2hfYEM6zjyp0w&s=10",
     "name1": "Lucio Ratti",
-    "photo2": "https://images.prismic.io/fft-rg-site/7a751702-b9c3-492b-b6cc-ab5057923b15_20210604_PJ_CoutoLouraroJoaoVictor_ID+%281%29.png?auto=compress,format&rect=0,0,600,600&w=300&h=300",
-    "name2": "Joao Victor Couto Loureino",
+    "photo2": "https://images.prismic.io/fft-rg-site/ZlyK16WtHYXtT_5H_50379_M.ZEITUNE.png?auto=format,compress?auto=compress,format&rect=0,0,1080,1080&w=400&h=400",
+    "name2": "Maximo Zeitune",
     "champ": "Tennis. Challenger. Antofagasta. Qualification",
-    "heure": "17H30",
-    "date": "04/10/2026",
-    "pro": "1X2: V1"
+    "heure": "14H30",
+    "date": "05/10/2026",
+    "pro": "V2 ET TM (21.5) - NON"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8S8KTz9TGCymeH_EmtbrRrZj5pcWxZXEMzpsJZlasKw&s=10",
+    "name1": "Vilius Gaubas",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRM9ZJtZPVmHyS472gQxwDcQtA3YIa5TAY2Yh6AghVpzQ&s",
+    "name2": "Joao Domingues",
+    "champ": "Tennis. Challenger. Braga",
+    "heure": "13H30",
+    "date": "05/10/2026",
+    "pro": "V1 ET TM (18.5) - NON"
    },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ1eAg84I3QisMaqgShswqysmqvuKr1DiapuykaVb38w&s=10",
-    "name1": "Joshua Sheehy",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SntXuWVzs8Cb9L0Ve-2V_lxxd6AWJpKJSVtODbIuzQ&s=10",
-    "name2": "Ivan Marrero Curbelo",
-    "champ": "Tennis. Challenger. Villena. Qualification",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0QXs6_x9PeR6ieRm2vne9A2EhYOTUsrVwbUNHRtECaA&s",
+    "name1": "Thiago Monteiro",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjaKuDOtEeNs40Z-v48xXNsh8zZ3B7dPE0c4BdtDbeL2IwfRi0xoRAqmU&s=10",
+    "name2": "Elmer Moeller",
+    "champ": "Tennis. Challenger. Braga",
     "heure": "13H30",
-    "date": "04/10/2026",
-    "pro": "V1 ET TP(20.5) - NON"
+    "date": "05/10/2026",
+    "pro": "V1 ET TM (21.5) - NON"
     
   }
 ]
