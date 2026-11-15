@@ -1,102 +1,82 @@
 [
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-JIcH1EPmL83vnhwik6fn83bWb1YnXoB-lWPU2_YZyg&s=10",
-    "name1": "Mirra Andreeva",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA4ub3H6OMBCB6Z58M7-2mppcv4d1AxiKQSAsMk7PjbQ&s=10",
-    "name2": "Jessica Pegula",
-      "champ": "Tennis. WTA. World Tour Finals. Indian Wells",
-    "heure": "20H05",
-    "date": "14/11/2026",
-    "pro": "Total: (+18)"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPd2QXln_q3DzC2dDuNhSCFxH1p_ymullK70TQNn2SOA&s=10",
+    "name1": "Alexander Zverev",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBP-HwEVcsZt3La1zHcOz5E9nNuOOVhDyFE2LceoJonA&s=10",
+    "name2": "Rafael Jodar",
+      "champ": "Tennis. ATP. World Tour Finals. Turin",
+    "heure": "13H00",
+    "date": "15/11/2026",
+    "pro": "Total: (+20)"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQKJVKFvqRyLY_VG8728x4Jy-votZ8XI1epxmAJapzpQ&s=10",
-    "name1": "Linda Noskova",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemWvUzjmM0hW3zy3i-GrolluqPfhG2KBB8S_93Tlv1g&s",
-    "name2": "Elina Svitolina",
-    "champ": "Tennis. WTA. World Tour Finals. Indian Wells",
-    "heure": "21H35",
-    "date": "14/11/2026",
-    "pro": "V1 ET TM (20.5)- NON"
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIlquSnZPhZx_dTjkYjm6n7hx_ssyT7GnYkj-tQagS2g&s=10",
+    "name1": "Ben Shelton",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-YorEJGwdxXiZTWxMPwVeCP8jt7217Jg0dTz0WbWSJg&s=10",
+    "name2": "Arthur Fils",
+    "champ": "Tennis. ATP. World Tour Finals. Turin",
+    "heure": "19H30",
+    "date": "15/11/2026",
+    "pro": "V1 ET TM (22.5)- NON"
   },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgxHbd7Kabfwuxm3xD6nTnXE3JBRcWavzx_1MW3uxd9g&s=10",
-    "name1": "Bianca Vanessa Andreescu",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnCgznvhVz5t2JPXRVML_cI_Bw0SGRLSCVm-Qwz5N0iw&s=10",
-    "name2": "Elizabeth Mandlik",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQemWvUzjmM0hW3zy3i-GrolluqPfhG2KBB8S_93Tlv1g&s",
+    "name1": "Elina Svitolina",
+    "photo2": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Mirra_Andreeva_WMQ23_%28cropped%29.jpg?utm_source=fr.wikipedia.org&utm_campaign=index&utm_content=original",
+    "name2": "Mirra Andreev",
     "champ": "Tennis. WTA. Sopo",
-    "heure": "17H00",
-    "date": "14/11/2026",
-    "pro": "Total: (+17)"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsomfE5TKET5yXHt9UqnMBWPayUos_Ltg0P77_L-1g6w&s=10",
-    "name1": "Christian Langmo",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMiNF5vuo-ZWBr5IxdcQyqvqZX-6hSXJEEWv15mD7D0Q&s=10",
-    "name2": "August Holmgren",
-    "champ": "Tennis. Challenger. Brisbane 3",
-    "heure": "03H00",
+    "heure": "20H00",
     "date": "15/11/2026",
-      "pro": "Handicap: 2(-1)"
+    "pro": "Total: (+17.5)"
   },
   {
-    "photo1": "https://www.atptour.com/-/media/alias/player-headshot/r0bt",
-    "name1": "Franco Roncadelli",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn9i20SebVlbSaTsdyzo8HB2KMCh7zSUotcMjs4KOLQQ&s",
-    "name2": "Max Alcala Gurri",
-    "champ": "Tennis. Challenger. Lima",
-    "heure": "19H00",
-    "date": "14/11/2026",
-    "pro": "1X2: V2"
-  },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwq5VEEePYR4b2aaBvE4E3uy5UmsipAaddIAuYLEgJBA&s",
-    "name1": "Joao Lucas Reis Da Silva",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb3wqY5P-KXRYz-i-d-CDVfqHJw_axNa7JDiIzspIzDw&s=10",
-    "name2": "Nikolas Sanchez Lzquierdo",
-    "champ": "Tennis. Challenger. Lima",
-    "heure": "20H30",
-    "date": "14//2026",
-    "pro": "Total: (+20)"
-    },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVp_OTyW3i0tDb1m5JKGSXiDphQJYDEXGgmMj9Ph73w&s=10",
-    "name1": "Billy Harris",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPs6c0UGqnbJBOXT3XMBMwQxug5MXpt-lQw4hl0oxDg&s",
-    "name2": "Yu Hsiou Hsu",
-    "champ": "Tennis. Challenger. Matsuyama",
-    "heure": "04H00",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWedf_2nsTgOoD0M5ETPwhfnKoUgCKwESX7wHmV6f-lQ&s",
+    "name1": "Diletta Cherubini",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGmgvqCcoPU4IenT6jAqY1xjyht9IOpHkLD05DSM-l7g&s",
+    "name2": "Alexandra Osborne",
+    "champ": "Tennis. WTA. Colina. Qualification",
+    "heure": "14H30",
     "date": "15/11/2026",
-    "pro": "Total: (+20)"
+      "pro": "Total: (+15.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZi6iBc-pieRVuEV2SwXFeIXpYErC3FqkstFrBp0XA3Q&s",
+    "name1": "Martina Trevisan",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpiJF0iDvdodduiFfdY4xvd5lG5V-om76zGn0wneYfbg&s",
+    "name2": "Samantha Alvarez",
+    "champ": "Tennis. WTA. Colina. Qualification",
+    "heure": "14H30",
+    "date": "15/11/2026",
+    "pro": "Total: 2(10.5)"
+  },
+  {
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIZPC320klvY9dZYBKC7nPLSvxjC6D830PoTgkBnA8yQ&s=10",
+    "name1": "Ariana Geerlings Martinez",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7KEsTV55OkGP5H-RhldvegzYu5M3pPlb39Q4pQgd0yw&s",
+    "name2": "Camila Rodero Contreras",
+    "champ": "Tennis. WTA. Colina. Qualification",
+    "heure": "16H000",
+    "date": "15/11/2026",
+    "pro": "V1 ET TP (16.5)- NON"
     },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC10CdTiSAJxx6s7qaoQD-OiAXbSIGIV20vkYJE3SzVw&s=10",
-    "name1": "Abedallah Shelbayh",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb22ZfdGrrDHiVy1937bpKm732GXc6ROYYRchqbjeD3w&s=10",
-    "name2": "Daniel Milavsky",
-    "champ": "Tennis. Challenger. Knoxville",
-    "heure": "16H30",
-    "date": "14/11/2026",
-    "pro": "Total de Sets: V1 ET TM (2.5)- NON"
-    },
-  {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiEbyiPS-vYdKzQjBueXVtK1dRtuoiJZ6JC08du5fUgg&s",
-    "name1": "Clement Chidekh",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoLNcFTBSXT2kfQGa13pYY8ER1yLtsRcQ7c-gA832X8w&s=10",
-    "name2": "Michael Zheng",
-    "champ": "Tennis. Challenger. Knoxville",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQia18vAk42dNwkzBGm7ko0207vGeOrI16rHRQeiKfjgw&s=10",
+    "name1": "Zhibek Kulambayeva",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmcrK3QDctMm7uyrNjVScCW83k9WekMMfHr3tuZpHcuQ&s=10",
+    "name2": "Valeriya Strakhova",
+    "champ": "Tennis. WTA. Colina. Qualification",
     "heure": "18H00",
-    "date": "14/11/2026",
-    "pro": "V1 ET TM - (21.5)- NON"
-  },
+    "date": "15/11/2026",
+    "pro": "V1 ET TM (20.5)- NON"
+    },
   {
-    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpIuUGzv7sk_fe03YwP93isa2rfQp4wEEfdT3m4cvZCQ&s=10",
-    "name1": "Pedro Martinez Portero",
-    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQHuPbAk7CrrfNKeEYztYxLmtMu3BxheBUMQi3ZpIBQ&s=10",
-    "name2": "Otto Virtanen",
-    "champ": "Tennis. Challenger. Orléans",
+    "photo1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEtt34fdZGQ_cmof3UY-ugXNNQ8CR9uiuwTAkDG0GDmw&s=10",
+    "name1": "Carlos Sanchez Jover",
+    "photo2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA6aKvZlAY2Ye7BjGGEckBtfy5Q6vzyW1z8Vp8n6H3Tg&s=10",
+    "name2": "Ignacio Carou",
+    "champ": "Tennis. Challenger. Montévidéo. Qualification",
     "heure": "16H00",
-    "date": "14/11/2026",
-    "pro": "1X2: V2"  
+    "date": "15/11/2026",
+    "pro": "Total de Sets: V1 ET TM (2.5)- NON"
   }
 ]
